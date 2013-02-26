@@ -1,0 +1,4614 @@
+A1B	2
+AAC1	2
+NAT-1	2
+NAT1	4
+AAC2	2
+NAT2	2
+ACT	9
+DAC	2
+ABC1	2
+RMP	3
+ABL	2
+p150	4
+ABP	2
+DAO	2
+ABP1	2
+ARG	2
+A3GALNT	2
+GTB	2
+ACCA	2
+LCAD	2
+MCAD	2
+ACAT	3
+MAT	2
+T2	2
+ACAT1	2
+ACAT2	2
+BNC1	2
+ACLS	3
+TRAP	6
+PAP	8
+CFTD	3
+NEM1	2
+NEM2	2
+ACTB	2
+ACTBP2	2
+ACTL6	2
+FOP	3
+ACVRLK4	2
+ALK1	2
+MS2	2
+AD10	2
+MADM	2
+DSH	2
+IFI-4	2
+ADCY3	2
+PACAP	2
+PAC1	4
+ADH4	2
+FALDH	2
+FDH	2
+AM	2
+ADORA2	2
+ARH1	2
+PARP	2
+PARPL	2
+ADRA1	2
+ADRA1A	2
+DAR	2
+ZNF32	2
+BAR	3
+ASL	2
+ESP1	4
+ARP	4
+AFD1	2
+ALF	2
+AFP	2
+GA	2
+AGC1	2
+MSK16	2
+RAGE	2
+AGT	2
+AT1	3
+AGT1	2
+DSS	3
+HHG	2
+IRT1	2
+AIM1	3
+AK3	2
+AK3L1	2
+AK3L2	2
+PKB	2
+ASB	2
+AMN	2
+ALDC	2
+ALDH4	3
+ALDH7	2
+E3	4
+ALDRP	2
+ALDR1	2
+AR	3
+ANXA8	3
+IAP	4
+TNAP	2
+ALP	8
+PLAP	3
+PLAP-1	2
+GCAP	2
+ALS6	2
+HCP	3
+AMD	2
+AMGL	2
+MIF	4
+MAD	2
+GCE	3
+NKH	2
+AMY1	3
+AMY2	2
+AMY2B	2
+PA	4
+ANCR	3
+RNASE4	2
+AGP1	2
+ANG1	2
+ANG2	2
+ANK	2
+SPH2	2
+LAP1	4
+P150	2
+ANT1	2
+T1	3
+2F1	2
+LPC1	2
+LIP2	3
+PP4	2
+acyloxyacyl hydrolase (neutrophil)	2
+CED4	2
+LIN10	2
+DP2	3
+DP3	2
+GS	2
+APC	2
+PTX2	2
+SAP	2
+APS1	2
+D3F15S2	2
+DNF15S2	2
+APE	2
+HAP1	2
+REF1	3
+AIP1	7
+MIHC	2
+EPR-1	2
+APPL2	2
+APOA2	2
+BEDP	2
+AD2	2
+BG	3
+AAA	3
+PN-II	2
+APS	2
+PSA	5
+KLK3	2
+APT1	2
+FAS	2
+KID	3
+AQP9	2
+AIS	3
+ARA	2
+MLP1	2
+MRP6	2
+COPD	2
+ARD1	3
+ARF1	2
+ARL6	2
+ARG1	2
+H9	2
+C1	4
+ARL1	2
+NCAM2	2
+TANGO	2
+ARNT	2
+MOP3	2
+TIC	2
+MLD	2
+ARSC	2
+ASC	2
+ASF	3
+ARTC1	2
+RT6	2
+ART1	2
+DOK1	2
+ARVD2	2
+PHP	2
+ASH1	2
+ASH2	2
+HL-1	2
+HL-2	3
+ASP	7
+ASIP	2
+AT3	2
+ATD	2
+ATF1	2
+CREB2	2
+ATDC	2
+ATX1	2
+ATP1A1	2
+RDP	3
+DD	2
+ATP2B2	2
+ATP5A	4
+ATPM	2
+ORM	2
+P3	2
+VPP2	2
+VATB	2
+VPP3	2
+ATP6C	2
+ATP6D	2
+P31	2
+ATP6G	2
+Stv1	2
+Vph1	2
+XAP3	2
+MK	3
+OSCP	2
+WD	2
+FRP1	2
+ATR	4
+RAD54L	2
+SHS	2
+VP	2
+AVP	3
+ADHR	2
+SP3	2
+HBP	4
+BACH1	2
+HAP	4
+PP18	2
+BCAM	2
+CHE1	2
+E1	4
+BCL5	2
+LGS	3
+BOP	4
+BCS	2
+AHO3	2
+BDMR	2
+BDNF	2
+BFD	2
+BGP	2
+PGI	2
+BP4	2
+BS	2
+RECQL2	2
+RECQL3	2
+BMH	2
+PCP	2
+PCP2	2
+10q23del	2
+ETK	2
+PSCTK2	2
+NIP1	3
+BRCC1	2
+BRCC2	2
+FACD	2
+FAD	3
+FAD1	2
+FANCB	2
+FANCD	2
+BRF1	2
+ERF1	3
+BRF2	2
+BTD	2
+CKLF	2
+BTF3	2
+OCIF	2
+OPG	2
+TNFRSF11B	2
+AT	2
+DBI	2
+IBP	3
+p32	2
+C2	2
+CO4	2
+C4BP	2
+PRP	4
+HTRA3	2
+C6	2
+C7	3
+C9	2
+ANG3	2
+C11orf2	2
+C11orf3	2
+C11orf4	2
+C11orf5	2
+PBF	2
+A2	4
+CAB	3
+CAV	2
+CARP	3
+MN	2
+CA11	2
+HPCA	2
+TS	4
+COD3	2
+COD4	2
+OA2	2
+HOKPP	2
+CAK	2
+NEP	2
+CAB1	3
+EJM	2
+EJM4	2
+EJM6	2
+CAD	2
+CR	5
+CABP	2
+CABP1	2
+CGRP	2
+CT	2
+CRT	3
+CTR1	2
+CDM	2
+PHKD	3
+CLP	3
+SSA	2
+IV	2
+CAMP	2
+MCP	2
+CAPG	2
+CANP	3
+CSS1	2
+CAPS1	2
+CAPS	2
+CAPZ	3
+CAST	3
+CAPB	2
+MCH2	2
+CAR	7
+CAT	2
+VIP21	2
+CCD1	2
+OSF-2	2
+OSF2	2
+AML1-EVI-1	2
+CDR	3
+CCA1	2
+GTK	2
+KAT1	2
+CCK	2
+CCN1	3
+p34	3
+p37	3
+CCT	2
+HTR3	2
+CD1	3
+T6	2
+CD1A	5
+R1	3
+R2	3
+SRBC	2
+CD3G	2
+LEU1	2
+AIM	3
+GP40	2
+MAL	3
+LEU2	3
+P37	2
+CD14	2
+B1	4
+CD20	2
+MS4A2	2
+S7	4
+MS4A1	2
+BB1	2
+p67	2
+CD33L2	2
+FAT	2
+GPIV	2
+CLA1	2
+HB6	2
+p50	3
+LHR	2
+OA3	2
+LAMP-3	2
+GP110	2
+EA1	2
+II	5
+B29	2
+CDD	2
+CDC2	2
+CDK11	2
+CDK11-p110	2
+CDK11-p46	2
+CDK11-p58	2
+CLK-1	2
+p58	3
+CDC25	2
+CDH1	2
+CDH3	2
+RCAD	2
+CDH7	2
+OB	2
+P105	2
+CDH14	2
+CDH16	2
+CDH24	2
+STK1	2
+CIP1	2
+P21	2
+CDKN1A	2
+KIP1	2
+BWS	2
+IMAGE	2
+KIP2	2
+WBS	5
+p57	2
+CDK4I	2
+MLM	2
+MTS1	3
+P14	4
+P19	4
+P15	3
+p18	4
+KAP	2
+KAP1	2
+CDS	2
+CDS1	2
+PSS	2
+CLGN	2
+CEA	4
+CEBP	2
+CRP2	3
+LAP	7
+CRP3	2
+CRP1	3
+BAL	3
+CELL	2
+FAP	3
+LIPA	3
+CENPC	2
+MIF2	2
+CEH	2
+CES2	2
+SES1	3
+CFL1	2
+JP	2
+MRP7	2
+dJ760C5.1	2
+HCG	3
+CGA	2
+CGB5	2
+CGB7	2
+CGB8	2
+CEACAM3	2
+NCA	2
+CEACAM22P	2
+CHAT	2
+C11	2
+CHK	2
+CK	2
+EK	3
+CKB	2
+GGTA	2
+CHM	2
+CHN	2
+BCH	2
+M1	2
+CHS1	2
+ACHRD	2
+CMS2A	4
+FCCMS	3
+SCCMS	4
+LNCR2	2
+BFNC	2
+EBN	2
+EBN1	2
+CHRNA7	2
+CMS1D	2
+G18	2
+CKMT1	2
+CSA	3
+CKS1	2
+SCAR2	2
+mu2	2
+CLC	2
+CACC	2
+CLC2	2
+ECA2	2
+NPHL2	2
+TRPM2	2
+STY	2
+CLK1	3
+CLK2	2
+TPP1	2
+NCL	3
+CLNS1B	2
+ICln	2
+LCA	3
+MCT1	3
+CMPD1	2
+CMD1C	2
+LGMD1D	2
+LGMD1E	2
+CMD2A	2
+CKR-1	2
+CCR4	2
+DCR2	2
+CCR10	3
+CCR9	2
+CCBP2	2
+MRP2	3
+CNA1	2
+CNC	2
+CNG4	2
+GAR1	2
+GARP	2
+CNK	2
+SMCC	2
+CNP	2
+CNR1	3
+CNR2	2
+F3	2
+COD2	2
+OI4	2
+ICH	2
+ATS	2
+CXDELq22.3	2
+DELXq22.3	2
+OPLL	2
+PPCD	2
+MED	5
+IDD	2
+COP	2
+BCD1	2
+COT	2
+EST	2
+COX4	2
+COX7AL	2
+COX	2
+COX11P	2
+COX11	2
+CPA3	2
+PCPB	2
+GP180	2
+CPD	2
+CPN1	3
+ACBP	2
+CPN2	3
+CPO	2
+CPX	3
+CPS1	2
+CPT1	3
+CRABP-I	2
+RBP5	2
+CRABP-II	2
+CAT1	2
+ATF2	2
+CBP	5
+G13	2
+CRF	2
+CRIP	2
+CRIP1	2
+p38	4
+DRP-1	2
+DRP1	5
+PTX1	3
+CRP	3
+CRS1	2
+CRD	2
+OTX3	2
+CRYG5	2
+CCL	2
+DFNA40	2
+CSBP	2
+RK	2
+CAS	3
+CS-1	3
+PL	3
+CS-2	2
+CSB	2
+CSN1	2
+CSN2	2
+CSN3	2
+CK1	3
+CSNK2A1	2
+ERVR	2
+MCSP	3
+CSRP	2
+cysteine and glycine-rich protein 2 pseudogene	2
+CST6	2
+CSTP1	2
+CAP	7
+ESO1	3
+LAGE2B	2
+CTB	2
+CT1	2
+CTH	2
+CD	4
+GSE	3
+ICOS	2
+p120	5
+CPSB	2
+CTSO	2
+CTSO1	2
+CATL	2
+MEP	2
+CASP	3
+p100	5
+p110	2
+p200	3
+p75	4
+CCRL1	2
+CXorf2	2
+TEX28P1	2
+TEX28P2	2
+CYC1	2
+MFT	2
+TEM	3
+AHH	2
+AHRR	2
+CP11	2
+CYP1	3
+P450C2A	2
+P450PB	2
+CYP2A	4
+CPA6	2
+CPAD	2
+CYP2B	2
+CYP2B7	2
+CYP2B7P	2
+CYP2C	4
+CYP2D	2
+CYP2D7AP	2
+P450C2D	2
+P450DB1	2
+CYP2D7BP	2
+CYP3	2
+CYP3A	2
+HLP	5
+PCN3	2
+CYP11B	2
+CP27	2
+VDR	2
+CYPL1	2
+DAB1	3
+TC	2
+DAGK	2
+DGK	2
+DAP	3
+ZIP	2
+EAP1	4
+DBC1	2
+DBM	2
+EP	2
+DBP	3
+E2	3
+PGII	2
+DCP1	2
+DCR	2
+HBAB	2
+MCDR2	2
+CEBPZ	2
+OST	2
+WBP1	2
+HLP2	2
+p68	2
+P54	3
+RCK	2
+HRH1	3
+RHA	2
+CHL1	2
+HRH2	2
+HNP-1	2
+HP-1	2
+HP1	3
+MRS	3
+DEFA1	2
+DEF3	2
+HP3	2
+DEFA3	2
+DEF6	2
+DEFB4	2
+SAP1	4
+PFD	2
+CFD	2
+MTS	2
+CATCH22	2
+DGS	2
+VCF	2
+DGCR	2
+DHFRP1	2
+dihydrofolate reductase pseudogene	5
+DHS	2
+DS	3
+DIA1	3
+DTD	2
+DRF1	2
+DIA	2
+DIA2	2
+POF	3
+DIFF6	2
+LARP	2
+41153.0	2
+DIO1	2
+D2	2
+LAD	2
+DLD	3
+DLG2	2
+MRX	2
+DLG3	2
+DLG4	2
+TDO	2
+BP1	2
+BMD	2
+SAR	2
+SDH	3
+DMP1	2
+DM1	2
+DMT1	3
+HL1	2
+PCD	4
+HL2	2
+SMALED	2
+p22	3
+PBP	5
+RAI1	2
+DGPT	2
+GPT	2
+UGAT	2
+MBD1	2
+DPPIV	2
+TRAMP	4
+DHP	2
+DRP2	2
+DRP3	2
+DADR	2
+BRIGHT	2
+B37	2
+HRS	4
+DSC1	3
+DSC3	2
+DSC2	2
+RCN1	2
+DIP	5
+DP	3
+DSP	2
+EDM4	2
+DUSP1	2
+PAC-1	2
+MKPX	2
+HB5	2
+dual specificity phosphatase 8 pseudogene	4
+DVL	2
+DVL1L1	2
+DVL1	2
+RD	6
+DYX1	2
+RBP3	2
+OLF1	2
+ULG4	2
+ECGF	2
+ECGF1	2
+TP	3
+HED	2
+EDG1	2
+EDG2	2
+GPR26	2
+HPH2	2
+PH2	2
+EEF-1	2
+EF1A	2
+EEF1AL	2
+HS1	4
+EEF1B1	2
+EF1B	2
+EEF1B	2
+LGTN	2
+B61	2
+GLC1M	2
+SBP1	2
+ZNF225	2
+CMT4E	2
+LBP	3
+EIF1A	2
+EIF1AP1	2
+EIF-2A	2
+EIF2	3
+EIF2A	2
+EIF2B	4
+ARCC2	2
+CTPA	2
+CTPP1	2
+ECK	2
+EIF4A	2
+EIF4F	3
+P97	2
+EIF-5A	2
+GE	2
+SCN1	2
+ELF1	2
+MEF	2
+ELK1	3
+ELK2	2
+NET	3
+SAP2	2
+WS	3
+STA	2
+PAR-1	2
+HLF	2
+HE	2
+TYRO4	2
+EHK1	2
+ELK	2
+ERK	2
+HEP	2
+EPO	3
+QARS	2
+NEU	2
+TTD	2
+ER	2
+BTF2	5
+TFIIH	6
+RAD1	3
+ERF	2
+p55	7
+RF1	2
+EMA	2
+MADD	4
+ETM2	2
+EWSR2	2
+PE-1	2
+LGCR	2
+EXT2	2
+REG	2
+BOR	2
+EZH1	2
+PAR1	4
+TR	6
+PAR2	3
+PAR3	2
+TF	2
+FIX	2
+PTC	5
+FX	3
+F10	3
+F11	2
+FAAH	2
+M-FABP	2
+FABP5	2
+MRG	2
+FA	2
+FA1	3
+FAH	2
+FACE	2
+FAE	2
+LACS2	2
+ACS3	2
+FAF	2
+OCTD	2
+WMS	2
+FBP	6
+APY	2
+IGEL	2
+IGER	2
+IGHER	2
+IGFR1	2
+CD32	3
+FCG2	3
+FCGR2	2
+IGFR2	3
+CD16	2
+FCG3	2
+FCGR3	2
+FCR-10	2
+FCRIII	2
+P35	4
+FCP	2
+FCP1	2
+SS	3
+FPS	2
+EPP	2
+FGF2	2
+INT2	2
+HST	2
+HSTF1	2
+FGF-13	2
+FLG	2
+CFD1	2
+FGFR6	2
+SRC2	2
+MCL	2
+FH	3
+SLIM	2
+FHL1	3
+FHL3	2
+FIM1	2
+FKBP12	5
+PPIASE	2
+PPIase	9
+FKBP51	2
+p52	3
+IHG1	2
+LD	2
+TTF2	2
+MPP2	2
+ZNF286C	2
+MART1	2
+ABP-280	3
+FMD	2
+MNS	4
+SCT	2
+TAP	4
+ESA	3
+ESA1	2
+PCL	2
+FMO2	2
+FRAXA	2
+FMR1	2
+FMR2	2
+FRAXE	2
+MRX2	2
+MSF	3
+GCP2	4
+PSM	3
+AP-1	5
+FPRH1	2
+FPRH2	2
+FRA10A	2
+FRA16D	2
+FRITZ	2
+LRH-1	2
+FHC	3
+ferritin, heavy polypeptide 1 pseudogene	3
+SF1	2
+GAS	3
+FUS1	2
+HH	2
+LE	2
+FCT3A	2
+FY	2
+GPD	2
+SLK	2
+SYN	2
+G6PD	2
+GAB1	2
+GABBR1	2
+NRF2	2
+E4TF1	2
+E4TF1B	2
+GABPB2	2
+GABPB1	2
+SCP	3
+CT4.2	2
+GAGE-2	2
+GAGE2	2
+AL4	3
+CT4.7	3
+GK1	2
+GK2	2
+HHS	2
+CMT2D	2
+HMN5	2
+SMAD1	2
+GARS	2
+PAIS	2
+GF1	2
+VSD1	2
+GLUC	2
+GBP3	2
+GCD	2
+GLP1	3
+DYT14	2
+FGQTL3	2
+GK	2
+GLK	2
+HK4	2
+GCK	2
+GCKR	2
+CBBM	2
+COD5	2
+GCP	2
+GOP	2
+DORV	2
+KIR	2
+ALR	3
+HSS	4
+GGT	5
+GLYT2	2
+GGTA1P	2
+GT1	2
+GH	2
+IGHD1B	2
+IF	2
+GIF	3
+GIP	3
+DFNB38	2
+MP70	2
+DFNA3	2
+PPK	2
+DFNA2	2
+EKV	2
+GLA	2
+EBP	3
+GCL	4
+GCS	2
+PAPA	2
+PHS	2
+HKPX1	2
+KGA	2
+GLS	2
+GDH	4
+GDH2	2
+NNX3	2
+87U6	2
+C20orf45	2
+GSP	2
+GNG8	2
+LHRHR	2
+GIG18	2
+GOT1	3
+KAT4	2
+SFN	2
+BDPLT1	2
+GNPI	2
+NLK	2
+GPI	2
+M6A	2
+CD182	2
+UTR	2
+GPRK7	2
+AAT1	3
+GPX6	2
+GPXL1	2
+GPXL2	2
+IRBP	2
+MEG1	2
+RSS	3
+GRF2	2
+GLUR2	2
+GLUR3	2
+GRIK2	2
+GLUR7	2
+NR1	2
+GRIN1	2
+GRL	2
+GCR2	2
+MIP2	2
+MIP2A	2
+GRP	4
+ERp60	2
+P58	4
+PI-PLC	3
+ADF	2
+GST1	2
+GSS	2
+GST2	5
+MU	4
+GST3	2
+PI	2
+GSTT2B	2
+TFIIA	2
+FE	2
+BTF4	3
+TFIIF	3
+p44	3
+SPIN	2
+TFIIIB90	2
+GUCA2	2
+STAR	3
+PAS-2	2
+CTLA1	2
+CORD5	2
+TRYP2	2
+H1	4
+H2A.1	2
+H2A.2	2
+H2B.1	3
+MRX17	2
+MRX31	2
+SCHAD	2
+GBP	4
+HADH	2
+HCDH	2
+HIS	2
+USH3B	2
+CD31	2
+HBH	2
+HBM	2
+HBB	2
+HBD	3
+HC2	3
+HCF2	2
+HLS2	2
+RHC	2
+PPOX	2
+OX2R	2
+HCRTR2	2
+HTT	2
+HD1	2
+RPD3	4
+HDC	2
+LSH	2
+CFHL3	2
+HLA-H	2
+SF	3
+HGF	3
+ARIA	2
+GGF2	2
+HGL	3
+HRG	2
+HRG1	2
+PRH	2
+ILWEQ	4
+HK1	4
+HK2	4
+HK3	2
+AS	2
+CELIAC1	2
+IDDM1	2
+HLA-DQB1	2
+DRB1	2
+HLA-DRB	2
+DR4	2
+CDA12	2
+HLA-CDA12	2
+HLAL	2
+MR1	2
+HCS	2
+PORC	2
+HL	2
+TR3	3
+HNRPA1L3	2
+SNRPB1	2
+HNRNP	2
+SNRPC	2
+HNRPG	2
+RBMXP1	2
+HOX1	10
+HOX1D	2
+HOX2	9
+K8	2
+HU-1	2
+HU-2	2
+HOX3	7
+HOX4	7
+HOX4E	2
+HP	3
+PPD	3
+PGDH	2
+HPS	2
+HPT	2
+HRAS1	2
+RIP	3
+HCP1	4
+HHL	2
+HES1	2
+HSD3B	2
+HSD2	2
+EDH17B2	2
+EDHB17	2
+HSD17	3
+HSJ2	2
+HSP70-2	2
+HSP27	2
+HSPCA	2
+HSPCAL1	2
+LAP2	3
+HSPG	2
+HIS1	3
+HTX2	2
+S12	4
+GP	2
+TN	2
+TN-C	2
+TNC	2
+NAT6	2
+HYAL1	2
+ILERS	2
+BNSP	2
+ILPR	2
+IDDM2	2
+IDDM10	2
+IDH	2
+IDP	2
+IPP1	2
+MPS1	4
+P56	2
+IFNA	3
+IFNA13	2
+IFN-alphaI	2
+IFN-alpha-REC	2
+AF-1	2
+PC4	3
+IBP1	2
+ALS	2
+PSF	2
+TAF	2
+GIG1	2
+IGHDY1	2
+IGHEP1	2
+AGM1	2
+VH	36
+SUH	2
+IGKV	2
+IGLC6	2
+IGLC	7
+IGVPB	2
+RED	2
+IL1RA	2
+P80	2
+IRAP	2
+CD25	2
+EDF	2
+TRF	2
+GP130	3
+GCP-1	2
+NAP1	8
+IL8RA	2
+P40	4
+TGIF	2
+CLMF	2
+ALRH	2
+MPP4	2
+IMP	2
+IMPDH1	2
+p33	2
+p47	2
+ING2	3
+FRP	3
+RLF	2
+INT6	2
+PDX1	2
+MUM1	2
+PPS	2
+VWS1	2
+BDPLT2	2
+GT	2
+IA4	2
+LFA-1	2
+MAC-1	2
+SLEB6	2
+CD18	2
+EIF3A	2
+SHAP	3
+EMT	2
+IP3R	2
+JBS	2
+JUNB	2
+KAL	2
+KMS	3
+MK2	2
+KCNA8	2
+LQT5	2
+K13	2
+CIR	2
+PHHI	2
+DPK	2
+OAT1	2
+SK1	2
+SK2	2
+IK1	2
+ATFB1	2
+RWS	2
+WRS	2
+NKHC	2
+NKAT	2
+CD158b	3
+NKR	2
+OBP	2
+SRP1	2
+IPOB	2
+MIP	4
+MIP1	2
+TRN	2
+NS	3
+KRTAP5-1	2
+KRTAP5-9	2
+EHK	2
+EPPK	2
+NEPPK	2
+CYK4	2
+KRT6C	2
+PC2	5
+K7	2
+SCL	3
+K12	2
+PC	4
+HA2	2
+KRTHA3A	2
+HB1	3
+KRTHB1	2
+HB2	2
+CG1	4
+MASA	2
+S10	3
+BM600	2
+LAMA3	2
+CLM	2
+LAMB2	3
+LRP	4
+SA	2
+p40	6
+PP17	2
+SMN	3
+LPL	2
+LCP1	2
+LPH	2
+LEPR	2
+LGALS2	2
+L31	2
+GAL7	2
+LGALS7	2
+ULG5	2
+LIM1	2
+LIG1	2
+LIG2	2
+LIG3	2
+LIPB	2
+LIPH	2
+FADS6	2
+LGL2	2
+F5F8D	2
+HGPS	3
+PRO1	2
+LMN2	2
+TTG1	2
+LOXL	2
+LP	2
+SPO	2
+LRRN1	2
+LRRN4	2
+APR	2
+LRP1	2
+DBS	2
+LRP10	2
+EVR1	2
+MRAP	2
+LAMP	2
+LTBP3	2
+LTBP2	2
+AU	2
+SCA2	2
+LYP	2
+MTCP1	3
+L6	3
+MACS	2
+MAD1	2
+MAD2	2
+BSP1	2
+MADH6	2
+MADH7	2
+BPAD	4
+MAGE1	2
+MAGE2	2
+MAGEA2	2
+MAGEA6	2
+MAGEA4	2
+CT1.5	2
+MAK	2
+MAP1A	2
+MAP2	2
+MARS	2
+PUR1	2
+PVALB	2
+PCM1	2
+MBL	2
+MBP	3
+MBP1	3
+MBS	2
+MCD	2
+TM	2
+CCNL1	2
+MCM2	2
+TLX	2
+MCS	3
+MDC	2
+MOR1	2
+MDK	2
+HDMX	2
+MRP1	3
+NIPA2	2
+MES	2
+ME1	2
+ODS1	2
+ME2	3
+MRXSL	2
+RS	4
+RTS	2
+MEF2B	2
+MRG1	4
+MEIS3	2
+MRG2	2
+SCG2	2
+MOX1	3
+MOX2	2
+MER5	2
+RCCP2	2
+MET	2
+MTF1	3
+GLCT1	2
+GLYT1	2
+MGAT1	2
+MGAT2	2
+MGAT3	2
+MGF	2
+C2TA	2
+OSX	2
+CMK	2
+CMM8	2
+ATXN3	2
+HNPCC	2
+MST	4
+SPRK	2
+HRX	2
+MLL/GAS7	2
+TRX1	2
+MME	2
+CLG	2
+ST3	2
+1	2
+dJ353E16.2	2
+MAT1	2
+MNG1	2
+MOS	2
+PIG11	2
+PMI	3
+PMI1	2
+MPI	2
+MPP1	2
+TST2	2
+SYM1	2
+MPP	2
+P0	2
+MRE11B	2
+MRP	3
+MRX1	2
+MS	2
+DUP	2
+NG23	2
+MSP	4
+PSP	7
+SRA	3
+MSSE	2
+HGFL	2
+MST1	2
+MSH	2
+PFM1	2
+MT1	12
+MTC	2
+MTP	2
+MT1K	2
+MTB	2
+MTF	2
+MT2	2
+MSAP	2
+ATP6	3
+ATP synthase F0 subunit 6	3
+ATP8	3
+ATP synthase F0 subunit 8	3
+tRNA	65
+COX1	4
+cytochrome c oxidase subunit I	3
+COX2	4
+cytochrome c oxidase subunit II	3
+COX3	4
+p8MTCP1	2
+CYTB	3
+cytochrome b	3
+ND1	4
+MTND2	2
+ND2	3
+ND3	3
+ND4	3
+ND4L	3
+ND5	3
+ND6	3
+FGQTL2	2
+MTTP	2
+RNR1	3
+s-rRNA	3
+RNR2	2
+l-rRNA	3
+TRNE	2
+MTTK	2
+PEMT	2
+PUM	2
+MLP	3
+SMUC	2
+MUC3	4
+MUC3A	2
+MUC5	2
+POB1	2
+TEF3	2
+bHLHe38	2
+SPMD	2
+MLC2	2
+ALC1	2
+MLCK	3
+NMI	2
+MYO1C	2
+GS1	2
+BED	2
+M130	2
+C20orf36	2
+MYT1	2
+NAC	2
+NAG	2
+NAP1L	2
+NRP	3
+NAP2	2
+DAN	2
+NB	2
+NBP	3
+NBP1	2
+NUBP1	2
+NBS	2
+NBS1	2
+NBN	2
+PWCR	2
+FEVR	2
+ZNF183	2
+B9	2
+NDUFA4	2
+ACP	2
+B12	2
+B17	2
+B18	2
+DRG1	3
+RPF1	2
+41154.0	2
+CAS2	2
+NRP1	2
+NRP2	2
+NEU1	2
+WSS	2
+ACN	2
+CTF	4
+p45	3
+NRF1	2
+p105	2
+LST1	3
+CBF-A	2
+CBF-B	2
+HAP2	2
+HSM	2
+HEN1	2
+NSCL2	2
+SCML1	2
+NIDDM1	2
+NM	2
+NMB	2
+NME1	2
+NOL1	2
+NOS	2
+NOS1	2
+INOS	2
+NOS2	2
+NOS3	2
+AGS2	2
+NOTCH3	2
+INT3	2
+NOV	3
+NP	4
+PNP	2
+p220	2
+NPC1	2
+NPH1	2
+NG2-6	2
+NT3	3
+ANF	2
+GUCY2B	2
+NPR2	2
+NPR3	2
+NP1	2
+NP2	2
+NPYR	2
+NRAP	2
+RC3	2
+NTN	2
+SKD2	2
+NT	2
+NT5	2
+NTE	2
+TRK	2
+TRK1	2
+ROR1	2
+ROR2	2
+TKT	2
+ADIR2	2
+OA1	2
+OATP1	3
+OAZ	2
+AZ2	2
+BOCA	2
+P	3
+PED	3
+SHEP1	2
+OCM	2
+INPP5F	2
+ODC	2
+ODC1	2
+ODF	2
+ODF2	2
+CT134	2
+OPA1	2
+TR1	3
+MOP	3
+ORC1	2
+ORC2	2
+HET	2
+OSM	2
+MUC9	2
+UNR	3
+PDI	3
+HCNP	2
+PABP3	2
+SPC1	2
+PEP	3
+LIS2	3
+MDCR	2
+MDS	5
+PAFAH	2
+PAG	2
+PAGB	2
+PRX1	2
+TDPX2	2
+PAI	2
+PAK1	2
+PAK2	2
+PAK3	2
+PAL	3
+PAM	2
+PCS	2
+HIP	4
+PAP1	4
+REG-III	2
+PAR4	3
+WS3	2
+AN	4
+WAGR	3
+PhLP	2
+PBG1	2
+PBX2	2
+G17	2
+PCDH2	2
+PIMT	2
+PCN	2
+SCKL4	2
+PC3	4
+SPC3	2
+PCTAIRE	2
+PDC	2
+PD-1	2
+PD1	3
+SLEB2	2
+PDK1	2
+PC-1	2
+PCA1	2
+ATX	2
+EVA	2
+PDS	2
+CLAMP	2
+OI12	2
+OI6	2
+PEPC	2
+PER1	2
+ZWS	2
+PEX1	2
+NALD	2
+PDF	3
+MM1	2
+PFN1	2
+PGA3	3
+PGA4	3
+PGA5	3
+PGAM-B	2
+PGAM1	2
+PGD	2
+PGK2	2
+PR	3
+MDR1	2
+PTP	3
+PCL1	2
+PHF2	2
+GDN	2
+PI7	2
+PN1	2
+CAP2	2
+PI3K	4
+PIM1	2
+PIK3CD	2
+p85	5
+UBL5	2
+PIN1	2
+PIP	2
+ARP1	5
+PTX3	2
+PKD2	2
+PKD3	2
+PK1	2
+PKR	2
+PLA2	3
+PLA2L	3
+ZAC	2
+ZAC1	2
+UPA	2
+PLCE	2
+PRIP	3
+PLD1	2
+P47	3
+PLGP1	2
+PLB	2
+LH2	2
+PLP	4
+A4	4
+PRL1	3
+SEP	2
+P2	2
+PMP22	2
+p6	2
+PMS2CL	2
+PNMT	2
+DRS	2
+H5	2
+ARTS	2
+p180	2
+POLB	2
+MDP1	2
+PEO	2
+SANDO	2
+POLH	2
+RBP4	2
+XAP4	2
+CLIP	3
+POR	2
+PIT1	2
+OCT1	2
+OCT6	2
+RDC-1	2
+OCT3	2
+POU5F1P4	2
+PP1	2
+GLM1	2
+MED1	2
+GPAT	2
+PPAT	2
+SCAR10	2
+TC1	4
+TC2	2
+CYPH	2
+PP2CA	2
+PP2Calpha	2
+PP2CB	2
+I1	2
+PPP1R6	2
+PTPA	2
+CNA2	2
+PP5	2
+PPT	2
+Y4	2
+SPC	2
+PRB1	2
+PRG	2
+PE	2
+P1	6
+PRF1	2
+PRG1	4
+PRG2	3
+PRH1	3
+AMPK	3
+PRKACA	2
+PKR1	2
+PRKAR1	2
+PKR2	2
+PRKAR2	2
+PRK1	2
+ERK3	3
+EIF2AK1	2
+DAP4	2
+PIG6	2
+PRODH2	2
+PRPH	2
+PRPS1	2
+TRP1	4
+TRY1	2
+TRY4	2
+PRSS1	2
+T9	2
+TRY3	2
+CAP1	2
+PRSSL1	2
+P29	2
+PSAP	4
+PSD	3
+AD3	2
+PS1	2
+PS2	2
+DHFRP2	2
+PSGGA	2
+SP1	3
+PSG1	4
+PSG9	2
+PSG10	2
+PSBG-11	2
+PSG11	2
+HC3	2
+HC8	2
+PSC5	2
+HC5	2
+HN3	2
+DELTA	2
+S4	3
+p56	2
+MSS1	2
+TBP1	2
+S6	2
+S8	2
+TRIP1	2
+p42	2
+S2	2
+TRAP2	2
+S3	2
+HYPF	2
+S14	3
+p27	4
+p28	3
+S9	2
+S11	3
+PSS1	3
+PSORS2	2
+PTB	2
+TEP1	2
+DP1	3
+PGD2	2
+PGDS	2
+EP2	2
+FP	2
+IP	4
+PTH1	2
+PGG/HS	2
+HHM	2
+PTHR	2
+A6	2
+TMSA	2
+PTMA	2
+HARP	5
+SHP1	2
+HEPTP	2
+CFC	2
+LPAP	2
+SCC1	2
+PTPU2	2
+PTPRO	2
+PTPRQ	2
+PTPRZ	2
+PRR	2
+PRR2	2
+PXMP1	2
+PAF1	2
+PXN	2
+ET	2
+GS2	2
+RAM	3
+MSS4	2
+Gx	2
+RAC3	2
+TRAD	2
+TC4	2
+ANE1	2
+NUP358	2
+TRP2	2
+SD	2
+RAP1	2
+K-REV	2
+RAP1GA1	2
+RAR	2
+ArgRS	2
+TIG1	2
+RIG1	2
+GAP	2
+RASA1	2
+CDC25L	2
+RBP1	2
+RBP2	3
+PACT	2
+RIM	2
+SAE2	2
+SCKL2	2
+P130	3
+HCC-4	2
+RBM	2
+RBM1	2
+RBMY1C	2
+YRRM2	2
+RCD1	2
+RCN2	2
+RCP	3
+RDS	2
+RP7	2
+REGL	2
+p65	2
+REN	2
+RBP	2
+A1	4
+RFC1	2
+RGS2	2
+RGP3	2
+RGP4	2
+SCZD9	2
+RGS13	2
+RH	2
+Rh4	2
+RHEB	2
+ARS	2
+ROC2	2
+ROC1	2
+RIT1	2
+RMD1	3
+RRP2	2
+RNS4	2
+E2-1	2
+BAP-1	2
+BAP1	3
+RING2	2
+RNF3	2
+SNURF	2
+RING5	2
+RAI	3
+RNH1	3
+RNU1	2
+U2	4
+U3	6
+U4	7
+U7	4
+U13	4
+SAX3	2
+ORP1	2
+RP1	3
+RP2	3
+COD1	2
+RP3	3
+RPA1	2
+RPA2	2
+ASC-1	2
+L3	3
+L5	2
+L7	4
+L8	3
+L9	2
+DXS648E	2
+L10	2
+RPL10	2
+L11	3
+L12	2
+L13	3
+RPL13	2
+L15	2
+L17	3
+RPL23	3
+L18	3
+L19	3
+L21	2
+L22	2
+L24	2
+RPL24	2
+L30	2
+RPL36A	2
+MIG6	2
+RPL7P	2
+ribosomal protein L7 pseudogene	4
+RPP2	3
+RPS12	2
+MRPS12	2
+RSK	3
+CLS	2
+SRK	2
+RIG	3
+RPS17L	2
+RPS17L1	2
+RPS17L2	2
+RPS18	2
+DBA	2
+RPS26	3
+UBC	3
+RPS27A	2
+HNT	2
+RS1	2
+NSP	4
+NSP2	2
+JTK5	2
+S100	2
+FSP1	2
+60B8AG	2
+CFAG	2
+MRP8	3
+NIF	2
+P8	2
+P11	2
+p10	2
+SAA	2
+SAA4	2
+SAA2	2
+SAC2	2
+SAG	2
+SERS	2
+SARS	2
+SAS	2
+KFSDX	2
+SAT1	3
+ERG3	2
+SCA8	2
+SCCA1	2
+FHM3	2
+HBSCI	2
+NAC1	2
+HBA	2
+HYPP	2
+CMPD2	2
+PFHB1	2
+SSS1	2
+SCP2	3
+SR	2
+MCAF	2
+SCYA2	2
+464.2	2
+D17S1718	2
+LD78	2
+LD78BETA	2
+SCYA3L	2
+SCYA3L1	2
+LAG-1	2
+LAG1	3
+SCYL1	2
+SCYL2	2
+HCC-2	3
+SCYL3	2
+AMAC1	2
+PARC	2
+GCP-2	2
+NTT	2
+SDH1	2
+SDH2	2
+SEA	2
+TRAPPC2P1	2
+SELP	2
+SEN2	2
+SFPQ	2
+9G8	2
+SWAP	2
+SCG3	2
+SH3BGR	2
+RP11-3J10.8	2
+SBP	2
+SHFM3	2
+SHSF3	2
+HLP3	2
+TPT	3
+SHMT	2
+SI	2
+Gal-NAc6S	2
+ST3GALII	2
+MRT12	2
+P100	2
+SIL	2
+SPA1	2
+TIP39	3
+SNO	2
+EMC19	2
+OCP2	2
+TCEB1L	2
+SLAP	2
+SLA	2
+AAAT	2
+DYT17	2
+ATR1	2
+CD98	2
+WR	2
+AE2	2
+SMIT2	2
+NET1	5
+SLC6A5	2
+GAT2	2
+CAT2	3
+TSC	3
+MCT	3
+MCT7	2
+SLC17A2	2
+VAT1	2
+SLIT3	2
+SLIT1	2
+ISWI	2
+SNF2LB	2
+SWI2	3
+BAF190	2
+SNF2	2
+Rsc8	2
+Rsc6p	3
+BCD541	2
+GEMIN1	2
+SMA3	2
+SMA4	2
+SMO	2
+ASM	2
+SRS	2
+SMS	2
+SUMO3	2
+SN	2
+PARK4	2
+FAN1	2
+SNRPD1	2
+SMF	2
+SMG	2
+SNT1	2
+SNT2	2
+SOAT	2
+LRP9	2
+SRA1	5
+HYAL3	2
+FSP2	2
+OF	3
+HAI	2
+SPN	2
+SPP2	2
+SPP1	2
+SPR	2
+HPP	2
+SRC1	2
+PAPT	2
+SPS1	2
+SRM	2
+ALURBP	2
+SOSS-B1	2
+CS1	2
+CT5.4	2
+SYT	2
+ST2	3
+FAM10A4	2
+HOP	3
+ISGF-3	2
+STAT5	2
+NRK2	2
+STK2	2
+STK3	2
+ISSX	2
+P-PST	2
+SG2NA	2
+FHL5	2
+PST	2
+STP	2
+HAST3	2
+M-PST	2
+ST1A3/ST1A4	2
+TL-PST	2
+SULT1C2	2
+HSST2	2
+STD	2
+HI	2
+MED24	2
+SCP1	2
+P65	2
+ADAM18	2
+NKIR	2
+ADA2	2
+TAF2A	2
+TAF2C2	2
+TAFII105	2
+TAF4B	2
+AK6	3
+CINAP	2
+TAK1	2
+TAL	2
+TAL-H	2
+PSF1	2
+TAP1	2
+PSF2	2
+TAP2	2
+TRBP	3
+TAT	2
+TAZ	2
+TBL1	2
+THAS	2
+TFIIS	3
+SIII	3
+TCF-4	2
+TCF4	2
+IDDM20	2
+TCF-1	2
+FJHN	2
+TCF-3	2
+TCF3	2
+SC1	2
+POD1	2
+TC-1	2
+TCI	2
+TCS1	2
+D6S230E	2
+TCRA	2
+TCRD	4
+TCRAV5S1	2
+TRD	2
+TCRG	2
+TCRGC1	2
+TRGC1	2
+TCRGC2	2
+J1	3
+J2	3
+JP1	2
+JP2	2
+TCRGV5P	2
+V1S5P	2
+CRIPTO	2
+TDGF1	2
+TDGF2	2
+TPH2	2
+PRX2	2
+TPX1	2
+TEC	4
+TP1	2
+TRF2	2
+TP2	2
+MTTF1	3
+TCF6L1	2
+TCF6L3	2
+SEF	2
+NR2F2	2
+NR2F1	2
+HPS2	2
+TFI	2
+p90	3
+AITD3	2
+CED	2
+CSD	2
+TSP1	2
+THM	2
+TOP	2
+TPO	2
+THRA1	2
+GRTH	2
+HCI	2
+SFD	2
+TEBP	2
+TTF-1	2
+TTF1	2
+TK2	2
+TLN	2
+ESG	5
+ESG1	2
+TLL	2
+SLEB1	2
+A15	2
+GT334	2
+BEC1	2
+A20	2
+p60	2
+TNNC1	2
+DA2B	2
+TNT	2
+HXBL	2
+TNX	2
+TOC	2
+BBP	4
+TIM	4
+DA1	2
+TPS2	2
+PTEN2	2
+TR2	6
+ECGP	2
+TRA1	2
+TRAF2	2
+TRAP1	3
+TRE	2
+TRNP1	4
+RNTMI2	2
+TRM1	3
+TRNAMI2	2
+TRP3	2
+TRPC7	2
+LAM	2
+ATTP	2
+TTP1	2
+H2-ALPHA	2
+TUBB	2
+TUBB2	2
+TRX	2
+TMS	2
+SHEP11	2
+RN	2
+UBA52	2
+UBC2	2
+UBC4/5	3
+UBC4	2
+UBCH8	2
+UBC7	2
+P18	5
+L-UBC	2
+CIR1	2
+SENP2	2
+BMIQ4	2
+UGT	2
+UGT1	5
+UGT2	2
+UGD	2
+UGPP1	2
+UGP1	2
+GNT1	3
+UGT1A	2
+UGT2B11	2
+UMPK	2
+UPP	2
+UP2	2
+QP-C	2
+QPC	2
+RIP1	3
+RIS1	2
+UBP	2
+CLRN1	2
+DRP	2
+p63	3
+VARS2	2
+TERA	2
+p97	3
+VDAC3	2
+VRP	2
+HRCA1	2
+RCA1	2
+VIP	2
+RDC1	2
+VR1	2
+IMD2	2
+LAT2	2
+INT1	2
+INT4	2
+CHD5	4
+WT2	2
+XBP1	2
+XCE	3
+XG	2
+XGPY	2
+SXI1	2
+XIST	2
+APP1	2
+KCIP-1	3
+TTP	3
+ZNF4	2
+ZNF5	2
+DM2	2
+HZF1	2
+ZNF20	3
+ZNF182	2
+ZNF422	2
+KOX2	2
+KOX31	2
+KOX5	2
+KOX21	2
+MZF-1	2
+PIGX	2
+MYM	6
+RAMP	3
+SCLL	2
+ZNF230	2
+ZRC1	2
+DLK	2
+MEMO1	2
+P28	3
+AIR	2
+BART	2
+DAP3	2
+HPC2	2
+PCAP	2
+LAP3	2
+BRPF1	2
+RAB7	2
+CRS3	2
+EOS	3
+G2	3
+BAT1	3
+OLFR42B	2
+LST-1	2
+TNDM1	2
+EPM2A	2
+P38	2
+FZD3	2
+ECD	2
+ST7	3
+P60	2
+TIM1	3
+M33	2
+NOR1	2
+CAIN	2
+DGCR2	2
+H4	4
+TPC	2
+TST1	2
+GDA	2
+MCMP	2
+LMO4	2
+FRA	2
+NTN4	2
+KAR	2
+KMT2B	2
+MLL4	2
+MLL2	2
+CART1	3
+DOC1	3
+PABP2	2
+C15orf1	2
+LAT1	2
+PFHB1B	2
+SPK	2
+HMCS	2
+MKS	2
+CHED	2
+CHED2	2
+AIB1	2
+CTG26	2
+TNRC14	2
+bHLHe42	2
+CAF-1	2
+CAF1	4
+MPP7	2
+URP	4
+A11	2
+MMD1	2
+CALM	2
+BCOX	2
+GPCR	11
+H2A	2
+H2A/q	2
+dJ221C16.8	2
+H3.1	2
+PIG9	2
+OR11-13	2
+OR11-22	2
+OR17-23	2
+OR17-2	2
+OR17-30	2
+OR17-16	2
+STAP1	2
+HUB1	2
+FAN	2
+PRP8	2
+SPT3	2
+SEMAL	2
+SIP1	4
+MRT1	2
+PP2C-DELTA	2
+L2	3
+SGT2	2
+LIP1	4
+LAT3	3
+NRXN4	2
+CCL28	2
+KLHL35	2
+MIFR	2
+MIFR-1	2
+MMP23A	2
+MMP21	2
+GL	3
+DAGK5	2
+DAGK6	2
+C6ST	3
+NABC1	2
+STRA13	2
+CDC14B	2
+TYRRS	2
+PNK	2
+RRP1	2
+FBP2	3
+RAX	2
+OR11-11a	2
+OR11-55	2
+OR11-104	2
+TIH1	2
+LPP1	2
+PAP2	3
+LPP2	2
+CDH20	2
+DD3	3
+MP1	2
+DLC1	3
+EIF3CL	2
+NBC2	2
+SLC4A5	2
+HsT16992	2
+cPLA2-beta	2
+HMAT1	2
+ARAT	3
+SLP4	2
+GAGE-9	2
+PAGE-1	2
+GBF1	2
+CAP1A	2
+APRIL	2
+ADAM23	2
+PABP4	2
+RIP2	2
+SNAPA	2
+NAPA	2
+MPDZ	2
+PERRS	2
+RGS9	2
+DCR1	2
+P42	2
+BCRP1	4
+D14S1460	2
+BCRP2	2
+SAR1	2
+CT58	2
+HCA3	2
+PUMAG	2
+Puma-g	2
+KSR	2
+DLEU2	2
+p23	2
+p25	3
+PAR	2
+LDB1	2
+ZIP3	2
+p62	4
+T6BP	2
+EIF-2B	3
+CLE	2
+G10	2
+PRP4	2
+CACNA1I	2
+MBD2	2
+PRAP	2
+SCAR1	2
+P39	2
+pH2A/f	2
+MGA	2
+ARC	2
+SL1	3
+NIK	2
+SAD1	2
+HIP3	2
+CRAM	2
+HCR	3
+SEMAF	2
+PNR	2
+L14	2
+SCAP	2
+AIP	2
+ASE1	2
+MIZ	2
+CLIM1	2
+CDY	4
+HRG4	2
+TGT	2
+TRE17	2
+USP10	2
+VMA6	2
+MCT6	2
+MCT5	2
+MCT4	2
+MCT3	2
+BAM	2
+HCAP	2
+EB1	4
+MIG12	2
+ST2L	2
+GEF	2
+KNTC1AP	2
+DDX21	2
+CL1	2
+TRIP	2
+ETL1	2
+SPR210	2
+MAGI1	2
+RAB11B	2
+MSC	2
+CLF	3
+NR6	2
+SDR1	2
+EMAP2	2
+GPR58	2
+TAAR2	2
+NET2	2
+SOCS4	2
+MMP20	2
+TGM6	2
+POP2	3
+p21	2
+PSK	2
+TAO1	2
+L23	2
+CER1	2
+SIP-1	2
+E4	2
+UFD2	2
+LONP	2
+ADPN	2
+APM-1	2
+APM1	2
+C6orf8	2
+P76	2
+DFNB6	2
+SUR2	2
+ARC34	2
+CRL1	2
+CCTB	2
+TRFP	2
+HNK1ST	2
+SPS	3
+NBC3	2
+CT12.1	5
+CTP9	5
+ADAMTS-2	2
+ADAMTS-4	2
+MPP11	2
+CST	3
+MIC1	2
+TLP	3
+SKD1	2
+POLR1C	2
+PIG8	2
+KS1	2
+Vma10	2
+H2AFJ	2
+AT744.2	2
+CCL4L	2
+SCYA4L	2
+MCOPCB6	2
+APOBEC1L	2
+ARP4	2
+HCC1	2
+CT90	2
+CMT2	2
+PRX	2
+PRDX6	2
+TRAC1	3
+TRAC	2
+TRAC-1	2
+MRF1	3
+ARM1	2
+UCRP	2
+FEZ1	2
+TSBP	2
+CEP4	2
+KIAA0430	2
+KIAA0040	2
+IPS1	2
+KIAA0391	2
+SAP190	3
+KIAA0100	2
+KIAA0355	2
+KIAA0226	2
+KIAA0408	2
+HDAC7	2
+GASP	3
+GASP-1	2
+TRX2	2
+KIAA0513	2
+KIAA0247	2
+KIAA0101	2
+KIAA0195	2
+KIAA0232	2
+KIAA0586	2
+MSPS	2
+MRP-L15	2
+MRPL15	2
+KIAA0087	2
+KIAA0141	2
+KIAA0494	2
+PISD	2
+tamo	2
+RGP1	2
+NECC1	2
+KIAA0125	2
+B2	2
+CED-12	3
+CED12	3
+KIAA0528	2
+KIAA0753	2
+FIR	2
+KIAA0319	2
+AIP-1	2
+ARIP1	2
+KIAA0317	2
+MIG7	2
+POM121	2
+LRRC37A	2
+TEL2	2
+KIAA0196	2
+SRGAP2	2
+SRGAP3	2
+SLC35E2	2
+CNAP1	2
+PAN2	3
+CMT2A	2
+PEN	2
+KIAA0020	2
+RBM8B	2
+TAR	2
+OSR1	2
+GOLGA5	2
+UBH1	2
+USP12	2
+MVP	2
+SLC23A1	2
+SLC23A2	2
+CLEC2B	2
+HPR1	2
+P84	2
+REC8	2
+LAN	2
+GCPIII	2
+PTE2	2
+ADPRTL2	2
+ADPRTL3	2
+CAPC	2
+GJC1	2
+ARX	2
+AOS1	2
+PheRS	2
+SMRP	2
+DLP1	2
+M-ABC1	2
+GPBP	2
+ARP3	2
+ARP2	3
+NET4	2
+NET3	2
+SGK2	2
+LAK	2
+CALDAG-GEFI	2
+P5	2
+D10S102	2
+FBRNP	2
+HNRPA3	2
+WASF4	2
+ODZ3	2
+G15	2
+PHLP3	2
+TSH1	2
+HRMT1L3	2
+MPP6	2
+SDR25C1	2
+EVA1	2
+ISO1	2
+PAD1	2
+PRG4	3
+SCP3	2
+MAFA	2
+TRB1	2
+KCNMB2	2
+RPP20	2
+p14	3
+STAG1	2
+SIN	2
+LILRA6	3
+DNAJ	2
+PIG5	2
+APC2	3
+KAT	3
+CPP	2
+NSPLII	2
+NAF1	2
+ARM	2
+NOC4	2
+HMSNP	2
+HMGB1L1	2
+PORMIN	2
+TMEM123	2
+CFEOM3A	2
+TUBB4	2
+TUBB5	2
+PRG3	2
+DRG-1	2
+NDR1	2
+HE2	2
+YAP	2
+GCP3	2
+SIP	5
+CEP2	2
+AMY	2
+P78	2
+DRS1	2
+CLECSF13	2
+HML	2
+MGL	2
+FS	2
+RP58	2
+UbcM2	2
+SLC9A6	2
+B5	2
+CREB3	2
+GRIP1	3
+PAT1	2
+P160	2
+HREP	2
+SM25H2	2
+CIB	2
+PLIP	2
+TIP	4
+AGS4	2
+AG2	2
+GC1	2
+PRAF1	2
+MRPL28	2
+CLL1	2
+HBLRR	2
+USP16	2
+CLP1	3
+BDP	2
+MRCL3	2
+PN	2
+IMP1	3
+ZBP1	2
+IMP-3	2
+IMP3	3
+IMP2	3
+NAPOR	2
+DTL	2
+B3GNT1	2
+CRN	2
+POLQ	2
+NIP	2
+NAPB	3
+SCAR3	2
+CPX2	2
+CPX1	2
+SPINT3	2
+OR11-3	2
+OR11-1	2
+EAF1	2
+CD85	2
+HCP5	2
+NET5	2
+ME3	2
+PRL3	2
+DIP2	2
+MLT	2
+MMP25	3
+SMAP	3
+SMAP2	3
+CRA	2
+DIM1	2
+PRO1068	2
+UCN2	2
+ED3	2
+EDA3	2
+CHIF	2
+SPIN1	2
+RALBP1	2
+CSR	2
+POP1	3
+AP47B	2
+CLA20	2
+TOB55	2
+p25beta	2
+PDIR	2
+TMS-1	2
+p24	4
+LILRB5	2
+SDS	2
+IPS	2
+TMSB15B	2
+RAB1C	2
+RAY	2
+ILT5	2
+LILRB3	2
+SERPINB11	2
+RIP3	2
+STN1	2
+b55C20.2	2
+glucuronidase, beta pseudogene	8
+B3GNT6	2
+POLK	2
+CEP1	2
+FIG	2
+CIT	2
+RCN3	2
+NK1	2
+KNTC2AP	2
+DMC1	2
+SPG18	2
+STRAP	2
+RIF1	3
+GLUT6	2
+GLUT9	2
+PTH2	3
+BRX	2
+AKAP2	3
+RPML3	2
+C12orf2	2
+PMF1	2
+NPH3	2
+NPH2	2
+CHP	2
+CHP1	2
+PRR4	2
+AGS1	2
+GNT-IV	2
+BAP	2
+EAP2	2
+RZF	2
+ATG8	2
+KIAA1009	2
+DK1	2
+THC2	2
+NTNG1	2
+MRK	2
+KSR2	2
+NL1	2
+MIR	3
+GSG1	2
+KIAA0907	2
+NDPP1	2
+RUFY3	2
+ZP1	2
+EBF3	2
+SKIP	4
+DUX10	2
+DUX4	2
+PGR1	3
+CYP2G2P	2
+SAST	2
+MAST1	2
+FBL7	2
+SPEN	2
+p8	2
+61E3.4	2
+KIAA0913	2
+AIB3	2
+ASC2	2
+HB-1	2
+TTLL5	2
+PASK	2
+RGL1	2
+AUTL1	2
+FBL6	2
+KIAA0182	2
+INPP5E	2
+LPD	2
+SYT12	2
+SYT11	2
+KIAA0922	2
+KIAA0556	2
+KIAA1024	2
+ANCO1	2
+EXOC1	2
+CL2	3
+KIAA0664	2
+KIAA1107	2
+ACS2	2
+KIAA0930	2
+KIAA1033	2
+KIAA1045	2
+ZNF	6
+EFA6R	2
+KIAA0895	2
+KIAA0947	2
+APH2	2
+KIAA0368	2
+LEURS	2
+Nomo	3
+PM5	2
+HARS2	2
+SAP130	2
+ANGPTL2	2
+M-ABC2	2
+TRAM	2
+OFC4	2
+KIAA0240	2
+KIAA0146	2
+L13A	2
+RTA	2
+STV1	2
+VPH1	2
+NET7	2
+NGB	2
+DDAH	2
+PAD	2
+DIP1	3
+SMP1	2
+LAT	3
+dJ388M5	2
+CBL-3	2
+BP75	2
+KPNA7	2
+SOSS-B2	2
+ACS	3
+HPP1	2
+MRX72	2
+OFD1P1	2
+TSSK1	2
+PP610	2
+APOL3	2
+ACTBL1	2
+POTE22	2
+EMAP-2	2
+SPB1	2
+TP53TG3	2
+SLC24A2	2
+RIP5	2
+BRI3	2
+D1	2
+ASP1	2
+U82	2
+FBL3	2
+NBPF	2
+CIA	2
+MOB1	3
+KLIP1	2
+BRMS1	2
+HCCR-1	2
+HCCR-2	2
+NSL1	2
+PPR3	2
+PRR3	2
+HZF	2
+KIAA1429	2
+SH2B	2
+HIG1	2
+AUTS2	2
+HACL1	2
+POLD4	2
+AGS3	2
+PTPN20B	2
+ARH2	2
+KIAA1279	2
+C9orf36A	2
+OR6-31	2
+FBL4	2
+FBL5	2
+OPT	2
+FBW6	2
+FBXW6	2
+FBS	2
+ARFGAP1	2
+BDP1	2
+NARF	2
+DDX26	2
+FIL1	4
+DUX1	2
+OR19-12	2
+OR19-8	2
+OR19-7	2
+OR19-18	3
+OR19-5	2
+OR4F18	2
+OR1-25	2
+GAGE8	3
+Z18	2
+U62	2
+U19	2
+U14	2
+RNU12	2
+RNU12P	2
+U6	3
+U5B1	2
+U3b2	2
+RNU1P1	2
+PBI	2
+LYST2	2
+PABP1	2
+PAB1	2
+PABPL1	2
+GPCR1	2
+USP21	2
+AIS1	3
+HMX3	2
+NET6	2
+INV	2
+CLPSMCR	2
+IL-21	3
+IL-20	2
+NIRF	2
+HCA1	3
+SIT1	2
+NA88A	2
+FRAG1	2
+TNRC18	2
+EPF5	2
+ARP5	2
+DESI2	2
+DESI1	2
+TGR	2
+LST3	3
+VSIG6	2
+IGHV4-3	3
+DA4	2
+TCRBV3S1	2
+TCRBV14S1	2
+TCRBV15S1	2
+TCRBV21S1	2
+TCRBV2S1	2
+TCRBV13S1	2
+TCRBV12S3	2
+TCRBV12S2	2
+TCRAV19S1	2
+TCRAV31S1	2
+TCRAV27S1	2
+TCRAV28S1	2
+TCRAV25S1	2
+TCRAV26S1	2
+TCRAV32S1	2
+TCRAV30S1	2
+TCRAV21S1	2
+TCRAV10S1	2
+TCRAV4S1	2
+TCRAV18S1	2
+TCRAV24S1	2
+TCRAV17S1	2
+TCRAV13S1	2
+TCRAV22S1	2
+TCRAV20S1	2
+TCRAV12S1	2
+TCRAV3S1	2
+TCRAV16S1	2
+TCRAV9S1	2
+TCRAV15S1	2
+TCRAV8S2	2
+TCRAV8S1	2
+TCRAV2S1	2
+TCRAV11S1	2
+TRAV11	2
+TCRAV1S2	2
+TCRAV1S1	2
+TCRAV7S1	2
+J3	2
+L1	2
+TRB2	2
+MRP-S28	2
+MRPS35	2
+MRPS28	2
+EEG1	2
+MRP-L18	2
+CHMP4B	2
+SNF7	2
+CHMP4A	2
+MRP-L22	2
+MRPL22	2
+PLAC8	2
+PP13	2
+ICBP90	2
+CAPH2	3
+C2orf27B	2
+MGR	3
+ZIN	2
+MRLC2	2
+ZNF581	2
+DSEP	2
+APC4	2
+APC1	2
+OBTP	2
+TOMM6	2
+ACF	2
+DSK2	2
+GLUT8	2
+TRN2	2
+CT11.1	2
+SPANX	3
+CFP1	2
+PN-I	2
+SOCS7	2
+CT2	3
+IL-22	2
+EIG7	2
+AMAP1	2
+HDGF2	2
+EKD1	2
+PKC	2
+DYT10	2
+MUHH	2
+TRB3	2
+BHD	2
+FAME	2
+p13	2
+YMR292W	2
+YDR084C	2
+UBXD10	2
+AG1	2
+MRP-L14	2
+MRPL2	2
+TRNT1	2
+CXorf11	2
+NAT3	2
+NAT5	2
+NL2	2
+BCAP	2
+MRT4	2
+HN1	2
+LNP	2
+SAPL	2
+40970.0	2
+MRPL27	2
+NAG20	3
+SDP1	2
+PRO1278	2
+ARF1P2	2
+ARL17A	2
+MS4A4	2
+MS4A7	2
+HCRN	2
+FBI1	2
+LRF	2
+SLP1	2
+APC7	2
+MAGEE1	3
+HGRG8	2
+NY-REN-2	2
+GPR89B	2
+IPS-1	2
+HSD17B7	2
+ORF1	3
+PPR1	2
+ODC1L	2
+GCD10	2
+DUSP24	2
+ML-1	2
+MASK	2
+GALNT7	2
+capping protein (actin filament) muscle Z-line, alpha 1 pseudogene	5
+IL-27	2
+IL27	3
+NUDT10	2
+CLIP4	2
+MBD3	2
+IFP1	2
+RNF21	2
+TRIM34	2
+CLDN21	3
+eukaryotic translation elongation factor 1 alpha 1 pseudogene	2
+C21orf15	2
+p17	2
+SAT2	2
+STAG3L2	3
+STAG3L3	3
+STAG3L1	3
+RASSF4	2
+CHAMP	2
+PEPP-2	2
+PEPP2	2
+NEURL3	2
+PAO	2
+RIF	2
+UDPGT	9
+KIAA1383	2
+PDP1	2
+HIN1	2
+SAX2	2
+RAB39	2
+CAL	2
+ZNF853	2
+HYDIN2	2
+p84	2
+ABH4	2
+DMC	2
+RAD26L	2
+PGP	2
+CPI17-like	2
+C18orf49	2
+MRT5	2
+MOSP	2
+DUSP23	2
+HPIP	2
+KS	2
+PIP1	2
+40969.0	2
+BRWD2	2
+WDR11	2
+RFT1	2
+FEZ	2
+MED25	2
+RIC8	2
+KIAA1551	2
+GLP	3
+HCCA2	2
+TSH2	2
+FBX30	2
+FBXO30	2
+CYorf14	2
+PRO2834	2
+NCRNA00185	2
+RITA	2
+SIRPB2	2
+KIAA1704	2
+JDP1	2
+FEM1A	2
+ZNT8	2
+MAM2	2
+CARF	2
+MTMR8	2
+TRMT1	2
+ZSCAN30	2
+smk1	3
+AB14	2
+PARF	2
+SOLO	2
+FAM21A	3
+SPG	2
+BRCC3	2
+METTL2	2
+METTL2A	2
+HCA2	3
+HSD3	2
+LCA3	2
+EAF2	2
+USE1	2
+BEX2	2
+BEX1	2
+OAT4	2
+GOLGA6D	2
+BD-3	2
+DEFB103	2
+DEFB3	2
+HBD3	2
+HBP3	2
+SMAP-1	2
+SMAP1	2
+KLHL6	2
+CFC1B	2
+IL25	2
+CILD2	2
+KIAA1217	2
+FGD2	3
+GCCD2	3
+NOP9	2
+TMPRSS3	2
+C18orf2	2
+ATXN8	2
+C10orf2	2
+p12	2
+TFP	2
+AIDA	2
+PAK5	2
+IMP4	2
+C14orf88	2
+CPT	2
+6-pyruvoyltetrahydropterin synthase pseudogene	2
+TRIM49L2	2
+SET7	2
+CT72	2
+KIAA1191	2
+ARP11	2
+KIAA1147	2
+KIAA1199	2
+KIAA1244	2
+IGHV3-3	2
+KIR2DL5	2
+KIR2DL5B	2
+GJA9	2
+S100A15	2
+S100A14	2
+GALNT16	2
+REX1	2
+KIAA1143	2
+KIAA1161	2
+USP31	2
+KIAA1210	2
+KIAA1211	2
+NAAGS	2
+KIAA1239	2
+KIAA1257	2
+MP44	2
+TDE2	2
+PCDH19	2
+KIAA1324	2
+KIAA1328	2
+KIAA1377	2
+ERP1	2
+KIAA1407	2
+ARHGAP10	2
+HN1L	2
+KIAA1430	2
+KIAA1432	2
+PDZK4	2
+KIAA1456	2
+KIAA1462	2
+KIAA1467	2
+KIAA1468	2
+MYH14	2
+KIAA1522	2
+KIAA1524	2
+PEPP1	2
+KIAA1549	2
+KIAA1586	2
+KIAA1598	2
+KIAA1609	2
+KIAA1614	2
+KIAA1967	2
+KRTAP5-2	2
+KRTAP5-8	2
+SMILE	2
+LY6G6D	2
+tumor protein, translationally-controlled 1 pseudogene	9
+NIF3 NGG1 interacting factor 3-like 1 (S. cerevisiae)	2
+LYS2	2
+OI11	2
+RPL17L	2
+CDA1	2
+KCP1	2
+GAL3ST2	2
+CRL2	2
+IBD1	2
+POP3	2
+STSL	2
+COP1	2
+AZI2	2
+ZNF474	2
+ARP6	2
+BGR	2
+SPANX-C	2
+HS3ST5	2
+GID2	2
+DDX31	2
+IQCH	2
+KLC2	2
+SSB2	2
+L32mt	2
+MRP-L32	2
+MRPL32	2
+survival of motor neuron 1, telomeric pseudogene	2
+BRIP1	2
+RINZF	2
+GLUT10	2
+DUSP26	2
+AIBP	2
+SSB1	2
+LILRA5	2
+ZNF576	2
+SWS1	2
+MIR1	2
+SPAP1	2
+FCRL2	2
+CHSY2	2
+GALNT15	4
+CDG1P	2
+NOD5	2
+ZNF322	2
+ZYG11	2
+U2AF1L4	2
+ZNF408	2
+EMILIN3	2
+C9orf35	2
+SUT2	2
+NANOG	2
+PIF	2
+ALP1	2
+golgin subfamily A member 2-like	2
+LCA10	2
+FHOD3	2
+MAK3	2
+KLF14	2
+SWD2	2
+WDR82	2
+KIAA1683	2
+KIAA1715	2
+GJA10	2
+TUBB1	2
+OR21-1	2
+OR7E68P	2
+OR7E71P	2
+OR7E72P	2
+OR7E73P	2
+OR7E74P	2
+OR7E75P	2
+OR912-108	2
+OR912-109	2
+OR912-110	2
+OR912-46	2
+hg523	2
+hg674	2
+OR7-21	2
+GCOM1	3
+GRINL1A	2
+LBH	2
+THG1	2
+STK22D	2
+OR6-1	2
+SNAX1	2
+KAP1.6	2
+RILP	2
+RASSF3	2
+RASSF5	2
+SYT14L	2
+TTTY9	2
+TTY9	2
+TTTY9A	2
+TTY11	2
+KSP37	2
+TSSK4	2
+KIAA1109	2
+TBC1D3	2
+TBC1D3F	2
+FTX	2
+KIAA1841	2
+CLAC	2
+CN1	2
+SCDO4	2
+HCC	2
+TTY6	2
+TTTY6	2
+AGPAT8	2
+FCRL1	2
+KCR1	2
+ALG10	2
+KIAA1984	2
+TCBA1	2
+KIAA1644	2
+MLCK2	2
+KIAA1671	2
+KIAA1755	2
+KIAA1751	2
+KIAA1737	2
+KIAA1731	2
+H1RNA	2
+HSF2L	2
+HSFY	2
+D-X	3
+FGD3	2
+SIGLECL1	2
+KIAA2013	2
+ZNF468	2
+Ses2	2
+CERS5	2
+PYPAF7	2
+KIAA1919	2
+DUSP27	2
+heterogeneous nuclear ribonucleoprotein L-like	2
+KV6.3	2
+thioredoxin pseudogene	6
+maltase-glucoamylase (alpha-glucosidase) pseudogene	2
+ARP8	2
+dJ222E13.1	2
+BMS1 homolog, ribosome assembly protein (yeast) pseudogene	12
+TGS1	2
+RPS27AP	2
+CAC1	2
+TDH	2
+family with sequence similarity 8, member A1 pseudogene	13
+SIGLECP1	2
+SIGLECP2	2
+TTMA	2
+GALNT13	2
+RAB42	2
+KIR3DL3	2
+TAT1	2
+U86	2
+RLP1	2
+H3	2
+heterogeneous nuclear ribonucleoprotein A1 pseudogene	37
+C-terminal binding protein 2 pseudogene	8
+tubulin, beta 2B class IIb pseudogene	4
+transmembrane protein 132B pseudogene	3
+interferon induced transmembrane protein pseudogene	4
+ACSM2	2
+OR17-24	2
+mRNA turnover 4 homolog (S. cerevisiae) pseudogene	2
+OR19-6	2
+peptidylprolyl isomerase A (cyclophilin A) pseudogene	25
+ArfGAP with GTPase domain, ankyrin repeat and PH domain 1 pseudogene	2
+X-ray repair complementing defective repair in Chinese hamster cells 6 pseudogene	2
+ralA binding protein 1 pseudogene	2
+adenosylhomocysteinase pseudogene	7
+LPCAT4	2
+UBTFL5	2
+heat shock 70kDa protein 8 pseudogene	16
+C1QTNF15	2
+RAD23 homolog B (S. cerevisiae) pseudogene	2
+CLCP1	2
+PP2CE	2
+tubulin, beta 8 class VIII pseudogene	4
+GST	2
+RAB5C, member RAS oncogene family pseudogene	2
+RNF35	2
+HCRP1	2
+ATP synthase, H+ transporting, mitochondrial Fo complex, subunit d pseudogene	3
+LCN5	2
+dipeptidyl-peptidase 3 pseudogene	2
+melanoma antigen family A, 4 pseudogene	2
+keratin, type I cytoskeletal 18-like	2
+E2F transcription factor 6 pseudogene	4
+platelet-activating factor acetylhydrolase 1b, catalytic subunit 2 (30kDa) pseudogene	2
+RBMY2	2
+S100A16	2
+BD-4	2
+DEFB-4	2
+hBD-4	2
+ribosomal protein L39 pseudogene	2
+C20orf176	2
+dJ530I15.3	2
+protein phosphatase 2, regulatory subunit B', gamma pseudogene	2
+RAR2	2
+OR11-12	2
+GPR136	2
+interferon induced transmembrane protein 3 pseudogene	6
+PGR2	2
+MYZAP	2
+SPATA8	2
+SCA31	2
+FSHD region gene 2 family, member C pseudogene	2
+B3GNT8	2
+Rho GTPase activating protein 27 pseudogene	2
+ERVV-2	2
+ribosomal protein S2 pseudogene	5
+ESP	2
+PRG5	2
+small nuclear ribonucleoprotein polypeptide A' pseudogene	2
+TTL	2
+NSE1	2
+developmentally regulated GTP binding protein 1 pseudogene	2
+pyrophosphatase (inorganic) 1 pseudogene	2
+HDMCP	2
+family with sequence similarity 115, member C pseudogene	2
+IAN6	2
+WBSCR20B	2
+AG3	2
+NSE2	2
+KIAA2026	2
+KIAA1958	2
+tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein, zeta polypeptide pseudogene	2
+RPL7AP3	2
+rpL7a	2
+OR19-4	2
+COAS2	2
+MMAA	2
+integral membrane glycoprotein-like	2
+FAM48B1	2
+DFNA42	2
+DFNA52	2
+eukaryotic translation initiation factor 4E binding protein 2 pseudogene	4
+UBL6	2
+DEFT1P	2
+PAN3	2
+NS3BP	2
+heat shock 10kDa protein 1 (chaperonin 10) pseudogene	10
+anthrax toxin receptor-like	2
+DNM1DN14@	2
+phosphodiesterase 4D interacting protein-like	2
+COAS3	2
+AH	2
+actin related protein 2/3 complex, subunit 1A, 41kDa pseudogene	3
+KIAA2018	2
+ribosomal protein L36a pseudogene	2
+MMD2	2
+DEFB109	3
+TTTY7B	2
+RNASEH1	2
+DFNB83	2
+RPB11b1	2
+POLR2J2	2
+DNA directed RNA polymerase II polypeptide J-related gene	2
+Obg-like ATPase 1 pseudogene	2
+SRPSMCR	3
+karyopherin (importin) beta 2 pseudogene	2
+DFNB74	2
+eukaryotic translation initiation factor 2, subunit 3 gamma, 52kDa pseudogene	4
+signal peptidase complex subunit 2 homolog (S. cerevisiae) pseudogene	5
+SERPINA11	2
+SNX30	2
+T2R56	2
+COP9 constitutive photomorphogenic homolog subunit 8 (Arabidopsis) pseudogene	2
+actin related protein 2/3 complex subunit 1A pseudogene	2
+nitric oxide synthase 2, inducible pseudogene	4
+FABP5P1	2
+D21S2088E	2
+AIS2	2
+GCCD3	2
+tigger transposable element derived 2 pseudogene	2
+TRIM49B	2
+calponin 2 pseudogene	4
+eukaryotic translation elongation factor 1 delta (guanine nucleotide exchange protein) pseudogene	3
+ANKRD33	2
+TSK4	2
+KIAA0284	2
+FSHD region gene 1 pseudogene	3
+disintegrin and metalloproteinase domain-containing protein 21-like	3
+MRCL	2
+FLJ11800 related gene	2
+tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein, epsilon polypeptide pseudogene	4
+keratin pseudogene	2
+solute carrier family 7 (cationic amino acid transporter, y+ system), member 3 pseudogene	2
+PTGES3P	2
+Ewing sarcoma breakpoint region 1 pseudogene	2
+anaphase promoting complex subunit 1 pseudogene	3
+ribosomal protein L10 pseudogene	10
+LSAMP-AS1	2
+phosphoribosyl pyrophosphate amidotransferase pseudogene	2
+phosducin-like 3 pseudogene	4
+mitochondrial translational release factor 1-like pseudogene	3
+KIAA0825	2
+TAF11 RNA polymerase II, TATA box binding protein (TBP)-associated factor, 28kDa pseudogene	7
+cytokine receptor-like factor 3 pseudogene	3
+family with sequence similarity 86, member A pseudogene	9
+FOXD4L2	2
+ferritin, light polypeptide pseudogene	2
+eukaryotic translation initiation factor 4A2 pseudogene	3
+CXorf52	2
+C14orf25	2
+NCRNA00291	2
+MORF4LP4	2
+PDZ and LIM domain 1 pseudogene	4
+proteasome (prosome, macropain) subunit, alpha type, 3 pseudogene	2
+HIST2H2BD	2
+coiled-coil-helix-coiled-coil-helix domain containing 3 pseudogene	3
+family with sequence similarity 35, member A pseudogene	4
+RNASE9	2
+RAB41	2
+keratin 17 pseudogene	4
+ERIS	2
+POM121 membrane glycoprotein (rat) pseudogene	10
+histone cluster 2, H3d pseudogene	2
+NANOGP3	2
+KIAA1875	2
+KIAA2022	2
+aldo-keto reductase family 1, member B10 (aldose reductase) pseudogene	2
+thyroid hormone receptor interactor 11 pseudogene	4
+immunoglobulin superfamily, DCC subclass, member 3 pseudogene	2
+aconitase 2, mitochondrial pseudogene	3
+zinc finger protein 184 pseudogene	2
+protein tyrosine phosphatase, non-receptor type 11 pseudogene	5
+ATP-binding cassette, sub-family F (GCN20), member 2 pseudogene	2
+COL6A4	2
+insulin-like growth factor 2 mRNA binding protein 3 pseudogene	2
+DGAT2L7	2
+ring finger protein 14 pseudogene	4
+FAM75-like protein FLJ46321 pseudogene	2
+hydroxyacyl-CoA dehydrogenase/3-ketoacyl-CoA thiolase/enoyl-CoA hydratase (trifunctional protein), beta subunit pseudogene	2
+GJE1	2
+NANOGP5	2
+NANOGP6	2
+replication factor C (activator 1) 2, 40kDa pseudogene	2
+HLA complex group 26 (non-protein coding) pseudogene	4
+LEP7	2
+cyclin-dependent kinase 8 pseudogene	3
+LHFPL4	2
+SMA3-L	2
+SMAC3L	2
+GUSBP4	2
+WASH5P	2
+OFD1P2	2
+KRTAP18.1	2
+ribosomal protein L13 pseudogene	6
+RPL29P3	2
+KRTAP5-3	2
+fibroblast growth factor 7 pseudogene	5
+patched domain containing 3 pseudogene	3
+DnaJ (Hsp40) homolog, subfamily B, member 7 pseudogene	4
+microtubule-associated protein 1 light chain 3 beta pseudogene	3
+transmembrane protein 183A pseudogene	6
+NANOGP1	2
+coiled-coil domain containing 101 pseudogene	2
+lysophospholipase II pseudogene	6
+ribosomal protein L23a pseudogene	5
+opioid growth factor receptor pseudogene	2
+actin, beta pseudogene	8
+peroxiredoxin 6 pseudogene	2
+chromosome 5 open reading frame 13 pseudogene	2
+ZNF705C	2
+chromosome 4 open reading frame 27 pseudogene	3
+transmembrane protein C9orf144B pseudogene	2
+FK506 binding protein 4, 59kDa pseudogene	7
+kinesin family member 27 pseudogene	2
+ankyrin repeat domain 57 pseudogene	4
+RAN binding protein 1 pseudogene	5
+CT24.2	2
+PRP38 pre-mRNA processing factor 38 (yeast) domain containing A pseudogene	2
+actin, gamma 1 pseudogene	13
+replication protein A2, 32kDa pseudogene	2
+nuclear import 7 homolog (S. cerevisiae) pseudogene	3
+MAS-related GPR, member X1 pseudogene	4
+MAS-related GPR, member X3 pseudogene	3
+ribosomal protein L7a pseudogene	11
+CDGSH iron sulfur domain 1 pseudogene	2
+prohibitin pseudogene	4
+chromosome 20 open reading frame 27 pseudogene	2
+retinol dehydrogenase 16 (all-trans) pseudogene	2
+chaperonin containing TCP1, subunit 5 (epsilon) pseudogene 2	2
+metallophosphoesterase 1 pseudogene	2
+cytokine induced apoptosis inhibitor 1 pseudogene	2
+transcription factor Dp-1 pseudogene	2
+ribosomal protein L7-like 1 pseudogene	9
+chondroitin sulfate proteoglycan 4 pseudogene	7
+golgin A2 pseudogene	5
+protein phosphatase 2, regulatory subunit B'', beta pseudogene	2
+OLFRA06	2
+OR17-25	2
+OR25	2
+OR3A5P	2
+family with sequence similarity 136, member A pseudogene	2
+ribosomal protein, large, P0 pseudogene	2
+OLF4p	2
+zinc finger protein 793	2
+heterogeneous nuclear ribonucleoprotein M pseudogene	2
+peptidyl-prolyl cis-trans isomerase A-like	13
+dynein, light chain, LC8-type 1 pseudogene	4
+cysteine and histidine-rich domain (CHORD) containing 1 pseudogene	4
+glyceraldehyde-3-phosphate dehydrogenase pseudogene	18
+PRAME family member 17 pseudogene	2
+D-dopachrome tautomerase-like	2
+WD repeat domain 4 pseudogene	2
+mediator complex subunit 15 pseudogene	2
+nicotinamide nucleotide adenylyltransferase 1 pseudogene	4
+USP17L	2
+chromosome 9 open reading frame 78 pseudogene	2
+eukaryotic translation elongation factor 1 gamma pseudogene	9
+tripartite motif-containing 75 pseudogene	5
+H3 histone, family 3B (H3.3B) pseudogene	4
+putative TAF11-like protein ENSP00000332601-like	8
+ankyrin repeat domain 49 pseudogene	3
+ribosome binding protein 1 homolog 180kDa (dog) pseudogene	2
+FDPSL2A	2
+ubiquitin carboxyl-terminal hydrolase 17-like protein 2-like	3
+zinc finger protein 532 pseudogene	5
+G protein pathway suppressor 2 pseudogene	2
+nuclear pore associated protein 1 pseudogene	10
+BEN domain containing 3 pseudogene	3
+nucleolar and coiled-body phosphoprotein 1 pseudogene	2
+melanoma antigen family B, 3 pseudogene	3
+serine/arginine-rich splicing factor 2 pseudogene	2
+melanoma antigen family B, 18 pseudogene	2
+mitochondrial fission factor pseudogene	4
+malate dehydrogenase 1, NAD (soluble) pseudogene	2
+ras homolog family member G pseudogene	2
+filamin binding LIM protein 1 pseudogene	2
+MYP4	2
+nucleophosmin (nucleolar phosphoprotein B23, numatrin) pseudogene	29
+keratin 18 pseudogene	15
+protein-kinase, interferon-inducible double stranded RNA dependent inhibitor, repressor of (P58 repressor) pseudogene	2
+NSA2 ribosome biogenesis homolog (S. cerevisiae) pseudogene	9
+single stranded DNA binding protein 4 pseudogene	5
+ADAM metallopeptidase with thrombospondin type 1 motif, 7 pseudogene	4
+DNM1DN11@	6
+PERP, TP53 apoptosis effector pseudogene	3
+FLJ35934	2
+FLJ44881	2
+heat shock 70kDa protein 5 (glucose-regulated protein, 78kDa) pseudogene	2
+AE01	2
+NBPF10	2
+NBPF9	3
+FKSG49	2
+RGPD2	2
+RanBP2L2	2
+single stranded DNA binding protein 3 pseudogene	2
+nucleolar complex associated 2 homolog (S. cerevisiae) pseudogene	2
+family with sequence similarity 58, member A pseudogene	2
+eukaryotic translation initiation factor 4H pseudogene	2
+HSDJ0798C17	2
+DEAD (Asp-Glu-Ala-Asp) box polypeptide 10 pseudogene	2
+adaptor-related protein complex 2, beta 1 subunit pseudogene	2
+eukaryotic translation elongation factor 1 alpha 2 pseudogene	8
+U2 small nuclear RNA auxiliary factor 1-like 4 pseudogene	2
+MKI67 (FHA domain) interacting nucleolar phosphoprotein pseudogene	8
+Ig heavy chain V-III region VH26-like	9
+chloride intracellular channel 1 pseudogene	2
+matrin 3 pseudogene	3
+voltage-dependent anion channel 2 pseudogene	3
+NADH dehydrogenase (ubiquinone) 1 beta subcomplex, 4, 15kDa pseudogene	4
+family with sequence similarity 64, member A pseudogene	4
+chloride channel, nucleotide-sensitive, 1A pseudogene	2
+heterogeneous nuclear ribonucleoprotein H1 (H) pseudogene	3
+splicing factor 4 pseudogene	2
+5'-nucleotidase domain containing 1 pseudogene	2
+neugrin, neurite outgrowth associated pseudogene	3
+v-ral simian leukemia viral oncogene homolog A (ras related) pseudogene	2
+NADH dehydrogenase (ubiquinone) complex I, assembly factor 4 pseudogene	3
+karyopherin alpha 2 (RAG cohort 1, importin alpha 1) pseudogene	3
+TAG	2
+AAA1	2
+MIR-129b	2
+MIR-199-s	2
+HPC7	2
+PRC17	2
+NANOGP4	2
+NANOGP2	2
+bA548K23.1	2
+KRTAP5-11	2
+KRTAP5-5	2
+KRTAP5-6	2
+Cdon homolog (mouse) pseudogene	4
+transmembrane protein 98 pseudogene	2
+NF1HHS	2
+putative golgin subfamily A member 6-like protein 6-like	2
+nuclear pore complex interacting protein pseudogene	5
+smg-1 homolog, phosphatidylinositol 3-kinase-related kinase (C. elegans) pseudogene	5
+citrate synthase, mitochondrial-like	2
+proline rich 13 pseudogene	5
+heterogeneous nuclear ribonucleoprotein C-like	2
+seven transmembrane helix receptor	2
+two pore channel 3 pseudogene	2
+nuclear transcription factor Y, beta pseudogene	2
+heterogeneous nuclear ribonucleoprotein A3 pseudogene	10
+putative POM121-like protein 1-like	18
+exportin, tRNA (nuclear export receptor for tRNAs) pseudogene	2
+Williams Beuren syndrome chromosome region 19 pseudogene	6
+putative protein FAM90A18/FAM90A19	2
+contactin associated protein-like 3 pseudogene	8
+prothymosin, alpha pseudogene	2
+makorin ring finger protein 1 pseudogene	2
+stress-induced-phosphoprotein 1 pseudogene	3
+mitofusin-1-like	2
+BTB (POZ) domain containing 7 pseudogene	2
+septin 7 pseudogene	4
+zinc finger protein 91 pseudogene	2
+golgin A8 family, member A pseudogene	3
+chromosome 12 open reading frame 49 pseudogene	3
+DnaJ (Hsp40) homolog, subfamily C, member 7 pseudogene	2
+ribosomal protein L6 pseudogene	4
+replication protein A3, 14kDa pseudogene	2
+methylenetetrahydrofolate dehydrogenase (NADP+ dependent) 2, methenyltetrahydrofolate cyclohydrolase pseudogene	4
+SERPINE1 mRNA binding protein 1 pseudogene	5
+cell division cycle associated 7 pseudogene	2
+tubulin beta chain-like	2
+peroxiredoxin 2 pseudogene	3
+PDGFA associated protein 1 pseudogene	4
+coiled-coil domain containing 86 pseudogene	3
+glycine cleavage system protein H (aminomethyl carrier) pseudogene	3
+tubulin, beta class I pseudogene	2
+chromosome 9 open reading frame 140 pseudogene	3
+putative UPF0607 protein ENSP00000332738-like	2
+upstream binding transcription factor, RNA polymerase I pseudogene	3
+chloride intracellular channel 4 pseudogene	3
+ATP-binding cassette, sub-family E (OABP), member 1 pseudogene	2
+speedy homolog E1 (Xenopus laevis) pseudogene	2
+CTAGE4	2
+Attention deficit-hyperactivity disorder, susceptibility to, 2	2
+LOAS	2
+Osteoarthritis QTL 29	2
+Rheumatoid arthritis QTL 01	3
+gene expression, variation in, quantitative trait locus	2
+H2A.Bbd	2
+KU-MEL-3	2
+AKT interacting protein pseudogene	4
+FK506 binding protein 6, 36kDa pseudogene	2
+Allergic/atopic asthma related QTL 5	2
+Allergic/atopic asthma related QTL 25	2
+BOLA2	2
+dual specificity phosphatase 5 pseudogene	2
+MIR499A	2
+DEFB136	2
+SPG29	2
+cyclin Y-like 1 pseudogene	3
+ADP-ribosylation factor-like 5A pseudogene	2
+cysteine-rich protein 1 (intestinal) pseudogene	2
+U87	2
+F379	6
+hydroxysteroid (17-beta) dehydrogenase 12 pseudogene	2
+putative V-set and immunoglobulin domain-containing-like protein IGHV4OR15-8-like	2
+nuclear receptor coactivator 4 pseudogene	3
+golgin A6 family, member A pseudogene	5
+speckle-type POZ protein-like pseudogene	3
+RNA binding motif protein 17 pseudogene	4
+tripartite motif containing 64B pseudogene	3
+Ig kappa chain V-I region Walker-like	4
+TRIM80P	2
+UDP glucuronosyltransferase 2 family, polypeptide A3 pseudogene	5
+H1 histone family, member O, oocyte-specific pseudogene	2
+S-phase kinase-associated protein 1 pseudogene	4
+succinate dehydrogenase complex, subunit C, integral membrane protein, 15kDa pseudogene	4
+potassium channel tetramerisation domain containing 9 pseudogene	4
+leucine rich repeat containing 59 pseudogene	2
+spermine synthase pseudogene	5
+chromosome 2 open reading frame 69 pseudogene	4
+tubulin, alpha 4a pseudogene	5
+retinoic acid receptor responder (tazarotene induced) 2 pseudogene	4
+translocase of outer mitochondrial membrane 40 homolog (yeast) pseudogene	5
+protein capicua homolog	3
+chromosome 2 open reading frame 27A pseudogene	8
+nuclear pore complex-interacting protein-like 1-like	2
+Ras homolog enriched in brain pseudogene	2
+phosphoglycerate mutase 1 (brain) pseudogene	2
+coiled-coil domain containing 90B pseudogene	2
+protein shisa-5-like	2
+FAM25B	4
+FAM25C	4
+FAM25G	4
+FAM25A	4
+glycerol-3-phosphate acyltransferase 2, mitochondrial pseudogene	2
+nuclear receptor binding factor 2 pseudogene	6
+KIAA0754	2
+ATM interactor pseudogene	2
+ankyrin repeat domain 26 pseudogene	2
+keratin 8 pseudogene	4
+adaptor-related protein complex 3, sigma 1 subunit pseudogene	2
+ornithine aminotransferase pseudogene	13
+Rho GTPase activating protein 21 pseudogene	2
+CTD (carboxy-terminal domain, RNA polymerase II, polypeptide A) small phosphatase like 2 pseudogene	2
+MOP-1	2
+tropomyosin 1 (alpha) pseudogene	3
+RAP1B, member of RAS oncogene family pseudogene	4
+NLR family, apoptosis inhibitory protein pseudogene	4
+suppressor of cytokine signaling 5 pseudogene	5
+RAB1A, member RAS oncogene family pseudogene	2
+zinc finger protein 479 pseudogene	2
+ring finger protein 4 pseudogene	2
+DNM1DN4@	3
+voltage-dependent anion channel 1 pseudogene	2
+mitogen-activated protein kinase 8 interacting protein 1 pseudogene	7
+transient receptor potential cation channel, subfamily C, member 6 pseudogene	5
+putative protein FAM215A-like	5
+NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 3, 9kDa pseudogene	2
+NMDA receptor regulated 2 pseudogene	2
+heat shock protein 90kDa alpha (cytosolic), class B member 1 pseudogene	6
+G antigen family D member 5-like	2
+general transcription factor IIIC, polypeptide 6, alpha 35kDa pseudogene	3
+DnaJ (Hsp40) homolog, subfamily C, member 19 pseudogene	8
+interleukin enhancer binding factor 2, 45kDa pseudogene	2
+UPF0627 protein ENSP00000358171-like	3
+NF1L4	2
+NF1L6	2
+apolipoprotein O pseudogene	5
+glyceraldehyde-3-phosphate dehydrogenase-like	3
+bolA homolog 3 (E. coli) pseudogene	2
+calcyclin binding protein pseudogene	2
+glutamic-oxaloacetic transaminase 2, mitochondrial (aspartate aminotransferase 2) pseudogene	2
+ribulose-5-phosphate-3-epimerase pseudogene	5
+chromosome 11 open reading frame 58 pseudogene	2
+myosin, light chain 12B, regulatory pseudogene	5
+nascent polypeptide-associated complex alpha subunit pseudogene	4
+zinc finger and BTB domain containing 45 pseudogene	2
+poly(A) binding protein interacting protein 1 pseudogene	15
+phosphatidylinositol 4-kinase type 2 beta pseudogene	2
+lymphocyte-specific protein 1 pseudogene	2
+PRP4 pre-mRNA processing factor 4 homolog B (yeast) pseudogene	2
+adenosylmethionine decarboxylase 1 pseudogene	5
+MAS-related GPR, member X2 pseudogene	2
+DnaJ (Hsp40) homolog, subfamily C, member 17 pseudogene	2
+GrpE-like 1, mitochondrial (E. coli) pseudogene	3
+PRAME family member 10 pseudogene	3
+carboxy-terminal domain RNA polymerase II polypeptide A small phosphatase 2-like	2
+zinc finger protein 131 pseudogene	2
+apolipoprotein A-I binding protein pseudogene	2
+coiled-coil-helix-coiled-coil-helix domain containing 4 pseudogene	3
+aurora kinase A interacting protein 1 pseudogene	2
+axin interactor, dorsalization associated pseudogene	4
+Ig heavy chain V region 5A-like	2
+capicua homolog (Drosophila) pseudogene	10
+Spi-C transcription factor (Spi-1/PU.1 related) pseudogene	5
+telomeric repeat-binding factor 1-like	2
+synovial sarcoma translocation gene on chromosome 18-like 2 pseudogene	2
+ribosomal protein S3A pseudogene	7
+programmed cell death 6 interacting protein pseudogene	2
+ADP-ribosylation factor-like 6 interacting protein 1 pseudogene	2
+zinc finger, CCHC domain containing 9 pseudogene	2
+amyloid P component, serum pseudogene	2
+CDC-like kinase 3 pseudogene	2
+lysosomal-associated membrane protein 1 pseudogene	2
+ADAM metallopeptidase domain 20 pseudogene	2
+zinc finger protein 470 pseudogene	2
+UPF0607 protein ENSP00000381418-like pseudogene	5
+developmental pluripotency associated 5 pseudogene	2
+family with sequence similarity 60, member A pseudogene	3
+glutamyl aminopeptidase (aminopeptidase A) pseudogene	2
+DEAH (Asp-Glu-Ala-His) box polypeptide 9 pseudogene	2
+carbonic anhydrase VA, mitochondrial pseudogene	2
+slowmo homolog 2 (Drosophila) pseudogene	7
+golgin A6 family, member D pseudogene	2
+heterogeneous nuclear ribonucleoprotein C (C1/C2) pseudogene	7
+akirin 1 pseudogene	2
+isopentenyl-diphosphate delta isomerase 1 pseudogene	3
+YY1 transcription factor pseudogene	2
+eukaryotic translation elongation factor 1 beta 2 pseudogene	3
+tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein, beta polypeptide pseudogene	2
+ribosomal protein L14 pseudogene	3
+glutathione S-transferase alpha 3 pseudogene	3
+family with sequence similarity 91, member A1 pseudogene	4
+angiogenic factor with G patch and FHA domains 1-like	4
+NHP2 non-histone chromosome protein 2-like 1 (S. cerevisiae) pseudogene	2
+cell division cycle protein 27 homolog	7
+chromosome 9 open reading frame 172 pseudogene	2
+calponin-2-like	2
+citrate synthase pseudogene	2
+zinc finger protein 717-like	6
+eukaryotic translation initiation factor 3, subunit J pseudogene	3
+double homeobox protein 4-like protein 4-like	62
+chromosome X open reading frame 48 pseudogene	2
+PRAME family member 2 pseudogene	2
+LINC00539	2
+FSHD region gene 2-like	2
+double homeobox protein 4-like	17
+potassium channel tetramerisation domain containing 5 pseudogene	2
+GAGED2	4
+putative golgin subfamily A member 8I-like	2
+TIMM23	2
+POTE2beta	2
+ASAH2C	2
+pTEX	2
+WASH	2
+guanine nucleotide binding protein (G protein), gamma 10 pseudogene	3
+COAS-2	2
+PSP-A	2
+PSPA	2
+SFTP1	2
+SP-A	2
+phosphodiesterase 4D interacting protein pseudogene	9
+Sjogren syndrome antigen B (autoantigen La) pseudogene	2
+H3F3AP1	2
+unknown transcript	2
+ACA59	2
+PWCR1	2
+WW domain binding protein 11 pseudogene	2
+insulin-like growth factor 2 mRNA binding protein 2 pseudogene	2
+NADH dehydrogenase (ubiquinone) complex I, assembly factor 2 pseudogene	2
+ribosomal protein S7 pseudogene	3
+prothymosin alpha-like	3
+CT47	2
+golgin subfamily A member 8-like protein 2-like	2
+IQ motif and Sec7 domain 3 pseudogene	3
+cubilin (intrinsic factor-cobalamin receptor) pseudogene	2
+family with sequence similarity 133, member A pseudogene	6
+melanoma associated antigen (mutated) 1-like 1 pseudogene	2
+glutaredoxin 3 pseudogene	2
+ubiquitin carboxyl-terminal hydrolase 17-like	18
+zinc finger protein pseudogene	2
+DNM1DN3@	3
+TSPY10	2
+TSPY8	2
+poly (ADP-ribose) glycohydrolase pseudogene	2
+calcium binding protein P22 pseudogene	2
+zinc finger protein 736 pseudogene	4
+SPANXB	2
+ovostatin homolog 2-like	2
+putative uncharacterized protein encoded by LINC00174-like	2
+nuclear pore complex-interacting protein-like 2-like	2
+programmed cell death 2 pseudogene	2
+myomegalin-like	4
+UDP glucuronosyltransferase 2 family, polypeptide B15 pseudogene	2
+SMT3 suppressor of mif two 3 homolog 2 (S. cerevisiae) pseudogene	4
+FAM108A2	2
+transcription elongation factor B polypeptide 3C-like	2
+putative uncharacterized protein FLJ44672-like	7
+ribosomal protein L17 pseudogene	3
+chromosome 15 open reading frame 29 pseudogene	6
+small nuclear ribonucleoprotein polypeptide B pseudogene	4
+mediator complex subunit 28 pseudogene	4
+CT4.8	2
+GAGE-8	2
+core 1 synthase, glycoprotein-N-acetylgalactosamine 3-beta-galactosyltransferase, 1 pseudogene	2
+GAGE-12B	4
+coiled-coil domain containing 59 pseudogene	2
+density-regulated protein pseudogene	4
+proteasome (prosome, macropain) 26S subunit, ATPase, 2 pseudogene	2
+DNM1DN8@	3
+ubiquitin-fold modifier 1 pseudogene	2
+WW domain binding protein 1 pseudogene	2
+ret finger protein-like 4A-like	2
+heterogeneous nuclear ribonucleoprotein A1-like	3
+quinone oxidoreductase-like protein 2 pseudogene	2
+eukaryotic translation initiation factor 1 pseudogene	4
+zinc finger protein 101 pseudogene	2
+anaphase-promoting complex subunit 1-like	2
+SWI5-dependent recombination repair 1 pseudogene	2
+coiled-coil domain containing 58 pseudogene	3
+tropomyosin 3 pseudogene	2
+WDR45-like pseudogene	2
+Tyr-tRNA	2
+SNORD115-48	2
+HBII-52-46	2
+developmental pluripotency associated 4 pseudogene	5
+thioredoxin-related transmembrane protein 1 pseudogene	2
+tRNA nucleotidyl transferase, CCA-adding, 1 pseudogene	2
+Y box binding protein 2 pseudogene	2
+heterogeneous nuclear ribonucleoprotein R pseudogene	3
+TIMELESS interacting protein pseudogene	2
+selenoprotein K pseudogene	4
+chromosome 2 open reading frame 27B pseudogene	4
+KIAA1191 pseudogene	4
+angiogenic factor with G patch and FHA domains 1 pseudogene	4
+transmembrane protein 69 pseudogene	2
+pleckstrin homology domain containing, family B (evectins) member 2 pseudogene	6
+developmental pluripotency associated 2 pseudogene	5
+chromosome 16 open reading frame 88 pseudogene	5
+CTD (carboxy-terminal domain, RNA polymerase II, polypeptide A) small phosphatase 2 pseudogene	2
+heterogeneous nuclear ribonucleoprotein D-like pseudogene	3
+NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 5, 13kDa pseudogene	6
+defensin, beta 131 pseudogene	2
+ubiquitin carboxyl-terminal esterase L1 (ubiquitin thiolesterase) pseudogene	2
+general transcription factor IIIA pseudogene	4
+serine/arginine-rich splicing factor 10 pseudogene	2
+WD repeat domain 12 pseudogene	3
+nuclear transcription factor Y, gamma pseudogene	2
+ribosomal protein S27a pseudogene	2
+interferon stimulated exonuclease gene 20kDa-like 2 pseudogene	2
+N-acetylneuraminic acid phosphatase pseudogene	3
+X-linked inhibitor of apoptosis pseudogene	2
+RAB28, member RAS oncogene family pseudogene	7
+UBX domain protein 2A pseudogene	4
+small nuclear ribonucleoprotein polypeptide C pseudogene	14
+ubiquitin-conjugating enzyme E2 variant 2 pseudogene	5
+mitochondrial carrier 2 pseudogene	4
+protein FAM182A-like	2
+NADH dehydrogenase (ubiquinone) 1 beta subcomplex, 9, 22kDa pseudogene	2
+cell division cycle 42 (GTP binding protein, 25kDa) pseudogene	3
+TAF9 RNA polymerase II, TATA box binding protein (TBP)-associated factor, 32kDa pseudogene	3
+BTB (POZ) domain containing 10 pseudogene	2
+heterogeneous nuclear ribonucleoprotein A1-like 2 pseudogene	2
+FCF1 small subunit (SSU) processome component homolog (S. cerevisiae) pseudogene	6
+non-SMC element 4 homolog A (S. cerevisiae) pseudogene	2
+adenylate kinase isoenzyme 6-like	3
+BCL2/adenovirus E1B 19kDa interacting protein 3 pseudogene	18
+beta-1,3-N-acetylgalactosaminyltransferase 1 (globoside blood group) pseudogene	2
+methyltransferase like 5 pseudogene	3
+RAD1 homolog (S. pombe) pseudogene	2
+FAM66E	2
+ubiquitin-conjugating enzyme E2 variant 1-like	2
+archaelysin family metallopeptidase 2 pseudogene	2
+syndecan binding protein (syntenin) pseudogene	3
+serine/arginine-rich splicing factor 3-like	2
+ubiquitin-like 5 pseudogene	3
+WEE1 homolog (S. pombe) pseudogene	4
+phosphatidylinositol glycan anchor biosynthesis, class F pseudogene	2
+cyclin Y-like pseudogene	2
+proline-rich nuclear receptor coactivator 2 pseudogene	2
+family with sequence similarity 18, member B pseudogene	2
+chromosome 6 open reading frame 203 pseudogene	2
+thiopurine S-methyltransferase pseudogene	3
+ribosomal protein L22 pseudogene	2
+cell division cycle associated 4 pseudogene	4
+biorientation of chromosomes in cell division 1 pseudogene	2
+ankyrin repeat domain-containing protein 33B-like	5
+LSM14A, SCD6 homolog A (S. cerevisiae) pseudogene	3
+etoposide induced 2.4 mRNA pseudogene	5
+chromosome 4 open reading frame 46 pseudogene	2
+ribosomal protein L24 pseudogene	2
+ESF1, nucleolar pre-rRNA processing protein, homolog (S. cerevisiae) pseudogene	2
+chromosome 12 open reading frame 29 pseudogene	2
+mitochondrial carrier 1 pseudogene	2
+ubiquitin-conjugating enzyme E2D 4 (putative) pseudogene	2
+PRAME family member 17-like	3
+translocase of outer mitochondrial membrane 5 homolog (yeast) pseudogene	2
+DEAD (Asp-Glu-Ala-Asp) box polypeptide 55 pseudogene	2
+intraflagellar transport 57 homolog (Chlamydomonas) pseudogene	2
+chromosome 16 open reading frame 61 pseudogene	3
+zinc finger, AN1-type domain 1 pseudogene	2
+5-azacytidine induced 2 pseudogene	3
+pyruvate dehydrogenase kinase, isozyme 1 pseudogene	2
+myoneurin pseudogene	2
+ribosomal protein L12 pseudogene	3
+putative uncharacterized protein UNQ6125/PRO20090-like	6
+riboflavin kinase pseudogene	2
+synaptophysin-like 1 pseudogene	2
+ribosomal protein L38 pseudogene	2
+oxysterol binding protein-like 9 pseudogene	5
+ret finger protein-like 4A pseudogene	5
+solute carrier family 19, member 3 pseudogene	2
+uracil-DNA glycosylase pseudogene	2
+NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 4, 9kDa pseudogene	3
+glucoside xylosyltransferase 1-like	2
+CXorf49B	2
+MLF1 interacting protein pseudogene	2
+transmembrane protein 126A pseudogene	3
+nuclear ubiquitous casein and cyclin-dependent kinase substrate 1-like	2
+dnaJ homolog subfamily B member 6-like	2
+RNA binding motif protein 22 pseudogene	2
+G protein-coupled receptor 160 pseudogene	2
+phosphoribosyl pyrophosphate synthetase 2 pseudogene	3
+cathepsin B pseudogene	2
+ubiquitin specific peptidase 12 pseudogene	5
+Ig heavy chain V-I region V35-like	4
+zinc finger protein 12 pseudogene	2
+acireductone dioxygenase 1 pseudogene	3
+yippee-like 5 (Drosophila) pseudogene	3
+transportin 3 pseudogene	2
+coiled-coil domain containing 53 pseudogene	2
+OK/SW-CL.36	2
+MOB family member 4, phocein pseudogene	2
+DnaJ (Hsp40) homolog, subfamily C, member 8 pseudogene	3
+ADP-ribosylation factor-like 8B pseudogene	2
+family with sequence similarity 213, member A pseudogene	2
+zinc finger protein 655 pseudogene	2
+RAD52 motif 1 pseudogene	2
+serine/threonine-protein phosphatase 4 regulatory subunit 2-like	5
+olfactory receptor 7E24-like	3
+putative uncharacterized protein FLJ45355-like	4
+zinc finger protein 430 pseudogene	2
+mucin-3A-like	2
+dpy-19-like 4 (C. elegans) pseudogene	2
+tRNA methyltransferase 11 homolog (S. cerevisiae) pseudogene	2
+zinc finger CCHC-type and RNA binding motif 1 pseudogene	2
+FKSG29	2
+eukaryotic translation initiation factor 4E pseudogene	3
+SAP domain containing ribonucleoprotein pseudogene	2
+nuclear transport factor 2 pseudogene	3
+clathrin, light chain A pseudogene	2
+small EDRK-rich factor 2 pseudogene	2
+glucoside xylosyltransferase 1 pseudogene	4
+OK/SW-CL.58	2
+ribosomal protein L15 pseudogene	8
+proteasome (prosome, macropain) 26S subunit, non-ATPase, 7 pseudogene	3
+golgin subfamily A member 6-like protein 1-like	2
+ataxin 3 pseudogene	2
+ATP synthase subunit alpha, mitochondrial-like	2
+protein FAM27E3-like	2
+centromere protein N pseudogene	2
+putative speedy protein E8-like	2
+zinc finger protein 114 pseudogene	7
+family with sequence similarity 54, member A pseudogene	2
+NFU1 iron-sulfur cluster scaffold homolog (S. cerevisiae) pseudogene	2
+immunoglobulin superfamily member 3-like	2
+zinc finger CCCH-type containing 14 pseudogene	2
+protein FAM27E2-like	13
+transcription elongation factor B (SIII), polypeptide 1 (15kDa, elongin C) pseudogene	2
+family with sequence similarity 175, member A pseudogene	2
+glucosamine-phosphate N-acetyltransferase 1 pseudogene	3
+Dexi homolog (mouse) pseudogene	2
+related RAS viral (r-ras) oncogene homolog 2 pseudogene	2
+required for meiotic nuclear division 1 homolog (S. cerevisiae) pseudogene	2
+dead end protein homolog 1-like	3
+C16DELp11.2	2
+C16DUPp11.2	2
+Bone size QTL	2
+Osteoporosis	2
+SCZD13	2
+anaphase promoting complex subunit 13 pseudogene	2
+B-cell receptor-associated protein 31 pseudogene	2
+methylmalonic aciduria (cobalamin deficiency) cblD type, with homocystinuria pseudogene	2
+akirin 2 pseudogene	2
+DNM1DN15@	2
+DNM1DN16@	2
+DNM1DN10@	2
+tubulin, epsilon 1 pseudogene	2
+putative uncharacterized protein C20orf69-like	5
+proline-rich nuclear receptor coactivator 2-like	2
+ribosomal protein S15a pseudogene	2
+signal recognition particle 19kDa pseudogene	2
+DDX11L1	2
+ribosomal protein S6 kinase beta-1-like	2
+cell division cycle associated 8 pseudogene	3
+60S ribosomal protein L23a-like	4
+protein LLP homolog	2
+protein FAM27D1-like	7
+ubiquitin carboxyl-terminal hydrolase 17-like pseudogene	3
+abhydrolase domain containing 15 pseudogene	3
+VENT homeobox pseudogene	2
+POTE ankyrin domain family member B-like	2
+chromosome 7 open reading frame 73 pseudogene	2
+chromosome 18 open reading frame 21 pseudogene	2
+neurotrophin 4 pseudogene	2
+Rho GTPase activating protein 20 pseudogene	3
+SRA stem-loop interacting RNA binding protein pseudogene	2
+protein FAM136A-like	4
+zinc finger protein 519 pseudogene	6
+ankyrin repeat domain 11 pseudogene	2
+ring-box 1, E3 ubiquitin protein ligase pseudogene	2
+cytochrome c oxidase subunit VIIa polypeptide 2 like pseudogene	2
+DYZ1 repeat sequence	27
+general transcription factor IIi pseudogene	2
+ubiquitin-conjugating enzyme E2 variant 1 pseudogene	3
+NADH dehydrogenase (ubiquinone) 1 beta subcomplex, 5, 16kDa pseudogene	2
+leucine rich repeat containing 34 pseudogene	2
+solute carrier family 4 (anion exchanger), member 1, adaptor protein pseudogene	2
+REX1, RNA exonuclease 1 homolog (S. cerevisiae)-like 1 pseudogene	4
+polyribonucleotide nucleotidyltransferase 1 pseudogene	2
+cutaneous T-cell lymphoma-associated antigen 1 pseudogene	3
+ribosomal protein L21 pseudogene	5
+putative speedy protein-like protein 2-like	2
+N-ethylmaleimide-sensitive factor attachment protein, gamma pseudogene	7
+poly(A) binding protein, nuclear 1 pseudogene	3
+fatty acyl-CoA reductase 2-like	2
+coxsackievirus and adenovirus receptor-like	2
+chromosome 11 open reading frame 10 pseudogene	2
+coiled-coil domain-containing protein 29-like	3
+protein FRG1-like	3
+ubiquitin-conjugating enzyme E2L 3 pseudogene	2
+chromosome 5 open reading frame 60 pseudogene	2
+cytoskeleton associated protein 2-like pseudogene	2
+cytochrome c oxidase subunit VIIb pseudogene	2
+HECT and RLD domain containing E3 ubiquitin protein ligase 2 pseudogene	4
+Ig kappa chain V-II region RPMI 6410-like	2
+protein FAM115A-like	2
+ADP-ribosylation factor-like protein 17-like	2
+zinc finger protein 610 pseudogene	2
+thyroid hormone receptor interactor 13 pseudogene	2
+FGFR1 oncogene partner 2 pseudogene	2
+patatin-like phospholipase domain containing 4 pseudogene 1	2
+ubiquilin 1 pseudogene	12
+thymopoietin pseudogene	11
+fibrosin-like 1 pseudogene	3
+MAS1 oncogene-like pseudogene	14
+ribosomal protein SA pseudogene	7
+ribosomal protein L3 pseudogene	12
+zinc finger protein 70 pseudogene	6
+zinc finger protein 93 pseudogene	5
+WAS protein family, member 3 pseudogene	12
+ubiquitin specific peptidase 8 pseudogene	13
+RAN, member RAS oncogene family pseudogene	5
+mucin 4, cell surface associated pseudogene	4
+N-ethylmaleimide-sensitive factor pseudogene	2
+DEAD (Asp-Glu-Ala-Asp) box helicase 6 pseudogene	10
+MHC class I polypeptide-related sequence B pseudogene	11
+eukaryotic translation termination factor 1 pseudogene	14
+major histocompatibility complex, class I, B pseudogene	2
+succinate-CoA ligase, ADP-forming, beta subunit pseudogene	10
+olfactory receptor, family 2, subfamily W, member 1 pseudogene	17
+olfactory receptor, family 2, subfamily B, member 2 pseudogene	14
+olfactory receptor, family 2, subfamily B, member 6 pseudogene	7
+olfactory receptor, family 2, subfamily G, member 6 pseudogene	5
+olfactory receptor, family 2, subfamily J, member 3 pseudogene	6
+olfactory receptor, family 2, subfamily Y, member 1 pseudogene	6
+protein phosphatase 1, regulatory (inhibitor) subunit 2 pseudogene	3
+protein kinase, interferon-inducible double stranded RNA dependent activator pseudogene	2
+KIAA1586 pseudogene	3
+KIAA0664 pseudogene	5
+metadherin pseudogene	5
+forkhead box H1 pseudogene	2
+tubulin, beta 6 class V pseudogene	2
+proline rich 21 pseudogene	12
+sorting nexin 18 pseudogene	3
+tubulin, alpha 1c pseudogene	3
+ribosomal protein L4 pseudogene	3
+ribosomal protein L5 pseudogene	2
+ribosomal protein S23 pseudogene	2
+histone deacetylase 1 pseudogene	2
+CTAGE family, member 5 pseudogene	9
+zinc finger protein 41 pseudogene	2
+ribosomal protein L37 pseudogene	2
+zinc finger protein 35 pseudogene	2
+zinc finger protein 57 pseudogene	2
+zinc finger protein 85 pseudogene	3
+zinc finger, MYM-type 1 pseudogene	3
+zinc finger protein 670 pseudogene	5
+zinc finger protein 709 pseudogene	2
+zinc finger protein 852 pseudogene	2
+zinc finger protein 33B pseudogene	2
+zinc finger protein 267 pseudogene	2
+zinc finger protein 717 pseudogene	2
+zinc finger protein 449 pseudogene	2
+gon-4-like (C. elegans) pseudogene	2
+zinc finger protein 347 pseudogene	2
+zinc finger protein 415 pseudogene	2
+zinc finger, MYM-type 4 pseudogene	2
+formin binding protein 1 pseudogene	2
+ankyrin repeat domain 33B pseudogene	5
+fatty acyl CoA reductase 2 pseudogene	5
+poly(rC) binding protein 1 pseudogene	2
+ribonucleotide reductase M2 pseudogene	2
+RNA methyltransferase like 1 pseudogene	2
+melanoma antigen family C, 3 pseudogene	3
+T, brachyury homolog (mouse) pseudogene	2
+N-terminal asparagine amidase pseudogene	3
+TBC1 domain family, member 3 pseudogene	2
+charged multivesicular body protein 5 pseudogene	2
+melanoma antigen family A, 11 pseudogene	2
+melanoma antigen family A, 10 pseudogene	4
+tripartite motif containing 60 pseudogene	3
+DENN/MADD domain containing 4A pseudogene	2
+ubiquitin specific peptidase 21 pseudogene	2
+tripartite motif containing 48 pseudogene	2
+CTD nuclear envelope phosphatase 1 pseudogene	2
+PRKC, apoptosis, WT1, regulator pseudogene	2
+GTF2I repeat domain containing 1 pseudogene	2
+glutathione S-transferase alpha 5 pseudogene	2
+taste receptor, type 2, member 7 pseudogene	2
+suppressor of cytokine signaling 6 pseudogene	2
+lysine (K)-specific demethylase 4D pseudogene	3
+family with sequence similarity 176, member C pseudogene	4
+ribosome binding factor A (putative) pseudogene	2
+chromosome 14 open reading frame 166 pseudogene	2
+transcription elongation regulator 1 pseudogene	3
+neuroepithelial cell transforming 1 pseudogene	3
+coenzyme Q10 homolog B (S. cerevisiae) pseudogene	2
+non-SMC condensin I complex, subunit G pseudogene	2
+fermitin family member 3 pseudogene	3
+cAMP responsive element binding protein 1 pseudogene	3
+DEAD (Asp-Glu-Ala-Asp) box polypeptide 43 pseudogene	2
+eukaryotic translation initiation factor 5 pseudogene	2
+ubiquitin-like modifier activating enzyme 2 pseudogene	2
+family with sequence similarity 71, member A pseudogene	2
+family with sequence similarity 71, member B pseudogene	2
+DnaJ (Hsp40) homolog, subfamily C, member 9 pseudogene	2
+MAP/microtubule affinity-regulating kinase 2 pseudogene	8
+MAP/microtubule affinity-regulating kinase 4 pseudogene	3
+MAP/microtubule affinity-regulating kinase 3 pseudogene	3
+family with sequence similarity 47, member C pseudogene	2
+thyroid hormone receptor associated protein 3 pseudogene	2
+zona pellucida glycoprotein 3 (sperm receptor) pseudogene	2
+tetratricopeptide repeat domain 34 pseudogene	2
+ubiquitin-conjugating enzyme E2Q family member 2 pseudogene	6
+SET domain containing (lysine methyltransferase) 8 pseudogene	2
+ectonucleotide pyrophosphatase/phosphodiesterase 7 pseudogene	8
+LON peptidase N-terminal domain and ring finger 2 pseudogene	2
+olfactory receptor, family 2, subfamily S, member 2 pseudogene	3
+olfactory receptor, family 1, subfamily N, member 1 pseudogene	2
+ash2 (absent, small, or homeotic)-like (Drosophila) pseudogene	4
+olfactory receptor, family 2, subfamily A, member 5 pseudogene	2
+olfactory receptor, family 5, subfamily R, member 1 pseudogene	3
+olfactory receptor, family 7, subfamily E, member 24 pseudogene	18
+olfactory receptor, family 5, subfamily M, member 8 pseudogene	2
+olfactory receptor, family 6, subfamily C, member 2 pseudogene	3
+olfactory receptor, family 6, subfamily C, member 1 pseudogene	2
+olfactory receptor, family 5, subfamily P, member 3 pseudogene	2
+olfactory receptor, family 4, subfamily A, member 5 pseudogene	9
+olfactory receptor, family 8, subfamily K, member 5 pseudogene	2
+olfactory receptor, family 9, subfamily G, member 9 pseudogene	2
+olfactory receptor, family 5, subfamily B, member 3 pseudogene	2
+olfactory receptor, family 6, subfamily M, member 1 pseudogene	2
+olfactory receptor, family 5, subfamily J, member 2 pseudogene	4
+olfactory receptor, family 8, subfamily H, member 3 pseudogene	2
+olfactory receptor, family 8, subfamily A, member 1 pseudogene	2
+UDP glucuronosyltransferase 2 family, polypeptide B17 pseudogene	2
+UDP glucuronosyltransferase 2 family, polypeptide B7 pseudogene	3
+olfactory receptor, family 6, subfamily A, member 2 pseudogene	2
+olfactory receptor, family 4, subfamily F, member 21 pseudogene	3
+olfactory receptor, family 51, subfamily L, member 1 pseudogene	2
+olfactory receptor, family 52, subfamily H, member 1 pseudogene	2
+olfactory receptor, family 4, subfamily C, member 46 pseudogene	2
+olfactory receptor, family 4, subfamily A, member 16 pseudogene	3
+olfactory receptor, family 4, subfamily A, member 15 pseudogene	3
+olfactory receptor, family 5, subfamily B, member 12 pseudogene	2
+olfactory receptor, family 10, subfamily Q, member 1 pseudogene	3
+olfactory receptor, family 52, subfamily B, member 4 pseudogene	2
+olfactory receptor, family 52, subfamily N, member 2 pseudogene	2
+olfactory receptor, family 52, subfamily E, member 4 pseudogene	2
+ATP-binding cassette, sub-family G (WHITE), member 2 pseudogene	3
+parkinson protein 7 pseudogene	2
+iron-sulfur cluster assembly 1 homolog (S. cerevisiae) pseudogene	3
+transforming, acidic coiled-coil containing protein 3 pseudogene	2
+olfactory receptor, family 11, subfamily H, member 12 pseudogene	2
+complement component 1, q subcomponent binding protein pseudogene	2
+poly(A) binding protein, cytoplasmic 4 (inducible form) pseudogene	2
+short chain dehydrogenase/reductase family 42E, member 1 pseudogene	8
+adenosine deaminase domain containing 1 (testis-specific) pseudogene	2
+polymerase (RNA) III (DNA directed) polypeptide G (32kD) pseudogene	2
+protein kinase, cAMP-dependent, regulatory, type II, beta pseudogene	2
+solute carrier family 6 (amino acid transporter), member 14 pseudogene	3
+amyloid beta (A4) precursor protein-binding, family A, member 2 pseudogene	2
+solute carrier family 5 (low affinity glucose cotransporter), member 4 pseudogene	3
+guanine nucleotide binding protein (G protein), beta polypeptide 2-like 1 pseudogene	3
+mannosyl (alpha-1,6-)-glycoprotein beta-1,2-N-acetylglucosaminyltransferase pseudogene	2
+leukocyte immunoglobulin-like receptor, subfamily A (with TM domain), member 2 pseudogene	2
+myxovirus (influenza virus) resistance 1, interferon-inducible protein p78 (mouse) pseudogene	3
+SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 5 pseudogene	2
+protein tyrosine phosphatase, receptor type, f polypeptide (PTPRF), interacting protein (liprin), alpha 1 pseudogene	2
+Intelligence QTL3	2
+male-specific lethal 3 homolog (Drosophila) pseudogene	2
+serine/arginine-rich splicing factor 3 pseudogene	2
+putative uncharacterized protein encoded by LINC00269-like	10
+zinc finger protein ENSP00000375192-like	3
+ubiquitin-conjugating enzyme E2N pseudogene	2
+putative uncharacterized protein encoded by LINC00596-like	2
+uncharacterized protein C1orf167-like	2
+putative uncharacterized protein LOC65996-like	2
+putative uncharacterized protein FLJ35883-like	3
+putative uncharacterized protein NCRNA00269-like	2
+histone demethylase UTY-like	3
+HLA class II histocompatibility antigen, DRB1-7 beta chain-like	2
+ubiquitin-40S ribosomal protein S27a-like	2
+ankyrin repeat domain-containing protein SOWAHC-like	2
+TBC1 domain family member 3H-like	2
+chromosome 18 open reading frame 32 pseudogene	4
+programmed cell death 5 pseudogene	2
+gamma-glutamylcyclotransferase pseudogene	3
+zinc finger protein 100 pseudogene	2
+shugoshin-like 1 (S. pombe) pseudogene	2
+breast cancer anti-estrogen resistance 1 pseudogene	2
+HERV-FRD provirus ancestral Env polyprotein pseudogene	12
+M-phase phosphoprotein 10 (U3 small nucleolar ribonucleoprotein) pseudogene	8
+tenascin XB pseudogene	6
+leucine rich repeat containing 37, member A2 pseudogene	3
+polymerase	3
+env	2
+GRAM domain containing 4 pseudogene	6
+diffuse panbronchiolitis critical region 1 pseudogene	4
+ATP-binding cassette, sub-family B (MDR/TAP), member 10 pseudogene	2
+protein phosphatase 6, regulatory subunit 2 pseudogene 1	2
+glutathione S-transferase theta-4-like	2
+signal-regulatory protein beta-1-like	2
+putative uncharacterized protein FLJ38264-like	2
+killer cell immunoglobulin-like receptor 3DL1-like	2
+putative killer cell immunoglobulin-like receptor like protein KIR3DP1-like	3
+double homeobox protein 4-like protein 2-like	3
+LSM2 homolog, U6 small nuclear RNA associated (S. cerevisiae) pseudogene	2
+endogenous retrovirus group 3, member 1 pseudogene	2
+MARCKS-like 1 pseudogene	2
+putative uncharacterized protein FLJ46235-like	3
+putative uncharacterized protein FLJ46348-like	12
+polyadenylate-binding protein 4-like	2
+sorting nexin-18-like	2
+hydrocephalus-inducing protein homolog	2
+transmembrane protein 191B-like	2
+putative uncharacterized protein FLJ11871-like	2
+40S ribosomal protein SA-like	2
+aconitate hydratase, mitochondrial-like	2
+ectonucleotide pyrophosphatase/phosphodiesterase family member 7-like	6
+mediator of RNA polymerase II transcription subunit 15-like	2
+indolethylamine N-methyltransferase-like	2
+FKSG48	2
+vesicle-trafficking protein SEC22b-like	2
+putative colon cancer-associated antigen SK1-like	3
+glutathione S-transferase theta-1-like	2
+putative transmembrane protein FLJ36131-like	3
+T-complex protein 11 homolog	2
+zinc finger FYVE domain-containing protein 9-like	2
+c-Jun-amino-terminal kinase-interacting protein 1-like	2
+neurogenic locus notch homolog protein 2-like	2
+D(1B) dopamine receptor-like	2
+otopetrin-1-like	3
+peptidyl-prolyl cis-trans isomerase A-like 4G-like	2
+Ig heavy chain V region 102-like	2
+tektin-4-like	3
+RNA-binding motif protein, Y chromosome, family 1 member F/J-like	2
+trnT	2
+NADH dehydrogenase subunit 6	2
+trnE	2
+NADH dehydrogenase subunit 5	2
+trnL	4
+trnS	4
+trnH	2
+trnR	2
+NADH dehydrogenase subunit 4L	2
+NADH dehydrogenase subunit 4	2
+cytochrome c oxidase subunit III	2
+trnG	2
+NADH dehydrogenase subunit 3	2
+trnK	2
+trnD	2
+trnY	2
+trnC	2
+16S rRNA	2
+12S rRNA	2
+trnF	2
+trnP	2
+trnV	2
+trnW	2
+trnA	2
+NADH dehydrogenase subunit 2	2
+trnQ	2
+trnM	2
+trnI	2
+NADH dehydrogenase subunit 1	2

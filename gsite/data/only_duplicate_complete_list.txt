@@ -1,0 +1,4614 @@
+ADAMTS-2	
+AS	
+CO4	
+myomegalin-like	
+HOX4	
+KMS	
+ACVRLK4	
+CL1	
+RFC1	
+HMGB1L1	
+RPS18	
+RAD26L	
+serine/arginine-rich splicing factor 3-like	
+ANG1	
+protein phosphatase 2, regulatory subunit B'', beta pseudogene	
+PCDH19	
+PGP	
+RAI1	
+CPA3	
+TAFII105	
+ISSX	
+PAF1	
+NAPOR	
+MTF1	
+HSM	
+B18	
+LSAMP-AS1	
+ATP-binding cassette, sub-family F (GCN20), member 2 pseudogene	
+HNRPA1L3	
+CRP2	
+KSR	
+TNRC18	
+NPR3	
+NOS	
+ectonucleotide pyrophosphatase/phosphodiesterase 7 pseudogene	
+FA1	
+LYST2	
+EIG7	
+ASH2	
+oxysterol binding protein-like 9 pseudogene	
+putative speedy protein E8-like	
+SMAP2	
+PRG2	
+SEP	
+BRCC1	
+P54	
+SMT3 suppressor of mif two 3 homolog 2 (S. cerevisiae) pseudogene	
+CDH16	
+RPL7P	
+I1	
+olfactory receptor, family 2, subfamily B, member 2 pseudogene	1
+protein FAM27E2-like	1
+MIR-199-s	
+polyribonucleotide nucleotidyltransferase 1 pseudogene	
+pyrophosphatase (inorganic) 1 pseudogene	
+CRIPTO	
+VH	3
+UBTFL5	
+PIG11	
+mRNA turnover 4 homolog (S. cerevisiae) pseudogene	
+TMS	
+eukaryotic translation elongation factor 1 delta (guanine nucleotide exchange protein) pseudogene	
+HP-1	
+CDC14B	
+ALDC	
+SOCS4	
+N-acetylneuraminic acid phosphatase pseudogene	
+CLAMP	
+FAE	
+NR2F2	
+double homeobox protein 4-like protein 4-like	6
+ribosomal protein S2 pseudogene	
+EZH1	
+NADH dehydrogenase (ubiquinone) 1 beta subcomplex, 4, 15kDa pseudogene	
+zinc finger protein 85 pseudogene	
+SET7	
+PAB1	
+CYPL1	
+TTF1	
+NPC1	
+KLIP1	
+neurotrophin 4 pseudogene	
+zinc finger protein 449 pseudogene	
+HBII-52-46	
+family with sequence similarity 71, member B pseudogene	
+HI	
+transcription elongation factor B (SIII), polypeptide 1 (15kDa, elongin C) pseudogene	
+NME1	
+CDH20	
+apolipoprotein O pseudogene	
+NMB	
+MIP	
+olfactory receptor, family 1, subfamily N, member 1 pseudogene	
+NSCL2	
+SKIP	
+HARP	
+F11	
+TRIP	
+Ses2	
+mediator complex subunit 15 pseudogene	
+PKC	
+OCP2	
+SMAP1	
+GPXL1	
+p58	
+LAP	
+HERV-FRD provirus ancestral Env polyprotein pseudogene	1
+TPX1	
+family with sequence similarity 58, member A pseudogene	
+DCR1	
+SLC9A6	
+APY	
+TST1	
+GRIP1	
+fibroblast growth factor 7 pseudogene	
+GLS	
+peptidyl-prolyl cis-trans isomerase A-like 4G-like	
+dipeptidyl-peptidase 3 pseudogene	
+ATTP	
+ankyrin repeat domain-containing protein SOWAHC-like	
+EPO	
+ribosomal protein S27a pseudogene	
+HED	
+ubiquitin carboxyl-terminal hydrolase 17-like	1
+p8	
+RAR	
+CRS1	
+MAK	
+POLR1C	
+KIR2DL5	
+CT	
+TCRAV8S1	
+PCL	
+RP11-3J10.8	
+zinc finger protein 670 pseudogene	
+GCKR	
+chromosome 12 open reading frame 29 pseudogene	
+eukaryotic translation initiation factor 4E pseudogene	
+family with sequence similarity 213, member A pseudogene	
+MAT	
+MAD2	
+CCD1	
+IK1	
+nuclear pore complex-interacting protein-like 2-like	
+PARF	
+HECT and RLD domain containing E3 ubiquitin protein ligase 2 pseudogene	
+MCT1	
+PNMT	
+AAC2	
+RAP1GA1	
+ERF	
+KIAA1191	
+DEFB3	
+INV	
+MN	
+SUR2	
+IV	
+LGMD1D	
+RASSF3	
+MOP	
+RPS17L1	
+ODC1L	
+HGFL	
+HCP1	
+PIG5	
+EIF2AK1	
+proline rich 13 pseudogene	
+SRA stem-loop interacting RNA binding protein pseudogene	
+CTPA	
+H2A.1	
+Osteoarthritis QTL 29	
+MDR1	
+BAT1	
+suppressor of cytokine signaling 6 pseudogene	
+HML	
+CDY	
+CDA12	
+CBL-3	
+TCRAV26S1	
+FMD	
+CENPC	
+DDX26	
+RILP	
+OR17-23	
+P65	
+JP1	
+NP2	
+NANOG	
+RF1	
+MIG12	
+ERIS	
+MMD1	
+NR6	
+NS	
+LHFPL4	
+HSFY	
+ALDH7	
+neurogenic locus notch homolog protein 2-like	
+FKSG29	
+KIAA1958	
+VIP	
+PSG11	
+BFD	
+karyopherin (importin) beta 2 pseudogene	
+zinc finger CCCH-type containing 14 pseudogene	
+PSF1	
+RCCP2	
+RP58	
+zinc finger protein 415 pseudogene	
+CDC25L	
+HL	
+RCN2	
+RPML3	
+MP1	
+NLR family, apoptosis inhibitory protein pseudogene	
+PRAP	
+HPH2	
+CK	
+DTD	
+ORP1	
+CD33L2	
+HEN1	
+fibrosin-like 1 pseudogene	
+coiled-coil-helix-coiled-coil-helix domain containing 4 pseudogene	
+SCYA3L1	
+JP	
+TSSK1	
+peroxiredoxin 2 pseudogene	
+ubiquitin-fold modifier 1 pseudogene	
+KIAA0368	
+SCAR10	
+CGB5	
+PMS2CL	
+transcription factor Dp-1 pseudogene	
+CRA	
+GGTA1P	
+FSHD region gene 2 family, member C pseudogene	
+GK	
+EAF1	
+phosphodiesterase 4D interacting protein pseudogene	
+KIAA1984	
+EHK1	
+P0	
+glucoside xylosyltransferase 1-like	
+heterogeneous nuclear ribonucleoprotein L-like	
+CDC25	
+TCRAV11S1	
+PTB	
+SELP	
+TRX1	
+T2	
+glyceraldehyde-3-phosphate dehydrogenase pseudogene	1
+ATP6	
+VSIG6	
+cytochrome c oxidase subunit VIIa polypeptide 2 like pseudogene	
+KIAA0947	
+ANKRD33	
+dJ388M5	
+REN	
+Stv1	
+GALNT16	
+ARM1	
+ORC2	
+JUNB	
+TANGO	
+PFN1	
+EIF4A	
+LRP1	
+gamma-glutamylcyclotransferase pseudogene	
+CP27	
+GABPB1	
+C9	
+AIM	
+p8MTCP1	
+COX	
+RDS	
+KU-MEL-3	
+UBC4	
+DIM1	
+SR	
+ARP4	
+POR	
+CAMP	
+L2	
+COAS3	
+MRPL22	
+KIAA1598	
+AGM1	
+SMAD1	
+CDH1	
+P450C2D	
+APRIL	
+NAP2	
+ACTL6	
+AIB1	
+C-terminal binding protein 2 pseudogene	
+BCRP2	
+ASH1	
+WASH5P	
+ZNF225	
+NANOGP4	
+SRC1	
+BDPLT1	
+A6	
+CHAT	
+STAG3L3	
+glyceraldehyde-3-phosphate dehydrogenase-like	
+ARTC1	
+CCL28	
+MBD1	
+ESP1	
+CA11	
+CSNK2A1	
+IAP	
+STY	
+CD85	
+NOTCH3	
+GAS	
+FPRH2	
+A1	
+MS4A1	
+DTL	
+TCRAV8S2	
+ING2	
+ribosomal protein S7 pseudogene	
+serine/threonine-protein phosphatase 4 regulatory subunit 2-like	
+DLG3	
+ARFGAP1	
+WBP1	
+MED25	
+DP1	
+general transcription factor IIIC, polypeptide 6, alpha 35kDa pseudogene	
+BAL	
+ankyrin repeat domain 11 pseudogene	
+S6	
+BMIQ4	
+SCT	
+KIAA0355	
+MAS-related GPR, member X3 pseudogene	
+HC8	
+MST1	
+PLA2L	
+HEPTP	
+ACS	
+TBC1 domain family, member 3 pseudogene	
+family with sequence similarity 86, member A pseudogene	
+DDX31	
+CDS	
+C2orf27B	
+GALNT13	
+SNT1	
+H3 histone, family 3B (H3.3B) pseudogene	
+cytochrome c oxidase subunit I	
+NDUFA4	
+MCT5	
+GST3	
+METTL2	
+OX2R	
+PRPS1	
+KIAA2018	
+KSP37	
+LTBP3	
+VRP	
+CEBPZ	
+GBP	
+TGS1	
+IFI-4	
+NF1L6	
+nitric oxide synthase 2, inducible pseudogene	
+NBC2	
+LAP3	
+LPD	
+A2	
+PABPL1	
+BRX	
+putative V-set and immunoglobulin domain-containing-like protein IGHV4OR15-8-like	
+KIAA2013	
+CLE	
+LSM14A, SCD6 homolog A (S. cerevisiae) pseudogene	
+TLN	
+ZNF853	
+P56	
+NRAP	
+SCZD9	
+ICH	
+solute carrier family 7 (cationic amino acid transporter, y+ system), member 3 pseudogene	
+LPP1	
+ADCY3	
+ADIR2	
+CMM8	
+carboxy-terminal domain RNA polymerase II polypeptide A small phosphatase 2-like	
+GJA9	
+FACD	
+HLA-DRB	
+PAC-1	
+P42	
+PAD	
+PLAP	
+COP	
+methylenetetrahydrofolate dehydrogenase (NADP+ dependent) 2, methenyltetrahydrofolate cyclohydrolase pseudogene	
+ODF	
+FAM75-like protein FLJ46321 pseudogene	
+ubiquitin-like 5 pseudogene	
+DAP4	
+RNU1P1	
+TOB55	
+RAB7	
+CPP	
+IDP	
+SC1	
+CAPG	
+DMT1	
+glycine cleavage system protein H (aminomethyl carrier) pseudogene	
+ZIP	
+mediator complex subunit 28 pseudogene	
+TTY11	
+MCT3	
+HU-2	
+RCA1	
+U2	
+FBXO30	
+DMC	
+UGT1	
+WDR45-like pseudogene	
+GST1	
+EMA	
+REX1	
+histone demethylase UTY-like	
+CARP	
+SSA	
+MED24	
+NFU1 iron-sulfur cluster scaffold homolog (S. cerevisiae) pseudogene	
+GSE	
+NBPF10	
+GPAT	
+MAGE2	
+CEACAM3	
+RZF	
+GRF2	
+NADH dehydrogenase subunit 3	
+sorting nexin-18-like	
+PSS	
+HIS1	
+RTS	
+CS-1	
+PBX2	
+GAL7	
+DAGK6	
+GPR89B	
+GGT	
+CT1.5	
+SMAC3L	
+UBC	
+p180	
+olfactory receptor, family 6, subfamily A, member 2 pseudogene	
+IL-20	
+RAC3	
+GRIK2	
+nuclear receptor binding factor 2 pseudogene	
+LCN5	
+PP2C-DELTA	
+CT4.8	
+P28	
+SOSS-B1	
+ESF1, nucleolar pre-rRNA processing protein, homolog (S. cerevisiae) pseudogene	
+P40	
+CED4	
+PC2	
+SL1	
+MKS	
+MTMR8	
+L13	
+FSP2	
+HAP1	
+D21S2088E	
+CFAG	
+GCP	
+MCOPCB6	
+MRXSL	
+RIG1	
+APOBEC1L	
+POP3	
+MLD	
+MAGEA6	
+p40	
+AZ2	
+PCA1	
+ARF1	
+CLGN	
+PARC	
+CSN1	
+FCP	
+HCRN	
+TGIF	
+COX7AL	
+NA88A	
+F379	
+PGR2	
+PFD	
+LPL	
+RPP2	
+ZNF705C	
+KLK3	
+lysine (K)-specific demethylase 4D pseudogene	
+CLM	
+E2	
+LNP	
+POLB	
+PRP38 pre-mRNA processing factor 38 (yeast) domain containing A pseudogene	
+RASSF4	
+SAT2	
+NK1	
+61E3.4	
+NBS1	
+DNM1DN4@	
+HK3	
+FX	
+KIAA0753	
+family with sequence similarity 47, member C pseudogene	
+CDK11-p46	
+WRS	
+NL2	
+C11orf4	
+PDP1	
+HCC1	
+zinc finger protein 91 pseudogene	
+MOB1	
+PC	
+PSK	
+CMD2A	
+TCRBV12S3	
+MCT4	
+ME1	
+SRGAP2	
+GRL	
+GARS	
+olfactory receptor, family 2, subfamily W, member 1 pseudogene	1
+capicua homolog (Drosophila) pseudogene	1
+MCM2	
+NAT1	
+MRP-S28	
+TRD	
+FCP1	
+ELF1	
+MED	
+APC1	
+lysophospholipase II pseudogene	
+FANCB	
+PIP1	
+U14	
+RPL13	
+MU	
+DNM1DN11@	
+SRK	
+D3F15S2	
+PKR	
+ATP2B2	
+DGPT	
+RPL10	
+IGHD1B	
+KNTC2AP	
+PGR1	
+TCRGC1	
+phosphatidylinositol glycan anchor biosynthesis, class F pseudogene	
+TRY1	
+CES2	
+TCRAV19S1	
+double homeobox protein 4-like protein 2-like	
+KIAA0895	
+RPL23	
+NTNG1	
+AAA1	
+ARIP1	
+MCDR2	
+POM121	
+OR19-7	
+CFD	
+ED3	
+TCBA1	
+SNF2	
+PUR1	
+RNA-binding motif protein, Y chromosome, family 1 member F/J-like	
+KIAA0408	
+HLA-CDA12	
+mucin 4, cell surface associated pseudogene	
+ACA59	
+CNK	
+OR11-1	
+SCP	
+NOV	
+GCP-2	
+protein phosphatase 2, regulatory subunit B', gamma pseudogene	
+PH2	
+FBS	
+zinc finger protein 655 pseudogene	
+DENN/MADD domain containing 4A pseudogene	
+actin related protein 2/3 complex, subunit 1A, 41kDa pseudogene	
+TCRAV10S1	
+CRP1	
+ATD	
+ARD1	
+LCA3	
+D2	
+HRG	
+GBP3	
+C6ST	
+HCR	
+AE2	
+RSK	
+HL1	
+GCL	
+KIAA1737	
+CRIP	
+PTPRZ	
+mitochondrial carrier 2 pseudogene	
+ADAM metallopeptidase domain 20 pseudogene	
+FAD1	
+HRX	
+NADH dehydrogenase subunit 5	
+ODC1	
+FDH	
+LEU1	
+TRAM	
+RAN, member RAS oncogene family pseudogene	
+REGL	
+EPR-1	
+ULG5	
+zinc finger protein 184 pseudogene	
+guanine nucleotide binding protein (G protein), beta polypeptide 2-like 1 pseudogene	
+TNAP	
+TSH2	
+KID	
+NBP1	
+Nomo	
+HCAP	
+SPANXB	
+guanine nucleotide binding protein (G protein), gamma 10 pseudogene	
+ADAM23	
+MSH	
+KSR2	
+TSC	
+IDD	
+programmed cell death 6 interacting protein pseudogene	
+CAT	
+LAP1	
+MIR499A	
+TCF6L1	
+HIS	
+DEFB103	
+zinc finger protein 736 pseudogene	
+RDC1	
+protein FAM27E3-like	
+MRP1	
+CFP1	
+CPT	
+LAN	
+p55	
+WEE1 homolog (S. pombe) pseudogene	
+SN	
+coiled-coil domain containing 86 pseudogene	
+EDA3	
+chromosome 18 open reading frame 21 pseudogene	
+C21orf15	
+HBLRR	
+ECA2	
+poly (ADP-ribose) glycohydrolase pseudogene	
+DLD	
+ubiquitin-40S ribosomal protein S27a-like	
+TAP1	
+MRG1	
+PTX2	
+EIF3A	
+BMS1 homolog, ribosome assembly protein (yeast) pseudogene	1
+ALR	
+TOMM6	
+PPP1R6	
+PIMT	
+TTMA	
+SIP	
+EF1A	
+trnP	
+TAR	
+EVA1	
+EWSR2	
+OK/SW-CL.58	
+replication protein A2, 32kDa pseudogene	
+COL6A4	
+TAF9 RNA polymerase II, TATA box binding protein (TBP)-associated factor, 32kDa pseudogene	
+AL4	
+LILRB5	
+LRRC37A	
+FBX30	
+adenosylhomocysteinase pseudogene	
+K13	
+UBP	
+SPR	
+CLCP1	
+DRP	
+tubulin beta chain-like	
+SAT1	
+RLF	
+MIR1	
+SPATA8	
+SRA	
+acyloxyacyl hydrolase (neutrophil)	
+MTS	
+BM600	
+ALG10	
+SIT1	
+GOT1	
+KNTC1AP	
+EIF1AP1	
+TCI	
+MRPL2	
+zinc finger protein 131 pseudogene	
+OTX3	
+MCAF	
+TEM	
+MBD2	
+RH	
+PPIase	
+HL-1	
+FCGR2	
+PRG	
+SLIM	
+WSS	
+STD	
+ESA1	
+TCRAV24S1	
+HB-1	
+major histocompatibility complex, class I, B pseudogene	
+ET	
+indolethylamine N-methyltransferase-like	
+H1RNA	
+B3GNT8	
+DPK	
+NECC1	
+MRAP	
+MAGEA2	
+GUCA2	
+coiled-coil domain containing 101 pseudogene	
+chromosome 16 open reading frame 61 pseudogene	
+SHEP1	
+CGA	
+MAFA	
+p150	
+P160	
+TRAP1	
+DBI	
+CAT2	
+CT5.4	
+ATPM	
+A3GALNT	
+WASF4	
+BDMR	
+ARTS	
+MKI67 (FHA domain) interacting nucleolar phosphoprotein pseudogene	
+NET4	
+GSS	
+ASC-1	
+PP4	
+tripartite motif containing 48 pseudogene	
+CALDAG-GEFI	
+KIAA1211	
+TTG1	
+B3GNT6	
+CREB3	
+putative UPF0607 protein ENSP00000332738-like	
+PSM	
+BTF4	
+olfactory receptor, family 6, subfamily C, member 1 pseudogene	
+PKR1	
+OR7E72P	
+FBRNP	
+PSP-A	
+HXBL	
+SERS	
+putative protein FAM215A-like	
+MAD1	
+SLEB2	
+N-ethylmaleimide-sensitive factor attachment protein, gamma pseudogene	
+AGS2	
+SLC6A5	
+GALNT7	
+DNM1DN16@	
+BS	
+DM1	
+RPD3	
+GE	
+ZNF182	
+USP21	
+HSPG	
+SHAP	
+PEPP-2	
+ovostatin homolog 2-like	
+TRYP2	
+STK3	
+UGT1A	
+LEURS	
+TIM	
+PGD2	
+IP3R	
+LRF	
+CRS3	
+CKR-1	
+ADP-ribosylation factor-like 6 interacting protein 1 pseudogene	
+GPT	
+DP	
+MYH14	
+OR7E73P	
+CCL4L	
+olfactory receptor, family 6, subfamily C, member 2 pseudogene	
+MZF-1	
+DAO	
+USH3B	
+CLP1	
+GLCT1	
+CED-12	
+CT4.7	
+SWAP	
+opioid growth factor receptor pseudogene	
+MPP1	
+transient receptor potential cation channel, subfamily C, member 6 pseudogene	
+PDF	
+ARHGAP10	
+ATP-binding cassette, sub-family B (MDR/TAP), member 10 pseudogene	
+ZAC1	
+TRA1	
+PRKAR1	
+DMP1	
+SRP1	
+NAT3	
+RBM	
+survival of motor neuron 1, telomeric pseudogene	
+DIA2	
+FMR1	
+CIB	
+C6orf8	
+poly(A) binding protein, nuclear 1 pseudogene	
+p42	
+KIAA1522	
+Rh4	
+olfactory receptor, family 2, subfamily G, member 6 pseudogene	
+LGALS7	
+NNX3	
+CDH14	
+protein-kinase, interferon-inducible double stranded RNA dependent inhibitor, repressor of (P58 repressor) pseudogene	
+M130	
+URP	
+p65	
+HSDJ0798C17	
+CTAGE family, member 5 pseudogene	
+DLP1	
+protein kinase, cAMP-dependent, regulatory, type II, beta pseudogene	
+MDS	
+SPINT3	
+HBB	
+STRA13	
+P3	
+RIP1	
+SAA	
+DnaJ (Hsp40) homolog, subfamily C, member 19 pseudogene	
+B17	
+ALK1	
+L6	
+CRABP-I	
+ANF	
+KIAA0195	
+zinc finger protein 267 pseudogene	
+RT6	
+calponin 2 pseudogene	
+ND4	
+golgin subfamily A member 2-like	
+peptidyl-prolyl cis-trans isomerase A-like	1
+PI	
+MRPL27	
+GCD10	
+VPP2	
+HCCR-2	
+A20	
+methylmalonic aciduria (cobalamin deficiency) cblD type, with homocystinuria pseudogene	
+GSTT2B	
+CAP	
+interferon induced transmembrane protein pseudogene	
+HsT16992	
+SLIT1	
+UbcM2	
+DRS1	
+PK1	
+TCRAV16S1	
+SEMAL	
+AML1-EVI-1	
+MRP	
+TUBB2	
+MOR1	
+solute carrier family 5 (low affinity glucose cotransporter), member 4 pseudogene	
+GLC1M	
+POF	
+KS1	
+trnL	
+RAD23 homolog B (S. cerevisiae) pseudogene	
+nuclear receptor coactivator 4 pseudogene	
+PRO1	
+L31	
+OLF1	
+SYT12	
+CYC1	
+UDP glucuronosyltransferase 2 family, polypeptide B15 pseudogene	
+AHO3	
+tropomyosin 3 pseudogene	
+B3GNT1	
+MTND2	
+IF	
+AIDA	
+IL1RA	
+ZRC1	
+DEAD (Asp-Glu-Ala-Asp) box polypeptide 43 pseudogene	
+INT3	
+olfactory receptor, family 51, subfamily L, member 1 pseudogene	
+MRP-L22	
+MIG7	
+DGK	
+ND1	
+ARL1	
+SCP1	
+nuclear transcription factor Y, beta pseudogene	
+TAF2C2	
+CLIP	
+HRG1	
+BCL2/adenovirus E1B 19kDa interacting protein 3 pseudogene	1
+RPA2	
+p44	
+LAT	
+MLF1 interacting protein pseudogene	
+p50	
+olfactory receptor, family 4, subfamily A, member 16 pseudogene	
+CLA20	
+H1	
+BTB (POZ) domain containing 10 pseudogene	
+ACP	
+amyloid beta (A4) precursor protein-binding, family A, member 2 pseudogene	
+putative uncharacterized protein FLJ38264-like	
+CYPH	
+ubiquitin specific peptidase 12 pseudogene	
+NET2	
+SLEB1	
+PAC1	
+IDDM1	
+CLF	
+WS	
+AIS2	
+RanBP2L2	
+CHD5	
+ATF2	
+p200	
+trnR	
+LPH	
+PWCR1	
+TCRAV18S1	
+CLG	
+POLQ	
+APC7	
+FP	
+AHRR	
+ASM	
+M33	
+CT24.2	
+MRX1	
+GDH2	
+CEBP	
+KIAA1009	
+chromosome 14 open reading frame 166 pseudogene	
+KIAA1919	
+SRS	
+CHL1	
+UDP glucuronosyltransferase 2 family, polypeptide A3 pseudogene	
+NOS2	
+EP	
+KIAA1731	
+RN	
+ADF	
+KRTHB1	
+SFD	
+LPC1	
+XG	
+PRB1	
+6-pyruvoyltetrahydropterin synthase pseudogene	
+ARP3	
+amyloid P component, serum pseudogene	
+SNAX1	
+S12	
+NIK	
+KIAA1033	
+BRIGHT	
+KIAA1614	
+PC4	
+RAB28, member RAS oncogene family pseudogene	
+ERF1	
+TRPM2	
+KIR2DL5B	
+p90	
+HAST3	
+TAO1	
+UBH1	
+AMGL	
+PACAP	
+Dexi homolog (mouse) pseudogene	
+RAB1C	
+MST	
+ash2 (absent, small, or homeotic)-like (Drosophila) pseudogene	
+ubiquitin-like modifier activating enzyme 2 pseudogene	
+tektin-4-like	
+TUBB	
+Ras homolog enriched in brain pseudogene	
+COD2	
+olfactory receptor, family 52, subfamily H, member 1 pseudogene	
+MYP4	
+aurora kinase A interacting protein 1 pseudogene	
+BGP	
+HLA-H	
+KIAA1429	
+AMY1	
+MPP7	
+putative uncharacterized protein encoded by LINC00269-like	1
+MHC class I polypeptide-related sequence B pseudogene	1
+dJ760C5.1	
+J2	
+DAP3	
+RPS12	
+FBL4	
+NIF3 NGG1 interacting factor 3-like 1 (S. cerevisiae)	
+LIPA	
+PP2CB	
+TM	
+OCT1	
+LST3	
+DRG1	
+AD3	
+EKD1	
+PAR	
+DP2	
+nuclear pore complex-interacting protein-like 1-like	
+transmembrane protein 132B pseudogene	
+p56	
+GIP	
+U19	
+SG2NA	
+ARS	
+C16DUPp11.2	
+DYT10	
+PS1	
+PGAM-B	
+MRS	
+PAP	
+aldo-keto reductase family 1, member B10 (aldose reductase) pseudogene	
+SLP4	
+C12orf2	
+ADORA2	
+Rho GTPase activating protein 21 pseudogene	
+TCRA	
+FAN	
+T9	
+OSX	
+DGCR2	
+LRRN4	
+malate dehydrogenase 1, NAD (soluble) pseudogene	
+polyadenylate-binding protein 4-like	
+ARIA	
+Vma10	
+C20orf45	
+FMO2	
+FUS1	
+FIX	
+MBP	
+KIAA0664	
+KCP1	
+RBP4	
+BG	
+KIAA1841	
+KAP1.6	
+shugoshin-like 1 (S. pombe) pseudogene	
+FHM3	
+HBSCI	
+ubiquitin carboxyl-terminal esterase L1 (ubiquitin thiolesterase) pseudogene	
+pyruvate dehydrogenase kinase, isozyme 1 pseudogene	
+RFT1	
+GNG8	
+VENT homeobox pseudogene	
+MVP	
+mu2	
+SPN	
+IL-27	
+gon-4-like (C. elegans) pseudogene	
+XAP3	
+ZIN	
+NRK2	
+zinc finger, MYM-type 1 pseudogene	
+MRT1	
+PTC	
+IMP4	
+UBC4/5	
+PP610	
+NIRF	
+melanoma antigen family C, 3 pseudogene	
+CEACAM22P	
+PER1	
+MRCL	
+TCRBV15S1	
+SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 5 pseudogene	
+heat shock 70kDa protein 5 (glucose-regulated protein, 78kDa) pseudogene	
+ARSC	
+solute carrier family 6 (amino acid transporter), member 14 pseudogene	
+MR1	
+MADH6	
+KIAA1715	
+TCRAV22S1	
+ETL1	
+GOLGA5	
+CMPD1	
+TCRAV3S1	
+eukaryotic translation elongation factor 1 alpha 1 pseudogene	
+G protein-coupled receptor 160 pseudogene	
+LIG3	
+CTR1	
+PPR3	
+SHMT	
+FGD2	
+MAD	
+CPN2	
+CAPZ	
+HYDIN2	
+HBM	
+HOX1D	
+HMCS	
+G15	
+GPR58	
+citrate synthase, mitochondrial-like	
+chromosome 16 open reading frame 88 pseudogene	
+KIP2	
+CK1	
+PDK1	
+nuclear ubiquitous casein and cyclin-dependent kinase substrate 1-like	
+FSHD region gene 1 pseudogene	
+GAL3ST2	
+MS4A4	
+FCCMS	
+GASP-1	
+WS3	
+telomeric repeat-binding factor 1-like	
+SLC4A5	
+PRH1	
+GRP	
+AGPAT8	
+MTP	
+S8	
+Y box binding protein 2 pseudogene	
+putative uncharacterized protein FLJ35883-like	
+interferon stimulated exonuclease gene 20kDa-like 2 pseudogene	
+TL-PST	
+AT	
+CSR	
+RAB41	
+MIP2A	
+SIGLECL1	
+KIAA0664 pseudogene	
+NL1	
+SP-A	
+SAD1	
+CKLF	
+MAGEA4	
+PBP	
+PCP2	
+MSS1	
+APH2	
+RPB11b1	
+MRPS12	
+RGPD2	
+NB	
+SLA	
+B-cell receptor-associated protein 31 pseudogene	
+SNF2LB	
+KRTAP5-11	
+TRP1	
+HZF	
+PRP8	
+family with sequence similarity 115, member C pseudogene	
+IL-22	
+NRF2	
+MSAP	
+heterogeneous nuclear ribonucleoprotein C-like	
+MCS	
+CD3G	
+HOX3	
+UP2	
+chromosome 5 open reading frame 13 pseudogene	
+splicing factor 4 pseudogene	
+ribosome binding factor A (putative) pseudogene	
+TRIM34	
+angiogenic factor with G patch and FHA domains 1-like	
+FAME	
+PIF	
+SIL	
+SNURF	
+SLC35E2	
+FCT3A	
+KIAA1468	
+lymphocyte-specific protein 1 pseudogene	
+GPR26	
+HIN1	
+HRH2	
+PCPB	
+RNU12P	
+PCS	
+APOA2	
+melanoma antigen family B, 3 pseudogene	
+AKT interacting protein pseudogene	
+voltage-dependent anion channel 1 pseudogene	
+chromosome 4 open reading frame 27 pseudogene	
+IMP1	
+IGVPB	
+TAT	
+ME3	
+CORD5	
+ARA	
+ribosomal protein L3 pseudogene	1
+heterogeneous nuclear ribonucleoprotein H1 (H) pseudogene	
+KIAA0754	
+KIAA1751	
+heterogeneous nuclear ribonucleoprotein A3 pseudogene	1
+DELTA	
+zinc finger protein ENSP00000375192-like	
+RGP4	
+DEAD (Asp-Glu-Ala-Asp) box polypeptide 10 pseudogene	
+OI11	
+CTSO	
+cAMP responsive element binding protein 1 pseudogene	
+SRPSMCR	
+ANG2	
+ATP synthase, H+ transporting, mitochondrial Fo complex, subunit d pseudogene	
+GPCR1	
+CBF-B	
+non-SMC condensin I complex, subunit G pseudogene	
+MEMO1	
+FABP5P1	
+DEAD (Asp-Glu-Ala-Asp) box helicase 6 pseudogene	1
+NPYR	
+FK506 binding protein 4, 59kDa pseudogene	
+TRF2	
+capping protein (actin filament) muscle Z-line, alpha 1 pseudogene	
+BTF3	
+MLT	
+ZNF20	
+IGHV3-3	
+SCG2	
+DADR	
+ZNF4	
+MRX72	
+CYP2D7BP	
+GA	
+single stranded DNA binding protein 4 pseudogene	
+T, brachyury homolog (mouse) pseudogene	
+synaptophysin-like 1 pseudogene	
+aconitase 2, mitochondrial pseudogene	
+CT12.1	
+contactin associated protein-like 3 pseudogene	
+SAR	
+SMA3	
+STAG3L1	
+CAST	
+AMAC1	
+CRYG5	
+FAM48B1	
+OR11-3	
+SSB2	
+OR19-6	
+forkhead box H1 pseudogene	
+CANP	
+dnaJ homolog subfamily B member 6-like	
+FBP	
+RAMP	
+MASA	
+ACS3	
+chromosome 9 open reading frame 172 pseudogene	
+AQP9	
+OBP	
+GASP	
+FCG3	
+HDAC7	
+FH	
+RSS	
+TRP2	
+CAF-1	
+proline rich 21 pseudogene	1
+PRKACA	
+breast cancer anti-estrogen resistance 1 pseudogene	
+EJM	
+SUH	
+AMY2B	
+LH2	
+KIAA0247	
+FRAG1	
+FBW6	
+DEFB4	
+eukaryotic translation initiation factor 3, subunit J pseudogene	
+zinc finger protein 793	
+PE	
+p32	
+TLL	
+RRP2	
+potassium channel tetramerisation domain containing 5 pseudogene	
+SRBC	
+RDP	
+OR6-1	
+MTTP	
+PEMT	
+SCAR3	
+FCGR3	
+LRP9	
+TPH2	
+OST	
+HB6	
+PTP	
+TFIIH	
+TCRAV15S1	
+ODZ3	
+AGS4	
+TFIIF	
+5'-nucleotidase domain containing 1 pseudogene	
+PKB	
+PP2CE	
+AMPK	
+ADPRTL3	
+DDX21	
+TTY9	
+OR1-25	
+OCIF	
+KIAA1456	
+HTR3	
+UGPP1	
+MEF2B	
+FBL6	
+LAMP-3	
+ArfGAP with GTPase domain, ankyrin repeat and PH domain 1 pseudogene	
+NADH dehydrogenase (ubiquinone) 1 beta subcomplex, 9, 22kDa pseudogene	
+ELK2	
+HBP	
+DVL1	
+SEMAF	
+general transcription factor IIIA pseudogene	
+PAGE-1	
+olfactory receptor, family 9, subfamily G, member 9 pseudogene	
+chromosome 20 open reading frame 27 pseudogene	
+KIAA0182	
+AKAP2	
+HRMT1L3	
+VATB	
+TAP2	
+USE1	
+RIF	
+TTD	
+CSS1	
+B9	
+tetratricopeptide repeat domain 34 pseudogene	
+coxsackievirus and adenovirus receptor-like	
+glycerol-3-phosphate acyltransferase 2, mitochondrial pseudogene	
+ZNF422	
+AF-1	
+UGP1	
+SPR210	
+MOP3	
+KFSDX	
+PRPH	
+PGAM1	
+PRAME family member 17 pseudogene	
+CDKN1A	
+ML-1	
+CDK4I	
+PKD2	
+PA	
+melanoma associated antigen (mutated) 1-like 1 pseudogene	
+TCRAV27S1	
+GST	
+B61	
+MIR	
+TRFP	
+FAM21A	
+NGB	
+EHK	
+KIAA0146	
+GK1	
+UPF0607 protein ENSP00000381418-like pseudogene	
+PTPRQ	
+ATP synthase F0 subunit 6	
+L23	
+HHS	
+OR912-46	
+GC1	
+olfactory receptor, family 4, subfamily A, member 15 pseudogene	
+DFNB83	
+PIG6	
+CREB2	
+NUDT10	
+PPCD	
+PSAP	
+41153.0	
+glutathione S-transferase alpha 5 pseudogene	
+SAST	
+PRL1	
+STAR	
+SRM	
+COX11P	
+GrpE-like 1, mitochondrial (E. coli) pseudogene	
+PRAME family member 17-like	
+DFNA3	
+DAC	
+fatty acyl CoA reductase 2 pseudogene	
+KIAA1324	
+FDPSL2A	
+UDP glucuronosyltransferase 2 family, polypeptide B17 pseudogene	
+CAD	
+CD31	
+DHS	
+GST2	
+GJA10	
+OPA1	
+HRAS1	
+BEX1	
+AK3	
+KIAA1609	
+EDG2	
+PRR3	
+HLP2	
+eukaryotic translation initiation factor 2, subunit 3 gamma, 52kDa pseudogene	
+SMA4	
+rpL7a	
+GLYT2	
+COX4	
+prothymosin, alpha pseudogene	
+GPX6	
+RCN1	
+p28	
+Vph1	
+family with sequence similarity 136, member A pseudogene	
+KCIP-1	
+HDGF2	
+NCA	
+kinesin family member 27 pseudogene	
+HGL	
+PGA3	
+AD10	
+KCNA8	
+ubiquitin-conjugating enzyme E2 variant 2 pseudogene	
+cytochrome b	
+IGER	
+TTL	
+MCT6	
+NADH dehydrogenase subunit 4	
+VIP21	
+TCF6L3	
+immunoglobulin superfamily, DCC subclass, member 3 pseudogene	
+ORF1	
+chromosome 4 open reading frame 46 pseudogene	
+VDAC3	
+MGAT3	
+STK1	
+thioredoxin pseudogene	
+nuclear pore associated protein 1 pseudogene	1
+p38	
+trnW	
+FKSG48	
+PSORS2	
+HLS2	
+C15orf1	
+MART1	
+MCMP	
+AAC1	
+ARM	
+HDC	
+METTL2A	
+NT3	
+SAP2	
+putative golgin subfamily A member 8I-like	
+TRF	
+NET6	
+MM1	
+ribosomal protein S15a pseudogene	
+CBBM	
+CDA1	
+heat shock 70kDa protein 8 pseudogene	1
+ST2	
+IRT1	
+env	
+GPI	
+FY	
+ATP6D	
+FAM108A2	
+RAD1	
+HLA complex group 26 (non-protein coding) pseudogene	
+GLUT6	
+olfactory receptor, family 8, subfamily A, member 1 pseudogene	
+NAC1	
+GGF2	
+family with sequence similarity 60, member A pseudogene	
+PKD3	
+PMI1	
+CDG1P	
+M1	
+P1	
+HN3	
+P76	
+DR4	
+JBS	
+CDK11-p58	
+DNM1DN8@	
+NSPLII	
+c-Jun-amino-terminal kinase-interacting protein 1-like	
+CAL	
+FCRL1	
+S-phase kinase-associated protein 1 pseudogene	
+OR11-55	
+HLA class II histocompatibility antigen, DRB1-7 beta chain-like	
+HCP5	
+CATL	
+IMD2	
+HCRTR2	
+p25beta	
+PERRS	
+DUP	
+CHN	
+OI6	
+trnM	
+hydrocephalus-inducing protein homolog	
+p67	
+SNRPC	
+CPA6	
+PPAT	
+DFNA42	
+FEVR	
+FLG	
+programmed cell death 5 pseudogene	
+EST	
+SCCMS	
+TRGC1	
+PARK4	
+ATM interactor pseudogene	
+CNAP1	
+IL25	
+KIAA1462	
+Williams Beuren syndrome chromosome region 19 pseudogene	
+NAG20	
+LOAS	
+acireductone dioxygenase 1 pseudogene	
+P19	
+adenosine deaminase domain containing 1 (testis-specific) pseudogene	
+SPB1	
+SCC1	
+SCYL2	
+MAS1 oncogene-like pseudogene	1
+CST	
+EIF4F	
+RNASEH1	
+PAL	
+HBD3	
+OR6-31	
+MRP-L15	
+TAG	
+E4	
+GAGE-8	
+CPS1	
+ribosomal protein L12 pseudogene	
+zinc finger protein 470 pseudogene	
+DIP2	
+IPS-1	
+TRN	
+C2TA	
+ribosomal protein L14 pseudogene	
+TCRAV5S1	
+HPC7	
+thiopurine S-methyltransferase pseudogene	
+E3	
+ODS1	
+cysteine and glycine-rich protein 2 pseudogene	
+BP1	
+SDH2	
+HD1	
+TMSB15B	
+CD182	
+STAT5	
+small nuclear ribonucleoprotein polypeptide C pseudogene	1
+heterogeneous nuclear ribonucleoprotein M pseudogene	
+RHA	
+AT744.2	
+HOP	
+HCA3	
+NHP2 non-histone chromosome protein 2-like 1 (S. cerevisiae) pseudogene	
+CAF1	
+S4	
+LIP2	
+PCL1	
+NOD5	
+adenosylmethionine decarboxylase 1 pseudogene	
+MRX17	
+CHRNA7	
+SERPINE1 mRNA binding protein 1 pseudogene	
+golgin subfamily A member 8-like protein 2-like	
+BEX2	
+SMF	
+MLL/GAS7	
+RPL24	
+GBF1	
+PHP	
+SCP3	
+PRODH2	
+TSP1	
+KAT1	
+P	
+DnaJ (Hsp40) homolog, subfamily C, member 9 pseudogene	
+MRE11B	
+EAP2	
+OF	
+AIM1	
+SAP130	
+TIM1	
+heterogeneous nuclear ribonucleoprotein A1 pseudogene	3
+glucosamine-phosphate N-acetyltransferase 1 pseudogene	
+CLRN1	
+THM	
+NUBP1	
+MES	
+TCRAV1S2	
+SLC24A2	
+PLIP	
+hydroxyacyl-CoA dehydrogenase/3-ketoacyl-CoA thiolase/enoyl-CoA hydratase (trifunctional protein), beta subunit pseudogene	
+glucoside xylosyltransferase 1 pseudogene	
+ICOS	
+CTG26	
+GABPB2	
+VCF	
+MS4A7	
+TCRAV25S1	
+MAL	
+BEC1	
+formin binding protein 1 pseudogene	
+SYM1	
+IL-21	
+ZNF286C	
+NTT	
+ArgRS	
+p62	
+9G8	
+V1S5P	
+CLNS1B	
+PABP2	
+II	
+ATG8	
+MUC3A	
+NS3BP	
+TCRAV20S1	
+PRP	
+KIAA2026	
+LAT3	
+voltage-dependent anion channel 2 pseudogene	
+FBL7	
+HST	
+LHRHR	
+MRX2	
+AHH	
+FAP	
+WDR82	
+ACTBL1	
+PAR3	
+SGK2	
+CAK	
+OA3	
+HCF2	
+C11orf3	
+GAGE2	
+LBP	
+HSS	
+P38	
+PRAME family member 2 pseudogene	
+calcium binding protein P22 pseudogene	
+TN-C	
+KOX31	
+EIF-2B	
+OR21-1	
+HPP1	
+OR11-13	
+PIGX	
+actin related protein 2/3 complex subunit 1A pseudogene	
+RPL17L	
+CLC	
+RAX	
+OATP1	
+MRP-L32	
+SWS1	
+UGT2	
+MYM	
+putative protein FAM90A18/FAM90A19	
+KIAA0430	
+tRNA	
+HSD3	
+SERPINA11	
+SPP1	
+SCYL1	
+ribosomal protein L23a pseudogene	
+KIAA1549	
+AIS	
+OCTD	
+ring-box 1, E3 ubiquitin protein ligase pseudogene	
+phosphoribosyl pyrophosphate synthetase 2 pseudogene	
+AVP	
+phosducin-like 3 pseudogene	
+HNT	
+PP13	
+PNK	
+CALM	
+SAX3	
+chromosome 9 open reading frame 140 pseudogene	
+zinc finger and BTB domain containing 45 pseudogene	
+CSN2	
+olfactory receptor, family 2, subfamily A, member 5 pseudogene	
+TRNAMI2	
+heterogeneous nuclear ribonucleoprotein A1-like 2 pseudogene	
+ND5	
+chromosome 5 open reading frame 60 pseudogene	
+NBPF	
+DD3	
+NT	
+DEAH (Asp-Glu-Ala-His) box polypeptide 9 pseudogene	
+C11	
+IFN-alphaI	
+KIAA1147	
+HSTF1	
+DCR2	
+CMT2	
+KIAA0240	
+U7	
+NIPA2	
+SET domain containing (lysine methyltransferase) 8 pseudogene	
+KRTAP5-3	
+peptidylprolyl isomerase A (cyclophilin A) pseudogene	2
+chromosome 6 open reading frame 203 pseudogene	
+GLUT9	
+CRP3	
+KIAA1383	
+TFIIS	
+H9	
+putative colon cancer-associated antigen SK1-like	
+MT2	
+MASK	
+DNM1DN15@	
+G antigen family D member 5-like	
+NDR1	
+bolA homolog 3 (E. coli) pseudogene	
+olfactory receptor, family 11, subfamily H, member 12 pseudogene	
+ATX	
+OB	
+EMILIN3	
+ACHRD	
+HYAL1	
+REX1, RNA exonuclease 1 homolog (S. cerevisiae)-like 1 pseudogene	
+LNCR2	
+ADH4	
+SPG29	
+KIAA1644	
+CLECSF13	
+DAN	
+LIS2	
+FRP	
+MMP21	
+PRG3	
+TRX	
+protein phosphatase 1, regulatory (inhibitor) subunit 2 pseudogene	
+SCDO4	
+axin interactor, dorsalization associated pseudogene	
+FRA16D	
+keratin, type I cytoskeletal 18-like	
+anaphase-promoting complex subunit 1-like	
+SIP-1	
+ALRH	
+APM-1	
+STAG3L2	
+KLHL35	
+NF1HHS	
+chromosome X open reading frame 48 pseudogene	
+TNC	
+RPS17L2	
+ODF2	
+MFT	
+AB14	
+CPN1	
+RP2	
+zinc finger protein 610 pseudogene	
+GARP	
+NMDA receptor regulated 2 pseudogene	
+GCP2	
+SYN	
+RIP5	
+C2	
+zinc finger protein 479 pseudogene	
+PEPP1	
+poly(A) binding protein interacting protein 1 pseudogene	1
+KIAA0556	
+MSK16	
+family with sequence similarity 175, member A pseudogene	
+GRINL1A	
+p105	
+protein FAM27D1-like	
+ataxin 3 pseudogene	
+IBP1	
+RUFY3	
+TCF-3	
+CHMP4B	
+zinc finger protein 852 pseudogene	
+OR17-24	
+ACF	
+NP1	
+ORM	
+ATP1A1	
+P450DB1	
+SMCC	
+RNS4	
+zinc finger protein 41 pseudogene	
+AIP	
+ATXN3	
+nucleophosmin (nucleolar phosphoprotein B23, numatrin) pseudogene	2
+b55C20.2	
+OR19-4	
+citrate synthase pseudogene	
+AAT1	
+HCI	
+GLUR3	
+TRK1	
+DFNB38	
+SF	
+HB2	
+ribosomal protein L36a pseudogene	
+ASAH2C	
+CDGSH iron sulfur domain 1 pseudogene	
+PNP	
+olfactory receptor, family 6, subfamily M, member 1 pseudogene	
+zinc finger protein 12 pseudogene	
+anaphase promoting complex subunit 1 pseudogene	
+cyclin Y-like pseudogene	
+GP110	
+vesicle-trafficking protein SEC22b-like	
+XIST	
+nuclear transcription factor Y, gamma pseudogene	
+CHIF	
+WAS protein family, member 3 pseudogene	1
+KIAA0141	
+tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein, epsilon polypeptide pseudogene	
+coiled-coil domain containing 53 pseudogene	
+FCR-10	
+CPSB	
+DEF6	
+family with sequence similarity 176, member C pseudogene	
+KIAA0100	
+S100A15	
+GP	
+diffuse panbronchiolitis critical region 1 pseudogene	
+APR	
+LIM1	
+RECQL3	
+FCF1 small subunit (SSU) processome component homolog (S. cerevisiae) pseudogene	
+ERp60	
+40S ribosomal protein SA-like	
+CLPSMCR	
+FAT	
+IGEL	
+C1	
+USP17L	
+ECGF1	
+PRX2	
+PGA5	
+small nuclear ribonucleoprotein polypeptide B pseudogene	
+CYP1	
+CMS2A	
+ANXA8	
+ESP	
+P100	
+putative uncharacterized protein FLJ11871-like	
+adaptor-related protein complex 2, beta 1 subunit pseudogene	
+GAT2	
+NAG	
+PARP	
+DSC2	
+DHFRP2	
+RGL1	
+CEH	
+CLC2	
+CGB8	
+p52	
+L18	
+1	
+phosphoglycerate mutase 1 (brain) pseudogene	
+ND2	
+IMP-3	
+unknown transcript	
+HOKPP	
+trnA	
+FAF	
+PDZK4	
+RAD1 homolog (S. pombe) pseudogene	
+ECGF	
+myoneurin pseudogene	
+OI12	
+PRSSL1	
+TCRBV3S1	
+ALS6	
+ACS2	
+CD14	
+prohibitin pseudogene	
+TF	
+INOS	
+FJHN	
+YAP	
+IPS1	
+ADAM18	
+XBP1	
+PCM1	
+TCRG	
+OR11-11a	
+L32mt	
+HIP	
+HC3	
+ER	
+serine/arginine-rich splicing factor 2 pseudogene	
+SES1	
+POTE2beta	
+CCK	
+ABH4	
+SHP1	
+ODC	
+BD-3	
+SPS1	
+Intelligence QTL3	
+HRH1	
+TC2	
+PIK3CD	
+OR11-22	
+2F1	
+AIBP	
+ARF1P2	
+GF1	
+UBC2	
+L14	
+GAB1	
+MGR	
+MIF	
+RGP3	
+SMA3-L	
+PEX1	
+cytochrome c oxidase subunit VIIb pseudogene	
+MRPL28	
+CARF	
+DUX10	
+BRF2	
+MCAD	
+CTD (carboxy-terminal domain, RNA polymerase II, polypeptide A) small phosphatase 2 pseudogene	
+GIF	
+SPA1	
+TYRO4	
+cytokine induced apoptosis inhibitor 1 pseudogene	
+NLK	
+trnF	
+ZSCAN30	
+K-REV	
+protein FAM136A-like	
+CFHL3	
+NADH dehydrogenase subunit 4L	
+TEX28P1	
+replication factor C (activator 1) 2, 40kDa pseudogene	
+UBA52	
+GEMIN1	
+ATX1	
+PEO	
+CIA	
+p14	
+AG2	
+KIAA0196	
+GSP	
+SYT11	
+PRO2834	
+TCRAV17S1	
+GDH	
+OFD1P1	
+TRMT1	
+P58	
+NCRNA00291	
+EDF	
+AGT	
+KRTAP5-9	
+UCN2	
+KIAA0513	
+p13	
+ZNF408	
+RAP1	
+MLC2	
+NAAGS	
+CDC2	
+FLJ44881	
+OR11-104	
+mitochondrial carrier 1 pseudogene	
+putative uncharacterized protein C20orf69-like	
+UPA	
+SCCA1	
+ATS	
+GCE	
+CASP	
+AIS1	
+ASE1	
+TCRBV14S1	
+LFA-1	
+PIG9	
+DRP3	
+GAGE-9	
+disintegrin and metalloproteinase domain-containing protein 21-like	
+GTF2I repeat domain containing 1 pseudogene	
+DLEU2	
+STP	
+N-terminal asparagine amidase pseudogene	
+solute carrier family 4 (anion exchanger), member 1, adaptor protein pseudogene	
+L8	
+NBN	
+MUM1	
+IDDM2	
+YY1 transcription factor pseudogene	
+MAM2	
+DGAT2L7	
+M-ABC2	
+MTB	
+S11	
+PRL3	
+ARC	
+ribosomal protein, large, P0 pseudogene	
+CHED2	
+RPS26	
+HA2	
+RED	
+DA1	
+NIF	
+UGAT	
+protein tyrosine phosphatase, non-receptor type 11 pseudogene	
+SCAR1	
+LIPB	
+SDH	
+BTB (POZ) domain containing 7 pseudogene	
+CDS1	
+PSF2	
+chloride intracellular channel 4 pseudogene	
+TFP	
+SS	
+tubulin, epsilon 1 pseudogene	
+DLK	
+CSB	
+putative uncharacterized protein NCRNA00269-like	
+ESG1	
+GCCD2	
+EDG1	
+H2A.2	
+LSM2 homolog, U6 small nuclear RNA associated (S. cerevisiae) pseudogene	
+BAF190	
+HAP2	
+NPR2	
+ras homolog family member G pseudogene	
+LE	
+MEIS3	
+PRH	
+CFTD	
+CPT1	
+OCT6	
+C14orf88	
+abhydrolase domain containing 15 pseudogene	
+CAPB	
+KIAA0494	
+SDP1	
+KIAA0020	
+phosphatidylinositol 4-kinase type 2 beta pseudogene	
+SAP	
+EJM4	
+TCRGV5P	
+TRAMP	
+M6A	
+dJ353E16.2	
+SNRPB1	
+dJ222E13.1	
+TRAD	
+IPOB	
+transmembrane protein 126A pseudogene	
+GCR2	
+ANCO1	
+ARL6	
+putative uncharacterized protein encoded by LINC00596-like	
+TIMM23	
+coiled-coil domain containing 59 pseudogene	
+TCF-4	
+ND4L	
+zinc finger protein 35 pseudogene	
+CPI17-like	
+MAST1	
+NANOGP1	
+ribosomal protein L7-like 1 pseudogene	
+olfactory receptor, family 2, subfamily B, member 6 pseudogene	
+nascent polypeptide-associated complex alpha subunit pseudogene	
+SLC17A2	
+AP-1	
+LAM	
+CCA1	
+PORMIN	
+COX2	
+FGQTL3	
+HIP3	
+ZNF	
+SKD2	
+SMAP-1	
+PP5	
+PSA	
+GLYT1	
+KIAA1683	
+KIAA0319	
+D-dopachrome tautomerase-like	
+RIP	
+KIAA1191 pseudogene	
+POM121 membrane glycoprotein (rat) pseudogene	1
+AOS1	
+L9	
+proline-rich nuclear receptor coactivator 2-like	
+CCRL1	
+nicotinamide nucleotide adenylyltransferase 1 pseudogene	
+NRP1	
+NET	
+TSBP	
+PRAME family member 10 pseudogene	
+INPP5F	
+IA4	
+isopentenyl-diphosphate delta isomerase 1 pseudogene	
+tubulin, beta class I pseudogene	
+TAF4B	
+BFNC	
+UGD	
+PP2CA	
+dpy-19-like 4 (C. elegans) pseudogene	
+DSK2	
+POLR2J2	
+anaphase promoting complex subunit 13 pseudogene	
+RAM	
+CAS	
+tripartite motif containing 64B pseudogene	
+MTS1	
+thyroid hormone receptor associated protein 3 pseudogene	
+TP	
+TRIM49B	
+C1QTNF15	
+OK/SW-CL.36	
+PI-PLC	
+TGR	
+EIF2A	
+proteasome (prosome, macropain) 26S subunit, non-ATPase, 7 pseudogene	
+TC1	
+NADH dehydrogenase (ubiquinone) complex I, assembly factor 4 pseudogene	
+NSA2 ribosome biogenesis homolog (S. cerevisiae) pseudogene	
+PSG9	
+protein tyrosine phosphatase, receptor type, f polypeptide (PTPRF), interacting protein (liprin), alpha 1 pseudogene	
+riboflavin kinase pseudogene	
+E1	
+KGA	
+DEFB-4	
+cathepsin B pseudogene	
+TAL-H	
+EAF2	
+SOAT	
+GAGE8	
+PHLP3	
+CD18	
+TPS2	
+PORC	
+ASF	
+ribosomal protein L7a pseudogene	1
+spermine synthase pseudogene	
+NTE	
+MSC	
+FTX	
+KIAA1377	
+ST2L	
+chloride channel, nucleotide-sensitive, 1A pseudogene	
+MNG1	
+zinc finger protein 100 pseudogene	
+COD5	
+TSSK4	
+PGI	
+E2F transcription factor 6 pseudogene	
+PR	
+PABP3	
+ETK	
+PP17	
+R2	
+coiled-coil-helix-coiled-coil-helix domain containing 3 pseudogene	
+ACT	
+FBL3	
+MME	
+CD32	
+TSK4	
+CHAMP	
+FRAXA	
+PRC17	
+SLK	
+TSH1	
+NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 4, 9kDa pseudogene	
+UFD2	
+DRF1	
+DYT17	
+protein FRG1-like	
+SYT14L	
+DUX4	
+SUMO3	
+family with sequence similarity 8, member A1 pseudogene	1
+GSG1	
+TR1	
+IDDM10	
+RING2	
+LGMD1E	
+DFNA40	
+HSST2	
+TCEB1L	
+FAM66E	
+proline-rich nuclear receptor coactivator 2 pseudogene	
+DNAJ	
+CNP	
+CYK4	
+ribosomal protein S3A pseudogene	
+IFNA	
+complement component 1, q subcomponent binding protein pseudogene	
+syndecan binding protein (syntenin) pseudogene	
+CKMT1	
+golgin A2 pseudogene	
+EIF2B	
+APC4	
+CYP2B7P	
+IGFR1	
+p10	
+TAF2A	
+dJ530I15.3	
+BTD	
+SHFM3	
+TMEM123	
+CEP1	
+HSD17	
+SPP2	
+PAN2	
+RBP3	
+ELK	
+p220	
+HHL	
+trnD	
+TRIP1	
+TUBB4	
+MAC-1	
+EMAP2	
+SPIN	
+CDR	
+MMD2	
+RNU1	
+ACAT1	
+SAR1	
+SBP	
+OFD1P2	
+coenzyme Q10 homolog B (S. cerevisiae) pseudogene	
+GPBP	
+EPM2A	
+U87	
+DAGK	
+ribosomal protein L17 pseudogene	
+RCN3	
+KRTHA3A	
+WBSCR20B	
+UDP glucuronosyltransferase 2 family, polypeptide B7 pseudogene	
+IGLC6	
+MUHH	
+TN	
+EIF2	
+sorting nexin 18 pseudogene	
+C6	
+HSD17B7	
+MAGE1	
+TRPC7	
+ANE1	
+POD1	
+UBXD10	
+FAAH	
+anthrax toxin receptor-like	
+RGS13	
+ADA2	
+SAP domain containing ribonucleoprotein pseudogene	
+DPPIV	
+A4	
+CLAC	
+glutathione S-transferase theta-1-like	
+MTF	
+ARG	
+CXorf2	
+LCA	
+developmental pluripotency associated 5 pseudogene	
+RLP1	
+MIF2	
+TRNT1	
+GLUR7	
+BNSP	
+ubiquitin-conjugating enzyme E2D 4 (putative) pseudogene	
+CAC1	
+TCRAV7S1	
+USP10	
+SCYL3	
+MTCP1	
+keratin 17 pseudogene	
+Y4	
+BCD1	
+ARP11	
+zinc finger protein 717 pseudogene	
+EXT2	
+BDP1	
+GNT-IV	
+NKHC	
+MBP1	
+KRTAP18.1	
+PDX1	
+APS1	
+CD20	
+CT90	
+CAR	
+MLP	
+transcription elongation regulator 1 pseudogene	
+JDP1	
+EBN	
+ARP5	
+NPH1	
+BRCC3	
+MGA	
+uncharacterized protein C1orf167-like	
+MRLC2	
+dual specificity phosphatase 5 pseudogene	
+ARP	
+CYP3A	
+NEP	
+FALDH	
+HRS	
+TC-1	
+TKT	
+MNS	
+ARNT	
+MAK3	
+GLP	
+DORV	
+GAGED2	
+MIP2	
+HLAL	
+Rsc6p	
+E2-1	
+PAP1	
+TTLL5	
+PPIASE	
+IHG1	
+TCRAV31S1	
+LINC00539	
+CAPH2	
+OA1	
+PCAP	
+CMPD2	
+WBS	
+MRP6	
+BTF2	
+T2R56	
+TS	
+RIT1	
+EBP	
+TCF4	
+MCD	
+B2	
+MOS	
+TRIM80P	
+insulin-like growth factor 2 mRNA binding protein 2 pseudogene	
+HCC-2	
+ALDRP	
+tumor protein, translationally-controlled 1 pseudogene	
+TEL2	
+BAP-1	
+PIG8	
+DEFA3	
+H2A	
+cytochrome c oxidase subunit II	
+HNRPA3	
+MDC	
+VSD1	
+PTHR	
+KRTAP5-5	
+serine/arginine-rich splicing factor 10 pseudogene	
+RCD1	
+RNU12	
+DXS648E	
+SEA	
+SCA31	
+POP2	
+PSS1	
+ARL17A	
+AGC1	
+RAB39	
+OSF2	
+short chain dehydrogenase/reductase family 42E, member 1 pseudogene	
+maltase-glucoamylase (alpha-glucosidase) pseudogene	
+DELXq22.3	
+THRA1	
+MLL4	
+TAK1	
+PTMA	
+MLCK2	
+MK	
+tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein, zeta polypeptide pseudogene	
+LTBP2	
+OPT	
+PAK5	
+ND6	
+eukaryotic translation initiation factor 5 pseudogene	
+MMAA	
+RP3	
+HBP3	
+density-regulated protein pseudogene	
+SANDO	
+DHFRP1	
+PAGB	
+ALS	
+S100	
+U5B1	
+SIP1	
+cytoskeleton associated protein 2-like pseudogene	
+AT3	
+L10	
+EVR1	
+LBH	
+methyltransferase like 5 pseudogene	
+POLK	
+matrin 3 pseudogene	
+ubiquitin-conjugating enzyme E2L 3 pseudogene	
+GPCR	1
+RGP1	
+microtubule-associated protein 1 light chain 3 beta pseudogene	
+SPS	
+PIT1	
+TRAPPC2P1	
+PSBG-11	
+TIG1	
+TRB3	
+CHED	
+RIF1	
+ARH1	
+VDR	
+BACH1	
+CFC	
+C14orf25	
+glutathione S-transferase alpha 3 pseudogene	
+golgin A8 family, member A pseudogene	
+p97	
+transcription elongation factor B polypeptide 3C-like	
+WD repeat domain 12 pseudogene	
+TK2	
+GCOM1	
+COPD	
+chromosome 2 open reading frame 69 pseudogene	
+PARPL	
+trnY	
+biorientation of chromosomes in cell division 1 pseudogene	
+PSG1	
+BCAP	
+NSP2	
+NM	
+CNR2	
+CT134	
+family with sequence similarity 91, member A1 pseudogene	
+CLS	
+LPCAT4	
+C18orf2	
+SAPL	
+FMR2	
+cyclin-dependent kinase 8 pseudogene	
+eukaryotic translation initiation factor 1 pseudogene	
+HPS2	
+41154.0	
+NADH dehydrogenase (ubiquinone) 1 beta subcomplex, 5, 16kDa pseudogene	
+SMILE	
+SMALED	
+SCLL	
+dJ221C16.8	
+HS3ST5	
+TAT1	
+FAH	
+leucine rich repeat containing 34 pseudogene	
+AMD	
+integral membrane glycoprotein-like	
+CTPP1	
+TPT	
+PHKD	
+p22	
+AAAT	
+HYAL3	
+MT1K	
+carbonic anhydrase VA, mitochondrial pseudogene	
+CPX1	
+RBP	
+ubiquitin carboxyl-terminal hydrolase 17-like pseudogene	
+ACCA	
+HBA	
+MCL	
+PRF1	
+TCRBV13S1	
+L30	
+akirin 2 pseudogene	
+yippee-like 5 (Drosophila) pseudogene	
+polymerase (RNA) III (DNA directed) polypeptide G (32kD) pseudogene	
+RNF35	
+T1	
+TRAP	
+INT1	
+ribosomal protein L7 pseudogene	
+IL27	
+ubiquitin carboxyl-terminal hydrolase 17-like protein 2-like	
+protein FAM182A-like	
+GJE1	
+NKH	
+neuroepithelial cell transforming 1 pseudogene	
+LGL2	
+tamo	
+PTGES3P	
+mitogen-activated protein kinase 8 interacting protein 1 pseudogene	
+CST6	
+LPAP	
+SERPINB11	
+OR912-110	
+Osteoporosis	
+SAC2	
+SNX30	
+C20orf176	
+olfactory receptor, family 4, subfamily C, member 46 pseudogene	
+SNAPA	
+GDN	
+PPD	
+NADH dehydrogenase subunit 6	
+SWI2	
+C20orf36	
+SDR25C1	
+heterogeneous nuclear ribonucleoprotein C (C1/C2) pseudogene	
+GAGE-12B	
+STN1	
+E4TF1	
+defensin, beta 131 pseudogene	
+SPANX	
+KIR3DL3	
+MPDZ	
+ASC2	
+eukaryotic translation elongation factor 1 gamma pseudogene	
+POLD4	
+G6PD	
+OR17-30	
+CD1	
+D10S102	
+SENP2	
+CERS5	
+zinc finger protein pseudogene	
+MAGI1	
+PC-1	
+MRK	
+HYPF	
+HREP	
+HCP	
+AP47B	
+TGM6	
+OAT4	
+MOP-1	
+p21	
+QP-C	
+MRG2	
+P18	
+OR19-12	
+TRAV11	
+archaelysin family metallopeptidase 2 pseudogene	
+SBP1	
+zinc finger, MYM-type 4 pseudogene	
+ERK	
+ELK1	
+cell division cycle protein 27 homolog	
+HUB1	
+PN-I	
+P80	
+RC3	
+X-ray repair complementing defective repair in Chinese hamster cells 6 pseudogene	
+CXorf11	
+putative uncharacterized protein LOC65996-like	
+myosin, light chain 12B, regulatory pseudogene	
+SRGAP3	
+ST3GALII	
+ZIP3	
+ATXN8	
+olfactory receptor, family 52, subfamily B, member 4 pseudogene	
+HNRNP	
+TERA	
+FAS	
+GT	
+ADP-ribosylation factor-like 8B pseudogene	
+eukaryotic translation termination factor 1 pseudogene	1
+10q23del	
+SF1	
+eukaryotic translation initiation factor 4A2 pseudogene	
+TEX28P2	
+EFA6R	
+ring finger protein 4 pseudogene	
+ERP1	
+LPP2	
+PAP2	
+DIA	
+EIF-2A	
+ICBP90	
+OR7E68P	
+glutamyl aminopeptidase (aminopeptidase A) pseudogene	
+HMX3	
+OLFR42B	
+cytochrome c oxidase subunit III	
+GAGE-2	
+CFD1	
+GABBR1	
+s-rRNA	
+P84	
+LCP1	
+cysteine-rich protein 1 (intestinal) pseudogene	
+HCDH	
+CD98	
+PTPN20B	
+ZP1	
+CDK11	
+TRE17	
+CCR9	
+iron-sulfur cluster assembly 1 homolog (S. cerevisiae) pseudogene	
+PDGFA associated protein 1 pseudogene	
+DIO1	
+PRP4 pre-mRNA processing factor 4 homolog B (yeast) pseudogene	
+ATR	
+RNA binding motif protein 22 pseudogene	
+NANOGP5	
+CACC	
+PAK3	
+NARF	
+MIC1	
+filamin binding LIM protein 1 pseudogene	
+PLAP-1	
+UGT2B11	
+HPP	
+STV1	
+nuclear pore complex interacting protein pseudogene	
+KPNA7	
+coiled-coil domain-containing protein 29-like	
+CLK1	
+C4BP	
+MOX1	
+CHM	
+required for meiotic nuclear division 1 homolog (S. cerevisiae) pseudogene	
+CCR10	
+CFL1	
+RPS27AP	
+CS-2	
+NEURL3	
+COX1	
+RASSF5	
+QARS	
+LAGE2B	
+PNR	
+RAI	
+MT1	1
+AK3L2	
+PSC5	
+cell division cycle associated 8 pseudogene	
+FGFR1 oncogene partner 2 pseudogene	
+leukocyte immunoglobulin-like receptor, subfamily A (with TM domain), member 2 pseudogene	
+ABC1	
+SWI5-dependent recombination repair 1 pseudogene	
+PCTAIRE	
+U6	
+NAT6	
+OR19-18	
+FRAXE	
+keratin 18 pseudogene	1
+NPHL2	
+protein capicua homolog	
+H2B.1	
+IGHEP1	
+APT1	
+LD78	
+COX3	
+HNP-1	
+MKPX	
+prothymosin alpha-like	
+ACN	
+CYP2C	
+PHHI	
+zinc finger protein 347 pseudogene	
+CCR4	
+poly(A) binding protein, cytoplasmic 4 (inducible form) pseudogene	
+BOP	
+SH2B	
+DNA directed RNA polymerase II polypeptide J-related gene	
+ANG3	
+retinoic acid receptor responder (tazarotene induced) 2 pseudogene	
+TRAF2	
+MAP/microtubule affinity-regulating kinase 4 pseudogene	
+PAIS	
+MACS	
+HE	
+olfactory receptor, family 5, subfamily B, member 3 pseudogene	
+GPIV	
+immunoglobulin superfamily member 3-like	
+ULG4	
+OSF-2	
+ornithine aminotransferase pseudogene	1
+BOR	
+general transcription factor IIi pseudogene	
+glutamic-oxaloacetic transaminase 2, mitochondrial (aspartate aminotransferase 2) pseudogene	
+H4	
+PGG/HS	
+Ig heavy chain V-I region V35-like	
+CYP2D	
+DVL	
+CYP2A	
+IMP3	
+MIFR	
+P-PST	
+Bone size QTL	
+CLIP4	
+VWS1	
+SMUC	
+akirin 1 pseudogene	
+PFHB1	
+family with sequence similarity 64, member A pseudogene	
+DIFF6	
+NAC	
+charged multivesicular body protein 5 pseudogene	
+TSPY8	
+AGT1	
+ankyrin repeat domain-containing protein 33B-like	
+BCH	
+FGF-13	
+ROR1	
+A15	
+trnK	
+GCK	
+GAR1	
+HMN5	
+ribosomal protein L13 pseudogene	
+ribosomal protein L10 pseudogene	1
+GTB	
+leucine rich repeat containing 37, member A2 pseudogene	
+SIII	
+cell division cycle associated 4 pseudogene	
+RINZF	
+RAB11B	
+MSSE	
+Puma-g	
+EMAP-2	
+IFP1	
+NBPF9	
+ankyrin repeat domain 26 pseudogene	
+HL2	
+TTTY7B	
+FRITZ	
+G10	
+PRO1278	
+SPRK	
+OPG	
+MPP	
+SDR1	
+ADHR	
+CCN1	
+BCD541	
+karyopherin alpha 2 (RAG cohort 1, importin alpha 1) pseudogene	
+CRABP-II	
+BRI3	
+GAP	
+phosphodiesterase 4D interacting protein-like	
+BDP	
+HTRA3	
+H2A.Bbd	
+EKV	
+DUSP23	
+HN1L	
+NRP	
+INPP5E	
+TTTY9A	
+BRCC2	
+protein phosphatase 6, regulatory subunit 2 pseudogene 1	
+RNTMI2	
+PSG10	
+HYPP	
+CDM	
+PEPP2	
+DUX1	
+U3b2	
+olfactory receptor, family 2, subfamily J, member 3 pseudogene	
+AITD3	
+OR7E71P	
+TFI	
+Ig kappa chain V-II region RPMI 6410-like	
+NBC3	
+IRBP	
+p110	
+GALNT15	
+ubiquitin-conjugating enzyme E2Q family member 2 pseudogene	
+RPS27A	
+Ig kappa chain V-I region Walker-like	
+metallophosphoesterase 1 pseudogene	
+ARX	
+AIR	
+CYP11B	
+PTH1	
+LAT1	
+mitochondrial fission factor pseudogene	
+zinc finger protein 101 pseudogene	
+MCT	
+S3	
+SKD1	
+Rsc8	
+MYT1	
+CFC1B	
+SCZD13	
+P450PB	
+zinc finger protein 709 pseudogene	
+NBP	
+selenoprotein K pseudogene	
+NET5	
+TTF2	
+LDB1	
+TMPRSS3	
+PXN	
+SXI1	
+pTEX	
+P47	
+ubiquitin specific peptidase 21 pseudogene	
+TC	
+IGLC	
+RMD1	
+MP70	
+EIF-5A	
+NOP9	
+DNM1DN3@	
+ATR1	
+CER1	
+EPPK	
+EB1	
+STK2	
+LHR	
+PSF	
+p34	
+ZNF183	
+NEM1	
+KOX2	
+SRA1	
+PheRS	
+PSP	
+RNR1	
+A1B	
+TIP	
+patatin-like phospholipase domain containing 4 pseudogene 1	
+PD1	
+G18	
+ACTB	
+B12	
+CHK	
+RIC8	
+STAG1	
+P130	
+EVA	
+PP1	
+zinc finger protein 70 pseudogene	
+ARCC2	
+zinc finger, AN1-type domain 1 pseudogene	
+parkinson protein 7 pseudogene	
+SNORD115-48	
+GLM1	
+tRNA methyltransferase 11 homolog (S. cerevisiae) pseudogene	
+ASP	
+putative killer cell immunoglobulin-like receptor like protein KIR3DP1-like	
+RIP3	
+MRT4	
+RDC-1	
+NAP1	
+TR3	
+Ig heavy chain V region 5A-like	
+CLL1	
+FADS6	
+IMAGE	
+KIAA1432	
+U2 small nuclear RNA auxiliary factor 1-like 4 pseudogene	
+HCCA2	
+ROC1	
+p84	
+ARVD2	
+BNC1	
+ribosomal protein S23 pseudogene	
+CT4.2	
+IGKV	
+MRPL15	
+BWS	
+AR	
+ubiquitin-conjugating enzyme E2N pseudogene	
+U13	
+DK1	
+CTD nuclear envelope phosphatase 1 pseudogene	
+DLG2	
+SCYA2	
+ALP1	
+EJM6	
+AUTS2	
+T6	
+SNF7	
+HHG	
+NAT-1	
+CMD1C	
+MPP4	
+mucin-3A-like	
+EP2	
+p18	
+BAR	
+HLP	
+RBP1	
+chromosome 18 open reading frame 32 pseudogene	
+LRH-1	
+FHOD3	
+WAGR	
+CS1	
+INT2	
+BMD	
+PRG5	
+HP	
+MLP1	
+LAG-1	
+REC8	
+MK2	
+TBP1	
+MRPS28	
+P15	
+signal-regulatory protein beta-1-like	
+LCAD	
+JP2	
+MRP2	
+CAP1	
+VP	
+SLC23A2	
+POU5F1P4	
+hBD-4	
+IQCH	
+MCH2	
+myxovirus (influenza virus) resistance 1, interferon-inducible protein p78 (mouse) pseudogene	
+SLEB6	
+IPP1	
+KIAA0391	
+S9	
+p23	
+ECK	
+LST1	
+small EDRK-rich factor 2 pseudogene	
+MP44	
+FCRIII	
+L24	
+eukaryotic translation elongation factor 1 beta 2 pseudogene	
+MGF	
+LY6G6D	
+PTE2	
+MRT5	
+CSN3	
+EEF1AL	
+RS1	
+IDH	
+APE	
+tubulin, beta 8 class VIII pseudogene	
+ESO1	
+FAD	
+BGR	
+PAT1	
+SAP1	
+RIG	
+p85	
+ribosomal protein L22 pseudogene	
+BBP	
+FHC	
+AH	
+INT4	
+U2AF1L4	
+GRIN1	
+HP3	
+ND3	
+OR25	
+HPR1	
+UBL5	
+CPO	
+CSTP1	
+smg-1 homolog, phosphatidylinositol 3-kinase-related kinase (C. elegans) pseudogene	
+H3F3AP1	
+DCR	
+MIZ	
+TNNC1	
+FHL5	
+TRN2	
+KIAA0825	
+CT2	
+SOCS7	
+PABP1	
+GPR136	
+MEP	
+GS2	
+HC5	
+ACTBP2	
+SCKL4	
+olfactory receptor, family 4, subfamily F, member 21 pseudogene	
+p63	
+FCG2	
+HTX2	
+OLF4p	
+CCT	
+FKBP51	
+BDNF	
+NTN4	
+NIP	
+intraflagellar transport 57 homolog (Chlamydomonas) pseudogene	
+PTH2	
+MAP1A	
+SIRPB2	
+MBL	
+KIAA0913	
+CSD	
+NET3	
+chromosome 15 open reading frame 29 pseudogene	
+BDPLT2	
+UMPK	
+ASL	
+family with sequence similarity 54, member A pseudogene	
+synovial sarcoma translocation gene on chromosome 18-like 2 pseudogene	
+p17	
+PBF	
+GP40	
+FIL1	
+trnH	
+TNT	
+CRAM	
+ferritin, light polypeptide pseudogene	
+S7	
+DSEP	
+LILRA5	
+TCRAV2S1	
+OR7E75P	
+DOC1	
+40970.0	
+CMT2D	
+P21	
+DEFT1P	
+P60	
+TR	
+ATP-binding cassette, sub-family E (OABP), member 1 pseudogene	
+DBM	
+SLIT3	
+L15	
+RAN binding protein 1 pseudogene	
+CDC-like kinase 3 pseudogene	
+ZNF581	
+DIA1	
+GP130	
+COP9 constitutive photomorphogenic homolog subunit 8 (Arabidopsis) pseudogene	
+IMP	
+proteasome (prosome, macropain) subunit, alpha type, 3 pseudogene	
+retinol dehydrogenase 16 (all-trans) pseudogene	
+zinc finger protein 33B pseudogene	
+cysteine and histidine-rich domain (CHORD) containing 1 pseudogene	
+trnG	
+RP1	
+p12	
+HK1	
+ARH2	
+CKS1	
+CDD	
+hg523	
+BRPF1	
+DS	
+putative transmembrane protein FLJ36131-like	
+ILT5	
+IGHDY1	
+RPL36A	
+FBP2	
+golgin A6 family, member A pseudogene	
+DOK1	
+thyroid hormone receptor interactor 13 pseudogene	
+MS	
+FACE	
+PRIP	
+MDP1	
+NALD	
+TCRBV21S1	
+KRTAP5-1	
+TAL	
+CAS2	
+C11orf5	
+DEAD (Asp-Glu-Ala-Asp) box polypeptide 55 pseudogene	
+DGS	
+FLJ35934	
+TBC1D3	
+D6S230E	
+two pore channel 3 pseudogene	
+HLA-DQB1	
+HKPX1	
+OR17-16	
+TRE	
+HCRP1	
+POP1	
+TP1	
+ATP synthase subunit alpha, mitochondrial-like	
+TCRBV12S2	
+p57	
+TRB1	
+S100A16	
+ECGP	
+ribosomal protein L21 pseudogene	
+KAP1	
+CSBP	
+zinc finger protein 114 pseudogene	
+OR7E74P	
+H2A/q	
+TR2	
+THG1	
+cubilin (intrinsic factor-cobalamin receptor) pseudogene	
+cyclin Y-like 1 pseudogene	
+THC2	
+GUCY2B	
+GT334	
+IBP	
+CGRP	
+zinc finger protein 430 pseudogene	
+FS	
+NPH2	
+DESI2	
+bA548K23.1	
+ferritin, heavy polypeptide 1 pseudogene	
+DBA	
+coiled-coil domain containing 58 pseudogene	
+CNA2	
+LEPR	
+HZF1	
+calponin-2-like	
+NOR1	
+KOX21	
+protein FAM115A-like	
+EDH17B2	
+LGS	
+MTTF1	
+ACAT2	
+p47	
+CYTB	
+NANOGP3	
+HCNP	
+tubulin, beta 2B class IIb pseudogene	
+PAR4	
+GLA	
+HOX2	
+REG	
+KAT4	
+BHD	
+BAP1	
+olfactory receptor, family 10, subfamily Q, member 1 pseudogene	
+tubulin, alpha 4a pseudogene	
+LRP	
+DFNA52	
+PRK1	
+CSRP	
+LRRN1	
+ISO1	
+NSE2	
+TTP1	
+LSH	
+C9orf36A	
+GDA	
+ACAT	
+P37	
+MORF4LP4	
+NR1	
+P97	
+signal recognition particle 19kDa pseudogene	
+interleukin enhancer binding factor 2, 45kDa pseudogene	
+dihydrofolate reductase pseudogene	
+keratin pseudogene	
+LAK	
+X-linked inhibitor of apoptosis pseudogene	
+G2	
+LYP	
+B1	
+TBC1D3F	
+NOC4	
+developmentally regulated GTP binding protein 1 pseudogene	
+EBN1	
+FA	
+SMO	
+D(1B) dopamine receptor-like	
+olfactory receptor, family 5, subfamily M, member 8 pseudogene	
+M-phase phosphoprotein 10 (U3 small nucleolar ribonucleoprotein) pseudogene	
+AU	
+pH2A/f	
+CMS1D	
+quinone oxidoreductase-like protein 2 pseudogene	
+BAM	
+ADRA1A	
+TPC	
+UBCH8	
+GT1	
+HB5	
+DEFA1	
+platelet-activating factor acetylhydrolase 1b, catalytic subunit 2 (30kDa) pseudogene	
+PCD	
+EOS	
+M-PST	
+CACNA1I	
+HCA1	
+SHS	
+H2AFJ	
+COX11	
+FSP1	
+MSS4	
+RNASE9	
+CDK11-p110	
+tubulin, beta 6 class V pseudogene	
+aconitate hydratase, mitochondrial-like	
+CYP2D7AP	
+mediator of RNA polymerase II transcription subunit 15-like	
+RPP20	
+LARP	
+APC2	
+OLFRA06	
+MUC9	
+fatty acyl-CoA reductase 2-like	
+GS	
+putative uncharacterized protein UNQ6125/PRO20090-like	
+AGS3	
+UTR	
+NTN	
+E4TF1B	
+RPA1	
+PGD	
+AMY2	
+PTX3	
+CPAD	
+p33	
+KV6.3	
+464.2	
+CTB	
+CRIP1	
+HCC-4	
+chromosome 9 open reading frame 78 pseudogene	
+P35	
+melanoma antigen family A, 10 pseudogene	
+PRG4	
+FRP1	
+RCK	
+FBXW6	
+MARCKS-like 1 pseudogene	
+LAP2	
+SDH1	
+PP18	
+TRM1	
+NSP	
+DFNB6	
+P5	
+TSPY10	
+A11	
+GGTA	
+PRR	
+PGDS	
+transmembrane protein C9orf144B pseudogene	
+SLAP	
+TIH1	
+small nuclear ribonucleoprotein polypeptide A' pseudogene	
+BAP	
+PXMP1	
+CRL2	
+B37	
+KIAA0087	
+NG23	
+PAPT	
+LIG1	
+AMAP1	
+SPC1	
+CBP	
+KIAA0907	
+TCRAV9S1	
+CAB1	
+ribosomal protein S6 kinase beta-1-like	
+potassium channel tetramerisation domain containing 9 pseudogene	
+POTE22	
+ARG1	
+CYP2G2P	
+ASC	
+ubiquitin-conjugating enzyme E2 variant 1 pseudogene	
+otopetrin-1-like	
+p37	
+PLB	
+PLCE	
+PVALB	
+AMN	
+PGA4	
+AM	
+tubulin, alpha 1c pseudogene	
+U4	
+L7	
+STA	
+AFP	
+L19	
+RCAD	
+PAM	
+DBS	
+PAK1	
+ANK	
+PRX	
+LCA10	
+interferon induced transmembrane protein 3 pseudogene	
+HCG	
+CIR1	
+NF1L4	
+CMK	
+LONP	
+OFC4	
+CTF	
+PPT	
+p100	
+melanoma antigen family A, 4 pseudogene	
+CTD (carboxy-terminal domain, RNA polymerase II, polypeptide A) small phosphatase like 2 pseudogene	
+16S rRNA	
+TMSA	
+endogenous retrovirus group 3, member 1 pseudogene	
+Allergic/atopic asthma related QTL 5	
+HADH	
+SCG3	
+GLUC	
+ankyrin repeat domain 57 pseudogene	
+TIMELESS interacting protein pseudogene	
+TBC1 domain family member 3H-like	
+PDS	
+RITA	
+HLF	
+RAP1B, member of RAS oncogene family pseudogene	
+PAN3	
+patched domain containing 3 pseudogene	
+PD-1	
+EEF-1	
+SPIN1	
+RWS	
+KIAA1407	
+RHEB	
+AUTL1	
+COAS2	
+MDCR	
+IL8RA	
+SWD2	
+60B8AG	
+T6BP	
+PEPC	
+MAP2	
+C10orf2	
+CD	
+BCL5	
+CRL1	
+MGAT1	
+glucuronidase, beta pseudogene	
+FCRL2	
+zinc finger protein 532 pseudogene	
+TGT	
+SCP2	
+ribosome binding protein 1 homolog 180kDa (dog) pseudogene	
+HPT	
+ZNF468	
+NY-REN-2	
+PTPA	
+D17S1718	
+MRT12	
+dual specificity phosphatase 8 pseudogene	
+L12	
+phosphoribosyl pyrophosphate amidotransferase pseudogene	
+HIST2H2BD	
+p68	
+SPEN	
+SYT	
+SP1	
+REF1	
+DAB1	
+RBM8B	
+NRP2	
+MAP/microtubule affinity-regulating kinase 3 pseudogene	
+hg674	
+XGPY	
+GUSBP4	
+P31	
+TOP	
+PIP	
+UGT	
+MARS	
+B29	
+centromere protein N pseudogene	
+CD158b	
+succinate dehydrogenase complex, subunit C, integral membrane protein, 15kDa pseudogene	
+chloride intracellular channel 1 pseudogene	
+gene expression, variation in, quantitative trait locus	
+MRX31	
+SARS	
+ZNF32	
+SCYA3L	
+trnV	
+SK2	
+KIAA0317	
+RTA	
+P150	
+TNX	
+NAT2	
+CTH	
+FLJ11800 related gene	
+DAP	
+KCNMB2	
+PSPA	
+MAS-related GPR, member X1 pseudogene	
+GJC1	
+Attention deficit-hyperactivity disorder, susceptibility to, 2	
+protein kinase, interferon-inducible double stranded RNA dependent activator pseudogene	
+TIP39	
+DSH	
+STRAP	
+FGD3	
+FAN1	
+glutaredoxin 3 pseudogene	
+ADP-ribosylation factor-like 5A pseudogene	
+calcyclin binding protein pseudogene	
+HE2	
+ZAC	
+H2-ALPHA	
+makorin ring finger protein 1 pseudogene	
+mannosyl (alpha-1,6-)-glycoprotein beta-1,2-N-acetylglucosaminyltransferase pseudogene	
+MEF	
+DEFB136	
+CHMP4A	
+KCR1	
+LAT2	
+translocase of outer mitochondrial membrane 40 homolog (yeast) pseudogene	
+serine/arginine-rich splicing factor 3 pseudogene	
+RAGE	
+EPP	
+EEF1B1	
+L22	
+SULT1C2	
+golgin A6 family, member D pseudogene	
+S10	
+M-FABP	
+NR2F1	
+ARP1	
+LGTN	
+SPH2	
+SCYA4L	
+chromosome 11 open reading frame 10 pseudogene	
+WASH	
+SGT2	
+CAIN	
+NKAT	
+EF1B	
+p6	
+OSR1	
+VPP3	
+KIAA1257	
+FKBP12	
+L-UBC	
+ICln	
+HCS	
+Cdon homolog (mouse) pseudogene	
+ERVR	
+KIAA1244	
+RBMY2	
+TCRAV4S1	
+SCML1	
+eukaryotic translation initiation factor 4H pseudogene	
+developmental pluripotency associated 4 pseudogene	
+RGS9	
+olfactory receptor, family 5, subfamily B, member 12 pseudogene	
+KIAA0101	
+GOP	
+GPXL2	
+olfactory receptor, family 2, subfamily Y, member 1 pseudogene	
+TST2	
+RAD54L	
+septin 7 pseudogene	
+HC2	
+DUSP24	
+U86	
+ZWS	
+PRR2	
+Allergic/atopic asthma related QTL 25	
+cPLA2-beta	
+p75	
+PHS	
+GOLGA6D	
+IDDM20	
+KIR	
+L3	
+AG1	
+CRF	
+p60	
+POB1	
+zinc finger protein 93 pseudogene	
+FEM1A	
+CYorf14	
+CATCH22	
+MIG6	
+THAS	
+PE-1	
+BMH	
+MPS1	
+SLP1	
+BCS	
+FEZ	
+OR7-21	
+SNT2	
+EIF3CL	
+CT58	
+MIHC	
+RNA methyltransferase like 1 pseudogene	
+developmental pluripotency associated 2 pseudogene	
+J1	
+F10	
+PAR1	
+ATP-binding cassette, sub-family G (WHITE), member 2 pseudogene	
+R1	
+TP53TG3	
+MSF	
+SPC	
+NET7	
+MBS	
+TAZ	
+RPF1	
+MRCL3	
+TYRRS	
+PN	
+GL	
+PEP	
+K8	
+AIP-1	
+NCRNA00185	
+HARS2	
+YRRM2	
+DDAH	
+COP1	
+chromosome 12 open reading frame 49 pseudogene	
+PLP	
+PRO1068	
+MOX2	
+WW domain binding protein 11 pseudogene	
+CNA1	
+PLD1	
+H5	
+exportin, tRNA (nuclear export receptor for tRNAs) pseudogene	
+CELIAC1	
+AGS1	
+YDR084C	
+TOC	
+CKB	
+CEP2	
+IMPDH1	
+PHF2	
+NOS3	
+BOCA	
+TCRD	
+HPCA	
+FIM1	
+HNRPG	
+KIAA0528	
+TPO	
+BCRP1	
+HCCR-1	
+G protein pathway suppressor 2 pseudogene	
+adenylate kinase isoenzyme 6-like	
+CDH7	
+BRWD2	
+TLX	
+OR3A5P	
+OR19-8	
+M-ABC1	
+MPP6	
+tripartite motif containing 60 pseudogene	
+STSL	
+BRF1	
+P450C2A	
+CD16	
+ubiquitin specific peptidase 8 pseudogene	1
+GPD	
+DRB1	
+proteasome (prosome, macropain) 26S subunit, ATPase, 2 pseudogene	
+PASK	
+ERVV-2	
+WT2	
+COD3	
+DNM1DN10@	
+MLL2	
+SMRP	
+TC4	
+MET	
+PDZ and LIM domain 1 pseudogene	
+ribosomal protein L24 pseudogene	
+SAP190	
+ZNF322	
+VR1	
+FBL5	
+FPRH1	
+TCRAV13S1	
+USP31	
+programmed cell death 2 pseudogene	
+EEG1	
+RIS1	
+ASB	
+CL2	
+core 1 synthase, glycoprotein-N-acetylgalactosamine 3-beta-galactosyltransferase, 1 pseudogene	
+SMIT2	
+protein shisa-5-like	
+AD2	
+FZD3	
+KIAA0040	
+cell division cycle 42 (GTP binding protein, 25kDa) pseudogene	
+AK6	
+ST7	
+HTT	
+DRG-1	
+CAPC	
+DGCR	
+RMP	
+KLHL6	
+KIAA1045	
+KIAA1107	
+TCRAV12S1	
+PRKC, apoptosis, WT1, regulator pseudogene	
+putative uncharacterized protein FLJ44672-like	
+APM1	
+DMC1	
+GS1	
+HPC2	
+EDHB17	
+MCP	
+putative speedy protein-like protein 2-like	
+TDGF1	
+CLK2	
+CLIM1	
+NADH dehydrogenase subunit 1	
+MLM	
+IAN6	
+PRKAR2	
+PAI	
+RBP5	
+MMP23A	
+olfactory receptor, family 5, subfamily R, member 1 pseudogene	
+RNF21	
+ADP-ribosylation factor-like protein 17-like	
+ABP-280	
+HK2	
+LAMA3	
+INT6	
+melanoma antigen family A, 11 pseudogene	
+MRP-L18	
+UPP	
+SAG	
+H3	
+CMT2A	
+LON peptidase N-terminal domain and ring finger 2 pseudogene	
+HSD3B	
+87U6	
+UBL6	
+OSCP	
+YMR292W	
+WW domain binding protein 1 pseudogene	
+TRK	
+EXOC1	
+MPP11	
+ZNF474	
+MADH7	
+transmembrane protein 183A pseudogene	
+KIAA1704	
+Obg-like ATPase 1 pseudogene	
+VPH1	
+DNF15S2	
+KIAA0284	
+CAP1A	
+GLUT8	
+IGHV4-3	
+TTTY9	
+MS4A2	
+trnS	
+RHC	
+HBH	
+CTSO1	
+MUC5	
+TFIIIB90	
+BP75	
+P105	
+PRR4	
+PUM	
+PMI	
+UBC7	
+BCOX	
+SNO	
+trnC	
+ribosomal protein L15 pseudogene	
+HPIP	
+MDK	
+HOX4E	
+ATF1	
+DFNB74	
+BSP1	
+NMI	
+AFD1	
+trnE	
+SIGLECP2	
+thioredoxin-related transmembrane protein 1 pseudogene	
+FE	
+ZNF230	
+cell division cycle associated 7 pseudogene	
+FOXD4L2	
+OA2	
+USP16	
+SPG18	
+CN1	
+MRP8	
+NANOGP6	
+CEA	
+OI4	
+nucleolar and coiled-body phosphoprotein 1 pseudogene	
+GCD	
+insulin-like growth factor 2 mRNA binding protein 3 pseudogene	
+CP11	
+KRT6C	
+HDMX	
+TNFRSF11B	
+KIAA0125	
+CRT	
+NEU1	
+ALF	
+GRTH	
+CINAP	
+ribosomal protein L39 pseudogene	
+HBAB	
+ribosomal protein L5 pseudogene	
+ARC34	
+ESA	
+XAP4	
+PGK2	
+KAR	
+TCS1	
+MYZAP	
+CED12	
+MCSP	
+GLUR2	
+ALP	
+succinate-CoA ligase, ADP-forming, beta subunit pseudogene	1
+CD1A	
+LIN10	
+HES1	
+SOSS-B2	
+VAT1	
+BRIP1	
+FANCD	
+DAR	
+EPF5	
+IBD1	
+PI7	
+DSP	
+CYP2B	
+RAB1A, member RAS oncogene family pseudogene	
+KIAA1109	
+AT1	
+ret finger protein-like 4A pseudogene	
+CEP4	
+D-X	
+melanoma antigen family B, 18 pseudogene	
+SPC3	
+GPRK7	
+S100A14	
+HAP	
+AAA	
+NSL1	
+CTP9	
+SA	
+12S rRNA	
+H1 histone family, member O, oocyte-specific pseudogene	
+ribosomal protein L38 pseudogene	
+transmembrane protein 191B-like	
+PDIR	
+APS	
+LQT5	
+GCCD3	
+NP	
+PS2	
+RD	
+MED1	
+PMP22	
+POTE ankyrin domain family member B-like	
+CAPS	
+NT5	
+HCA2	
+ASP1	
+KIAA1586 pseudogene	
+BCAM	
+SHSF3	
+RASA1	
+KIAA1551	
+LGALS2	
+ABP	
+40969.0	
+MIFR-1	
+GCP3	
+OSM	
+BEDP	
+putative uncharacterized protein FLJ46235-like	
+CIT	
+ATDC	
+ATP8	
+KIAA1467	
+suppressor of cytokine signaling 5 pseudogene	
+NIP1	
+RGS2	
+TCRGC2	
+P78	
+ILPR	
+TRAC1	
+ATFB1	
+SFN	
+PAPA	
+F5F8D	
+zinc finger CCHC-type and RNA binding motif 1 pseudogene	
+GEF	
+ribulose-5-phosphate-3-epimerase pseudogene	
+SIGLECP1	
+SDS	
+U3	
+KIAA0586	
+TCRAV21S1	
+MRG	
+EMT	
+SLC23A1	
+CFEOM3A	
+KRTAP5-6	
+LIPH	
+MLCK	
+keratin 8 pseudogene	
+DBC1	
+CXDELq22.3	
+PFHB1B	
+LYS2	
+KIAA1967	
+HBD	
+RPL7AP3	
+ISGF-3	
+HS1	
+FPS	
+IPS	
+olfactory receptor, family 8, subfamily H, member 3 pseudogene	
+histone cluster 2, H3d pseudogene	
+C16DELp11.2	
+APOL3	
+L1	
+DRS	
+P11	
+ILERS	
+ALC1	
+ADAM metallopeptidase with thrombospondin type 1 motif, 7 pseudogene	
+PRP4	
+C18orf49	
+NPH3	
+L21	
+PERP, TP53 apoptosis effector pseudogene	
+WR	
+Ig heavy chain V-III region VH26-like	
+pleckstrin homology domain containing, family B (evectins) member 2 pseudogene	
+K12	
+TRP3	
+SAA4	
+GCS	
+ISWI	
+P14	
+SCA8	
+NEU	
+LACS2	
+CCNL1	
+OBTP	
+DCP1	
+TRY4	
+DVL1L1	
+SPK	
+v-ral simian leukemia viral oncogene homolog A (ras related) pseudogene	
+CABP1	
+ribosomal protein SA pseudogene	
+SIN	
+olfactory receptor, family 5, subfamily P, member 3 pseudogene	
+HGF	
+DNM1DN14@	
+RNF3	
+PISD	
+ankyrin repeat domain 33B pseudogene	
+stress-induced-phosphoprotein 1 pseudogene	
+ALURBP	
+SCAR2	
+zinc finger, CCHC domain containing 9 pseudogene	
+CART1	
+metadherin pseudogene	
+MS2	
+TCRBV2S1	
+GLP1	
+VMA6	
+APPL2	
+CCBP2	
+ETM2	
+C9orf35	
+P29	
+PSD	
+FRA	
+KIAA1875	
+KIAA1143	
+PAFAH	
+putative uncharacterized protein FLJ46348-like	1
+PBI	
+SSS1	
+OPLL	
+CGB7	
+ADPRTL2	
+mitofusin-1-like	
+RPL29P3	
+CCL	
+RNR2	
+ESG	
+TPP1	
+IGHER	
+TUBB1	
+SCKL2	
+putative uncharacterized protein encoded by LINC00174-like	
+TDO	
+CG1	
+UNR	
+CHE1	
+DLC1	
+LOXL	
+SAX2	
+TCF-1	
+PL	
+ZYG11	
+J3	
+protein LLP homolog	
+PUMAG	
+peroxiredoxin 6 pseudogene	
+GCAP	
+TMS-1	
+PTPU2	
+TTTY6	
+trnQ	
+ribonucleotide reductase M2 pseudogene	
+ERG3	
+DnaJ (Hsp40) homolog, subfamily C, member 7 pseudogene	
+DP3	
+HNK1ST	
+DRP-1	
+PRG1	
+TIC	
+SMN	
+ARP6	
+NAP1L	
+RP7	
+actin, beta pseudogene	
+CLK-1	
+S14	
+LGCR	
+KAL	
+DUSP1	
+CLMF	
+C11orf2	
+NABC1	
+MTC	
+RBP2	
+tenascin XB pseudogene	
+transforming, acidic coiled-coil containing protein 3 pseudogene	
+UPF0627 protein ENSP00000358171-like	
+SAS	
+KIAA1161	
+CTLA1	
+KIAA1217	
+QPC	
+HN1	
+HSJ2	
+ADAMTS-4	
+CDH24	
+RAR2	
+BED	
+ATP6C	
+p120	
+ribosomal protein L37 pseudogene	
+RAD52 motif 1 pseudogene	
+TCRAV1S1	
+ERK3	
+NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 5, 13kDa pseudogene	
+HET	
+HSP70-2	
+putative uncharacterized protein FLJ45355-like	
+olfactory receptor, family 52, subfamily E, member 4 pseudogene	
+CIR	
+HP1	
+UBX domain protein 2A pseudogene	
+DFNA2	
+CD25	
+Ewing sarcoma breakpoint region 1 pseudogene	
+PRSS1	
+ANT1	
+chaperonin containing TCP1, subunit 5 (epsilon) pseudogene 2	
+C7	
+GNT1	
+family with sequence similarity 71, member A pseudogene	
+NANOGP2	
+HB1	
+MOSP	
+PSGGA	
+HSPCA	
+MER5	
+bHLHe42	
+UDPGT	
+GH	
+SPT3	
+CSA	
+HOX1	1
+SHEP11	
+RK	
+coiled-coil domain containing 90B pseudogene	
+zinc finger FYVE domain-containing protein 9-like	
+U82	
+SPANX-C	
+ankyrin repeat domain 49 pseudogene	
+GID2	
+DEFB109	
+PWCR	
+MCT7	
+ACLS	
+family with sequence similarity 35, member A pseudogene	
+IP	
+golgin subfamily A member 6-like protein 1-like	
+SFPQ	
+DIP1	
+FEZ1	
+PGDH	
+CT11.1	
+SMAP	
+FOP	
+AK3L1	
+ARP2	
+LILRA6	
+MGAT2	
+NADH dehydrogenase (ubiquinone) complex I, assembly factor 2 pseudogene	
+LAG1	
+SPG	
+CT1	
+EBF3	
+SCA2	
+KIAA1671	
+MAP/microtubule affinity-regulating kinase 2 pseudogene	
+ANGPTL2	
+MRPL32	
+zona pellucida glycoprotein 3 (sperm receptor) pseudogene	
+PI3K	
+P2	
+RAY	
+OR912-108	
+DA2B	
+double homeobox protein 4-like	1
+lysosomal-associated membrane protein 1 pseudogene	
+ATP5A	
+NIDDM1	
+LAMB2	
+TDE2	
+MRP-L14	
+ZBP1	
+EA1	
+speckle-type POZ protein-like pseudogene	
+chondroitin sulfate proteoglycan 4 pseudogene	
+FHL1	
+olfactory receptor, family 4, subfamily A, member 5 pseudogene	
+tropomyosin 1 (alpha) pseudogene	
+USP12	
+KIAA1024	
+tRNA nucleotidyl transferase, CCA-adding, 1 pseudogene	
+DRP2	
+transmembrane protein 98 pseudogene	
+ACBP	
+CMT4E	
+olfactory receptor, family 7, subfamily E, member 24 pseudogene	1
+histone deacetylase 1 pseudogene	
+KLF14	
+NDPP1	
+PED	
+PC3	
+NEM2	
+SAA2	
+COD1	
+HSP27	
+apolipoprotein A-I binding protein pseudogene	
+PCN	
+RBM1	
+PCDH2	
+LAMP	
+KIAA0232	
+LST-1	
+RS	
+SK1	
+MRF1	
+EK	
+PDC	
+ALDR1	
+NCL	
+DA4	
+glutathione S-transferase theta-4-like	
+heterogeneous nuclear ribonucleoprotein R pseudogene	
+PRX1	
+WD repeat domain 4 pseudogene	
+zinc finger protein 717-like	
+polymerase	
+GLK	
+RALBP1	
+uracil-DNA glycosylase pseudogene	
+tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein, beta polypeptide pseudogene	
+fermitin family member 3 pseudogene	
+ST1A3/ST1A4	
+MSP	
+MBD3	
+family with sequence similarity 133, member A pseudogene	
+PFM1	
+MPP2	
+HRG4	
+PIN1	
+PSCTK2	
+DSC1	
+AGP1	
+SUT2	
+SSB1	
+olfactory receptor, family 52, subfamily N, member 2 pseudogene	
+PN1	
+5-azacytidine induced 2 pseudogene	
+LD	
+CNR1	
+FIR	
+PPR1	
+OCT3	
+G17	
+CLA1	
+SI	
+PGII	
+NAT5	
+HGPS	
+PAD1	
+SPO	
+beta-1,3-N-acetylgalactosaminyltransferase 1 (globoside blood group) pseudogene	
+FK506 binding protein 6, 36kDa pseudogene	
+GK2	
+PPK	
+TEBP	
+KIAA1524	
+AN	
+TAF	
+MMP25	
+LEP7	
+l-rRNA	
+MOB family member 4, phocein pseudogene	
+BEN domain containing 3 pseudogene	
+L11	
+STK22D	
+ME2	
+speedy homolog E1 (Xenopus laevis) pseudogene	
+CLEC2B	
+CHSY2	
+WMS	
+p45	
+DnaJ (Hsp40) homolog, subfamily C, member 17 pseudogene	
+RPS17L	
+OR4F18	
+RNH1	
+DAGK5	
+FGQTL2	
+OAZ	
+LMO4	
+CXorf49B	
+T-complex protein 11 homolog	
+MTTK	
+MPI	
+DM2	
+TRX2	
+TDPX2	
+CRD	
+KRTAP5-8	
+OCM	
+leucine rich repeat containing 59 pseudogene	
+hydroxysteroid (17-beta) dehydrogenase 12 pseudogene	
+HRCA1	
+MIP1	
+CAP2	
+ADPN	
+TAF11 RNA polymerase II, TATA box binding protein (TBP)-associated factor, 28kDa pseudogene	
+CDH3	
+L13A	
+DnaJ (Hsp40) homolog, subfamily B, member 7 pseudogene	
+MAS-related GPR, member X2 pseudogene	
+p24	
+MSPS	
+HACL1	
+eukaryotic translation elongation factor 1 alpha 2 pseudogene	
+CLDN21	
+CT72	
+PRAF1	
+KOX5	
+olfactory receptor, family 2, subfamily S, member 2 pseudogene	
+IGFR2	
+CELL	
+ST3	
+HNPCC	
+SAE2	
+PMF1	
+taste receptor, type 2, member 7 pseudogene	
+NBS	
+heterogeneous nuclear ribonucleoprotein D-like pseudogene	
+CTAGE4	
+TCRAV32S1	
+SCL	
+solute carrier family 19, member 3 pseudogene	
+SCHAD	
+NADH dehydrogenase subunit 2	
+CYP2B7	
+trnT	
+SM25H2	
+PLA2	
+OAT1	
+AMY	
+HMAT1	
+Ig heavy chain V region 102-like	
+KRTAP5-2	
+signal peptidase complex subunit 2 homolog (S. cerevisiae) pseudogene	
+ORC1	
+COD4	
+CHP1	
+NSE1	
+chromosome 2 open reading frame 27A pseudogene	
+MAT1	
+PABP4	
+DBP	
+AIB3	
+transportin 3 pseudogene	
+HCC	
+SEN2	
+PAO	
+CPX	
+TRAP2	
+JTK5	
+KIAA1328	
+CYP3	
+NOS1	
+related RAS viral (r-ras) oncogene homolog 2 pseudogene	
+BRMS1	
+clathrin, light chain A pseudogene	
+chromosome 11 open reading frame 58 pseudogene	
+SMP1	
+LILRB3	
+PDI	
+p27	
+ribosomal protein L6 pseudogene	
+MGL	
+ATP synthase F0 subunit 8	
+CHS1	
+SD	
+DD	
+MADD	
+GIG1	
+Sjogren syndrome antigen B (autoantigen La) pseudogene	
+PEN	
+OR11-12	
+HMSNP	
+PCN3	
+TNRC14	
+GIG18	
+COAS-2	
+KIAA0226	
+CCTB	
+NEPPK	
+TDGF2	
+olfactory receptor 7E24-like	
+DRP1	
+ectonucleotide pyrophosphatase/phosphodiesterase family member 7-like	
+AZI2	
+IRAP	
+Gal-NAc6S	
+EEF1B	
+CILD2	
+TRAC	
+ACSM2	
+ARAT	
+HSD2	
+nuclear transport factor 2 pseudogene	
+MRP7	
+TEC	
+ZNT8	
+DUSP27	
+PPS	
+heat shock protein 90kDa alpha (cytosolic), class B member 1 pseudogene	
+KIP1	
+PYPAF7	
+LEU2	
+PTX1	
+SH3BGR	
+CAPS1	
+male-specific lethal 3 homolog (Drosophila) pseudogene	
+KLC2	
+seven transmembrane helix receptor	
+SP3	
+DUSP26	
+FGF2	
+TFIIA	
+TUBB5	
+cytokine receptor-like factor 3 pseudogene	
+DIP	
+SCN1	
+OR912-109	
+thymopoietin pseudogene	1
+upstream binding transcription factor, RNA polymerase I pseudogene	
+SMG	
+POLH	
+ROR2	
+TCRAV30S1	
+DLG4	
+Rho GTPase activating protein 20 pseudogene	
+ANCR	
+dead end protein homolog 1-like	
+K7	
+NKR	
+VARS2	
+FGFR6	
+FABP5	
+CAT1	
+IQ motif and Sec7 domain 3 pseudogene	
+single stranded DNA binding protein 3 pseudogene	
+ASIP	
+dynein, light chain, LC8-type 1 pseudogene	
+SMS	
+DDX11L1	
+TCRAV28S1	
+PTEN2	
+PAG	
+KS	
+chromosome 2 open reading frame 27B pseudogene	
+TCF3	
+RCP	
+PST	
+PACT	
+LD78BETA	
+CAV	
+HSF2L	
+U62	
+TTF-1	
+CRN	
+ROC2	
+KIAA1239	
+LIP1	
+replication protein A3, 14kDa pseudogene	
+HLP3	
+AIP1	
+REG-III	
+RBMY1C	
+GCPIII	
+CNC	
+TEP1	
+smk1	
+DYX1	
+Spi-C transcription factor (Spi-1/PU.1 related) pseudogene	
+N-ethylmaleimide-sensitive factor pseudogene	
+PLAC8	
+MRX	
+PCP	
+SEF	
+H3.1	
+HH	
+tigger transposable element derived 2 pseudogene	
+TRB2	
+HU-1	
+L17	
+FBI1	
+KIAA2022	
+CPX2	
+MUC3	
+BP4	
+etoposide induced 2.4 mRNA pseudogene	
+DEF3	
+Tyr-tRNA	
+cutaneous T-cell lymphoma-associated antigen 1 pseudogene	
+DESI1	
+MAGEE1	
+CNG4	
+D14S1460	
+KIAA1210	
+G13	
+MMP20	
+GNPI	
+OR17-25	
+TTP	
+KIAA0930	
+NRXN4	
+zinc finger protein 519 pseudogene	
+putative TAF11-like protein ENSP00000332601-like	
+BPAD	
+ART1	
+IFN-alpha-REC	
+CAB	
+NUP358	
+Z18	
+mitochondrial translational release factor 1-like pseudogene	
+HIG1	
+B5	
+ECD	
+TAP	
+CBF-A	
+SOLO	
+D1	
+HAI	
+EMC19	
+RNASE4	
+ABL	
+HGRG8	
+NAF1	
+heterogeneous nuclear ribonucleoprotein A1-like	
+FHL3	
+CLP	
+PhLP	
+DHP	
+HK4	
+COT	
+EDM4	
+NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 3, 9kDa pseudogene	
+PP2Calpha	
+thyroid hormone receptor interactor 11 pseudogene	
+ADRA1	
+bHLHe38	
+MRPS35	
+ret finger protein-like 4A-like	
+p25	
+zinc finger protein 57 pseudogene	
+trnI	
+TNDM1	
+KIAA1199	
+KIAA1755	
+RECQL2	
+CIP1	
+HL-2	
+EIF1A	
+TRBP	
+GTK	
+XCE	
+PAS-2	
+BB1	
+actin, gamma 1 pseudogene	1
+ILWEQ	
+SNRPD1	
+TRIM49L2	
+RIP2	
+MIR-129b	
+STAP1	
+DSC3	
+putative POM121-like protein 1-like	1
+translocase of outer mitochondrial membrane 5 homolog (yeast) pseudogene	
+RIM	
+ZNF576	
+TEF3	
+CXorf52	
+heat shock 10kDa protein 1 (chaperonin 10) pseudogene	1
+LP	
+LAD	
+KIAA1279	
+TLP	
+MADM	
+NAPB	
+adaptor-related protein complex 3, sigma 1 subunit pseudogene	
+PPOX	
+HSPCAL1	
+IFNA13	
+Rho GTPase activating protein 27 pseudogene	
+SPMD	
+LMN2	
+HDMCP	
+CT47	
+CRP	
+RAB5C, member RAS oncogene family pseudogene	
+ABP1	
+ring finger protein 14 pseudogene	
+TRNP1	
+S2	
+KIAA1430	
+HHM	
+TP2	
+NG2-6	
+PTPRO	
+PIM1	
+PKR2	
+FAM25A	
+angiogenic factor with G patch and FHA domains 1 pseudogene	
+TDH	
+KAT	
+RNA binding motif protein 17 pseudogene	
+ATP6G	
+transmembrane protein 69 pseudogene	
+ALDH4	
+FKSG49	
+IMP2	
+FAM25B	
+non-SMC element 4 homolog A (S. cerevisiae) pseudogene	
+HEP	
+LIG2	
+eukaryotic translation initiation factor 4E binding protein 2 pseudogene	
+family with sequence similarity 18, member B pseudogene	
+FRA10A	
+Gx	
+KIAA1586	
+BART	
+WD	
+P8	
+PBG1	
+HPS	
+FAM10A4	
+putative golgin subfamily A member 6-like protein 6-like	
+CPD	
+ARP8	
+WDR11	
+olfactory receptor, family 5, subfamily J, member 2 pseudogene	
+SPAP1	
+RBMXP1	
+ubiquilin 1 pseudogene	1
+LRP10	
+FSHD region gene 2-like	
+tripartite motif-containing 75 pseudogene	
+SRC2	
+OR19-5	
+NKIR	
+chromosome 7 open reading frame 73 pseudogene	
+RAB42	
+CR	
+60S ribosomal protein L23a-like	
+FIG	
+TTY6	
+DYT14	
+NAPA	
+DSS	
+FAM25C	
+AG3	
+PLGP1	
+TRAC-1	
+CABP	
+PN-II	
+nucleolar complex associated 2 homolog (S. cerevisiae) pseudogene	
+NET1	
+PM5	
+NRF1	
+EAP1	
+CED	
+PAK2	
+APC	
+NOL1	
+neugrin, neurite outgrowth associated pseudogene	
+ribosomal protein L4 pseudogene	
+Rheumatoid arthritis QTL 01	
+GP180	
+KAP	
+SFTP1	
+olfactory receptor, family 8, subfamily K, member 5 pseudogene	
+F3	
+RRP1	
+PRDX6	
+DYZ1 repeat sequence	2
+SCAP	
+RING5	
+PAR2	
+ZNF5	
+nuclear import 7 homolog (S. cerevisiae) pseudogene	
+TAAR2	
+TRNE	
+BOLA2	
+killer cell immunoglobulin-like receptor 3DL1-like	
+slowmo homolog 2 (Drosophila) pseudogene	
+PAR-1	
+MYO1C	
+AE01	
+FAM25G	
+GRAM domain containing 4 pseudogene	
+P39	
+ralA binding protein 1 pseudogene	
+GCP-1	
+L5	
+BD-4	
+MEG1	
+GLUT10	
+TRY3	
+CHP	
+TBL1	
+NCAM2	
+OR17-2	
+UCRP	
+APP1	
+KMT2B	
+ubiquitin-conjugating enzyme E2 variant 1-like	
+DnaJ (Hsp40) homolog, subfamily C, member 8 pseudogene	
+KIAA0922	
+poly(rC) binding protein 1 pseudogene	
