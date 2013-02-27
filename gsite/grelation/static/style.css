@@ -1,0 +1,16 @@
+* {margin:0; padding:0}
+html, body {font-family: Arial;font-size:14px;line-height:20px;color:#000;height:100%}
+.main{width:960px;margin:0 auto -25px;display:block;overflow:hidden;min-height:100%;height:auto;height:100%;}
+.header{height:130px}
+.unilogo{float:left;width:300px;margin-right:30px}
+.unilogo img{width:300px;height:100px}
+.binflogo{float:right;}
+.binflogo img{width:630px}
+.mainmenu{background:#ededed;overflow:hidden}
+.mainmenu ul{margin:0;padding:0;list-style:none}
+.mainmenu ul li{float:left;border-right:1px solid #ddd}
+.mainmenu ul li a{display:block;color:#000;padding:10px 20px;text-decoration:none}
+.mainmenu ul li a:hover{background:#fff}
+.maincontent{overflow:hidden;margin-top:10px}
+.push{height:25px}
+.footer{width:960px;background:#2A3C83;color:#fff;height:25px; margin:0 auto;position:relative;clear:both;text-align:center}

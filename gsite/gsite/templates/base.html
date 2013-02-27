@@ -1,0 +1,38 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Strict//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+	<head>
+		<title> {% block title %}G-Express{% endblock %}</title>
+		<link rel="stylesheet" type="text/css" href={{ STATIC_URL }}style.css />
+		{% block extra_head %}{% endblock %}		
+	</head>
+	<body>
+		<div class="main">
+			<div class="header">
+				<div class="unilogo">
+					<img src={{ STATIC_URL }}images/UM_brand_alt.jpg />
+				</div>
+				<div class="binflogo">
+					<img src={{ STATIC_URL }}images/bioinformatics_brand.jpg />
+				</div>
+			</div>
+			<div class="mainmenu">
+				<ul>
+					<li><a href="">Home</a></li>
+					<li><a href="">About</a></li>
+					<li><a href="">Contact</a></li>
+					<li><a href="">Others</a></li>
+				</ul>
+			</div>
+			<div class="maincontent">{% block main_content %}{% endblock %}</div>
+			<div class="push"></div>
+		</div>
+		<div class="footer">&copy; Bioinformatics Program, University of Memphis</div>
+	</body>
+</html>
+
+<!-- 		<ul>
+			<li><a href="{% url gr_home %}">Home</a></li>
+		</ul>
+		<h1>css check</h1>
+		<img src={{ STATIC_URL }}1.gif />
+		{% block extra_body %}{% endblock %} -->

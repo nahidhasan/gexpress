@@ -1,4 +1,6 @@
 from grelation.models import Gene
+from django.shortcuts import render_to_response
+from django.template import RequestContext
 
 def load_gene(file_path_index, file_path_duplicate):
 	#this loads genes from 'gene_index.txt' and 'only_duplicate_complete_list.txt' file
@@ -35,3 +37,13 @@ def load_gene(file_path_index, file_path_duplicate):
 					#print 'oops! id:', str(geneid), ' name:', genelist[i], ' can not be saved'
 
 	print 'Loading Data Completed'
+	
+	
+
+def home(request):
+	context = {}
+	return render_to_response(
+		'grln/home.html',
+		context,
+		context_instance = RequestContext(request),
+		)
