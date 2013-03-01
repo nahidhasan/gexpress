@@ -2,6 +2,7 @@ from grelation.models import Gene
 from django.shortcuts import render_to_response, render
 from django.template import RequestContext
 from django.http import HttpResponse
+import pdb
 
 def load_gene(file_path_index, file_path_duplicate):
 	#this loads genes from 'gene_index.txt' and 'only_duplicate_complete_list.txt' file
@@ -40,8 +41,21 @@ def load_gene(file_path_index, file_path_duplicate):
 	print 'Loading Data Completed'
 	
 def queryAnalyzer(query):
-	temp = Gene.objects.filter(name__icontains = query)
-	return temp
+	print 'here'
+	if '+' in query:
+		print query
+		single_query_list = query.split('+')
+		queryset_list = []
+		for i in single_query_list:
+			set = Gene.objects.filter(name=i)
+			queryset_list.append(set)
+		p = queryset_list[1].values_list('gid','name')[0][1]
+		print p
+		print type(p)
+		return queryset_list
+	else:
+		temp = Gene.objects.filter(name__icontains = query)
+		return temp
 
 def home(request):
 
@@ -51,9 +65,12 @@ def home(request):
 		)
 		
 def search(request):
+	
 	if 'q' in request.GET and request.GET['q']:
 		search_query = request.GET['q']
 		ids = queryAnalyzer(search_query)
+		# print ids
+		# pdb.set_trace()
 		message = 'You searched for: %r' %request.GET['q']
 	else:
 		message = 'You submitted an empty form.'

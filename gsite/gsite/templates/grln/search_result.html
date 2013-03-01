@@ -1,3 +1,4 @@
+
 {% extends "base.html" %}
 
 {% block title %}{{ block.super }}-Result{% endblock %}
@@ -6,7 +7,9 @@
 	{% if gene_id %}
 		<ul>
 			{% for id in gene_id %}
-				<li>ID:{{id.gid}}  Name:{{id.name}}</li>
+				{% for p in id %}
+					<li>ID:{{p.gid}}  Name:{{p.name}}</li>
+				{% endfor %}
 			{% endfor %}
 		</ul>
 	{% else %}
