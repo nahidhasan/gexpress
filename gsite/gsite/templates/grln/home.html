@@ -1,6 +1,11 @@
 {% extends "base.html" %}
 
-{% block title %} Home - {{ block.super }} {% endblock %}
+{% block title %}{{ block.super }}-Home{% endblock %}
 {% block main_content %}
-	you are at home.
+	<div class="ui-widget">
+		<form id="searchbox" action="/grelation/search/" method="get">
+			<input id="search" type="text" placeholder="Type here" name="q">
+			<input id="submit" type="submit" value="Search">
+		</form>
+	</div>
 {% endblock %}

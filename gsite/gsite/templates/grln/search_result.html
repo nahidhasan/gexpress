@@ -1,0 +1,15 @@
+{% extends "base.html" %}
+
+{% block title %}{{ block.super }}-Result{% endblock %}
+{% block main_content %}
+	<p>You searched for: <strong>{{ query }}</strong></p>
+	{% if gene_id %}
+		<ul>
+			{% for id in gene_id %}
+				<li>ID:{{id.gid}}  Name:{{id.name}}</li>
+			{% endfor %}
+		</ul>
+	{% else %}
+		<p>No gene matched your search criteria.</p>
+	{% endif %}
+{% endblock %}
