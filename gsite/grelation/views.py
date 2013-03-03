@@ -2,6 +2,10 @@ from grelation.models import Gene
 from django.shortcuts import render_to_response, render
 from django.template import RequestContext
 from django.http import HttpResponse
+from django.core.files.storage import FileSystemStorage
+from django.conf import settings
+from django.core.files import File
+import os
 import pdb
 
 def load_gene(file_path_index, file_path_duplicate):
@@ -40,6 +44,11 @@ def load_gene(file_path_index, file_path_duplicate):
 
 	print 'Loading Data Completed'
 	
+def fileManager():
+	base = os.path.normpath(os.path.join(settings.PROJECT_DIR,'..'))
+	fs = FileSystemStorage(location = os.path.join(base,'data/'))
+	print fs.location
+	
 def queryAnalyzer(query):
 	print 'here'
 	if '+' in query:
@@ -49,10 +58,38 @@ def queryAnalyzer(query):
 		for i in single_query_list:
 			set = Gene.objects.filter(name=i)
 			queryset_list.append(set)
-		p = queryset_list[1].values_list('gid','name')[0][1]
+		
+		id_list = []
+		file_list = []
+		for i in range(0,len(queryset_list)):
+			id_list.append(queryset_list[i].values_list('gid','name')[0][0])
+		print id_list
+		id_list.sort()
+		print id_list
+		i = 0
+		j = 0
+		for i in range(0,len(id_list)-1):
+			for j in range(i+1,len(id_list)):
+				file_list.append(str(id_list[i])+'&&'+str(id_list[j]))
+		
+		print file_list
+		
+		base = os.path.normpath(os.path.join(settings.PROJECT_DIR,'..'))
+		
+		file_contents = []
+		for item in file_list:
+			f = open(base+'/data/'+item+'.txt', 'r')
+			myfile = File(f)
+			fdata = myfile.read()
+			file_contents.append(fdata)
+		
+		
+		print file_contents
+			
+		p = queryset_list[1].values_list('gid','name')[0][0]
 		print p
 		print type(p)
-		return queryset_list
+		return file_contents
 	else:
 		temp = Gene.objects.filter(name__icontains = query)
 		return temp
@@ -68,10 +105,11 @@ def search(request):
 	
 	if 'q' in request.GET and request.GET['q']:
 		search_query = request.GET['q']
-		ids = queryAnalyzer(search_query)
+		file_contents = queryAnalyzer(search_query)
 		# print ids
 		# pdb.set_trace()
+		
 		message = 'You searched for: %r' %request.GET['q']
 	else:
 		message = 'You submitted an empty form.'
-	return render_to_response('grln/search_result.html',{'gene_id':ids, 'query':search_query},context_instance = RequestContext(request),)
+	return render_to_response('grln/search_result.html',{'file_list':file_contents, 'query':search_query},context_instance = RequestContext(request),)

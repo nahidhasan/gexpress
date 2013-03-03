@@ -12,6 +12,12 @@
 				{% endfor %}
 			{% endfor %}
 		</ul>
+	{% elif file_list %}
+		<ul>
+			{% for file in file_list %}
+				<li>file {{file}}</li>
+			{% endfor %}
+		</ul>
 	{% else %}
 		<p>No gene matched your search criteria.</p>
 	{% endif %}
