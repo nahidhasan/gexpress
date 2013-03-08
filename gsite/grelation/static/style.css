@@ -1,6 +1,6 @@
 * {margin:0; padding:0}
 html, body {font-family: Junction;font-size:14px;line-height:20px;color:#000;height:100%}
-.main{width:960px;margin:0 auto -25px;display:block;overflow:hidden;min-height:100%;height:auto;height:100%;}
+.main{width:960px;margin:0 auto -25px;display:block;overflow:hidden;min-height:100%;height:auto}
 .header{height:130px}
 .unilogo{float:left;width:300px;margin-right:30px}
 .unilogo img{width:300px;height:100px}

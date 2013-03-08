@@ -4,6 +4,9 @@
 {% block title %}{{ block.super }}-Result{% endblock %}
 {% block main_content %}
 	<p>You searched for: <strong>{{ query }}</strong></p>
+	{% if invalid_q %}
+		<p>Invalid Input: <strong>{{ invalid_q }}</strong></p>
+	{% endif %}
 	{% if gene_id %}
 		<ul>
 			{% for id in gene_id %}
@@ -15,7 +18,21 @@
 	{% elif file_list %}
 		<ul>
 			{% for file in file_list %}
-				<li>file {{file}}</li>
+				{% if file|length > 1 %}	
+					{% for var in file %}
+						{% for var_2 in var %}
+							<p><li>{{var_2}}</li></p>
+						{% endfor %}
+					{% endfor %}
+				{% endif %}
+				{% if file|length < 2 %}
+					{% for var in file %}
+						<p><li><strong>Relation Between: {{var}}</strong></li></p>
+						</br>
+					{% endfor %}
+				{% endif %}
+				</br>
+				</br>
 			{% endfor %}
 		</ul>
 	{% else %}
